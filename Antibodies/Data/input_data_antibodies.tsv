@@ -1,0 +1,1255 @@
+Name	Clone	Marker	Against	Isotype	Company	Cat..	Dilution.for.FACS	Box	Location	Back.up	Storage	Application	Group
+1	CD44 PE	?	PE	Human	?	Miltenyi	130095180		Abs box 3	A3		Fridge	NA	Van Boxtel
+2	CD34 BV421	581	Brilliant Violet 421	Human	mouse IgG2a kappa	BioLegend	343609	1:20	Abs box 2	D2	YES	Fridge	NA	Van Boxtel
+3	MSH3			human	rabbit polyclonal	Abcam	ab69619		Abs freezer box 1	NA		Freezer	WB	Van Boxtel
+4	FCR-Blocker (for MACS)	n.a.	n.a.	Human	n.a	Miltenyi biotec	120-000-816	FACS	Abs box 5	D9		Fridge	NA	Van Boxtel
+5	CD8a BV785	SK1	Brilliant Violet 785	Human	mouse IgG1 kappa	BioLegend	344739		Abs box 1	C5		Fridge	NA	Van Boxtel
+6	CHD-1			Human	rabbit polyclonal	Sigma	HPA022236-25ul	1:500 IF	Abs freezer box 2	NA		Freezer	WB/IF	Van Boxtel
+7	TCR Vd1 FITC	REA173	FITC	Human		Miltenyi	130-118-498		Abs box 4	C4		Fridge	NA	Van Boxtel
+8	CD7 PECy7	MT701	PE/Cy7	Human	Mouse BALB/c IgG1, κ	BD Pharmingen	564019		Abs box 1	C4		Fridge	NA	Van Boxtel
+9	CD56 AF488	B159	AF488	Human	Mouse IgG1, κ	BD Pharmigen	557699		Abs box 3	B5		Fridge	NA	Van Boxtel
+10	CD11c PECy7	B-ly6	PE-Cy7	Human	Mouse BALB/c IgG1, κ	BD Pharmingen	561356		Abs box 1	E2		Fridge	NA	Van Boxtel
+11	Ig kappa light chain PECy7	MHK-49	Pe-Cy7	Human	Mouse IgG1, κ	BioLegend	316520	FACS	Abs box 5	E4		Fridge	NA	Van Boxtel
+12	CD144 BV421	55-7H1	BV421	Human	Mouse IgG1, κ	BD Horizon	565670		Abs box 4	A2		Fridge	NA	Van Boxtel
+13	PageRuler Prestained Protein ladder					Thermo Fisher	26616		Abs freezer box 1	NA		Freezer	WB	Van Boxtel
+14	APOBEC3A			Human	rabbit polyclonal	Sigma	HPA043237-100UL		Abs freezer box 1	NA		Freezer	WB	Van Boxtel
+15	CCRL1 BV786	13E11	Brilliant Violet 786	Human	Mouse BALB/c IgG2b, κ	BD Bioscience	747802		Abs box 4	D1		Fridge	NA	Van Boxtel
+16	CD5 BUV737	UCHT2	BUV737	Human	Mouse BALB/c IgG1, κ	BD Bioscience	564451	1:500	Abs box 1	B9		Fridge	NA	Van Boxtel
+17	CD45RA BV605	HI100	BV605	Human	Mouse IgG2b, kappaa	Biolegend	304133		Abs box 3	B1		Fridge	NA	Van Boxtel
+18	CD205 BV480	MMRI7	BV480	Human	?	BD Bioscience	746830		Abs box 4	A6		Fridge	NA	Van Boxtel
+19	CD11c APC	3.9	APC	Human	mouse IgG1 kappa	Company	301614		Abs box 1	D9		Fridge	NA	Van Boxtel
+20	Geminin	F-7	n.a.	Human	Mouse mAb	Santa Cruz Biotechnology	sc-74456 	WB (?)	Abs box 5	B6		Fridge	NA	Van Boxtel
+21	TCRgd BV421	11FS	BV421	Human	Mouse BALB/c IgG1	BD Bioscience	744870		Abs box 4	C2		Fridge	NA	Van Boxtel
+22	CD34 APC	561	APC	Human	mouse IgG2a kappa	BioLegend	343607		Abs box 2	D1	YES (2x)	Fridge	NA	Van Boxtel
+23	Phospho RPA32 antibody	n.a.	n.a.	Human, Mouse	Rabbit polyclonal	Bethyl	A300-245A-M	WB + IF	Abs box 5	B10		Fridge	NA	Van Boxtel
+24	Streptactin-HRP	n.a.	HRP	Human	n.a.	Bio-Rad	161-0380	WB (1:10000)	Abs box 5	B5		Fridge	NA	Van Boxtel
+25	anti-mouse IgG HRP	n.a.	HRP	Mouse	sheep		NXA931V	WB (1:5000)	Abs box 5	E1		Fridge	NA	Van Boxtel
+26	CD15 (SSEA-1) PE	HI98	PE	Human	Mouse IgM kappa	Biolegend	301905	1:50 (Inge: 1:20)	Abs box 2	A7		Fridge	NA	Van Boxtel
+27	CD117 BV421	YB5.B8	BV421	Human	Mouse IgG1, k 	BD Bioscience	562434	1:50	Abs box 3	D3		Fridge	NA	Van Boxtel
+28	NSB1 (NBN)			Human	rabbit polyclonal	Invitrogen	711701		Abs freezer box 1	NA		Freezer	WB	Van Boxtel
+29	CD56 BB700	NCAM16.2	BB700	Human	Mouse BALB/c IgG2b, κ	BD Bioscience	566574	1:500	Abs box 3	B6	YES	Fridge	NA	Van Boxtel
+30	CD117 BV605	YbB5.B8	BV5605	Human	Mouse IgG1, κ	BD Bioscience	745259		Abs box 3	D4		Fridge	NA	Van Boxtel
+31	CD249 BV650	2D3/APA	BV650	Human	Mouse BALB/c IgG1, κ	BD Bioscience	745361		Abs box 4	A8		Fridge	NA	Van Boxtel
+32	CD34 PE/Dazzle 594	581	PE/Dazzle 594	Human	mouse IgG1 kappa	BioLegend	343533		Abs box 2	D3	YES	Fridge	NA	Van Boxtel
+33	CD4 PE/Cy7	L200	PE-Cy7	Human	Mouse BALB/c IgG1, κ	BD Pharmingen	560644		Abs box 1	B6		Fridge	NA	Van Boxtel
+34	CD33 PE/Cy7	WM53	PE/Cy7	Human	mouse IgG1 kappa	BioLegend	303433	1:20	Abs box 2	C9	YES	Fridge	NA	Van Boxtel
+35	Lineage (CD3/14/19/20/56) APC	n.a.	APC	Human	mouse IgG1 + IgG2b kappa	BioLegend	348803		Abs box 4	B1		Fridge	NA	Van Boxtel
+36	CD14 PE CF594	MphiP9	PE CF594	Human	?	BD Biosciences	562334		Abs box 2	A5		Fridge	NA	Van Boxtel
+37	MSH2	D24B5		Human	rabbit mAb	Cell Signaling Technology	2017S	1:2000	Abs freezer box 1	NA		Freezer	WB	Van Boxtel
+38	CD45 FITC	HI30	FITC	Human	mouse IgG1 kappa	BioLegend	304005	1:50	Abs box 3	A7		Fridge	NA	Van Boxtel
+39	CD14 PE	63D3	PE	Human	mouse IgG1 kappa	BioLegend	367103		Abs box 2	A1	YES	Fridge	NA	Van Boxtel
+40	CCR10 APC	6588-5	APC	Human	Armenian Hamster IgG	BioLegend	341505		Abs box 4	D2		Fridge	NA	Van Boxtel
+41	CD30 PE 	BY88	PE	Human	Mouse IgG1 k	BioLegend	333906		Abs box 2	C7	YES	Fridge	NA	Van Boxtel
+42	p95/NBS1 (Y112)			Human	rabbit monoclonal	Abcam	ab32074		Abs freezer box 1	NA		Freezer	WB	Van Boxtel
+43	CD11b APC	ICRF44	APC	Human	mouse IgG1 kappa	Biolegend	301309		Abs box 1	D7		Fridge	NA	Van Boxtel
+44	SETD3 antibody			Human		Sigma	HPA003591		Abs freezer box 2	NA		Freezer	WB/IF	Van Boxtel
+45	CD90 FITC	5E10	FITC	Human	?	BioLegend	328107		Abs box 3	C6		Fridge	NA	Van Boxtel
+46	TCRab APC	T10B9.1A-31	APC	Human	Mouse IgG1, κ	BD Bioscience	563821		Abs box 4	B7		Fridge	NA	Van Boxtel
+47	CD14 AF700	HCD14	Alexa Fluor 700	Human	mouse IgG1 kappa	BioLegend	325614	1:100	Abs box 2	A2	YES	Fridge	NA	Van Boxtel
+48	CD33 APC	WM53	APC	Human	mouse IgG1 kappa	BioLegend	303407	1:50	Abs box 2	C10	YES	Fridge	NA	Van Boxtel
+49	Ig lambda light chain AF700	MHL-38	AF700	Human	Mouse IgG2a, κ	BioLegend	316631	FACS	Abs box 5	E3		Fridge	NA	Van Boxtel
+50	CD66b FITC	G10F5	FITC	Human	mouse IgM kappa	BioLegend	305103		Abs box 3	C1		Fridge	NA	Van Boxtel
+51	CD5 APC	UCHT2	APC	Human	Mouse IgG1, κ	BioLegend	300611		Abs box 1	B10		Fridge	NA	Van Boxtel
+52	POLH	B-7	n.a.	Human	Mouse mAb IgG1 κ 	Santa Cruz Biotechnology	sc-17770	WB (?)	Abs box 5	C1		Fridge	NA	Van Boxtel
+53	CD25 BB515	2A3	BB515	Human	Mouse BALB/c IgG1, κ	BD Bioscience	564468	1:200	Abs box 2	C3		Fridge	NA	Van Boxtel
+54	CD3 APC/Fire750	SK7	APC/Fire750	Human	mouse IgG1 kappa	BioLegend	344839	1:100	Abs box 1	B1	YES	Fridge	NA	Van Boxtel
+55	CD19 BV711	SJ25C1	BV 711	Human	Mouse BALB/c IgG1, κ	BD Bioscience	563038		Abs box 2	B3		Fridge	NA	Van Boxtel
+56	CD11c BV605	3.9	BV605	Human	mouse IgG1 kappa	Biolegend	301635		Abs box 1	D10		Fridge	NA	Van Boxtel
+57	CD40 BUV563	5C3	BUV563	Human	?	BD Bioscience	741381		Abs box 2	D10		Fridge	NA	Van Boxtel
+58	Claudin-3 PE	n.a.	PE	Human	Mouse IgG2A	R&D systems	FAB4620P	FACS	Abs box 5	D5		Fridge	NA	Van Boxtel
+59	CENPH antibody			Human		Sigma	HPA036494		Abs freezer box 2	NA		Freezer	WB/IF	Van Boxtel
+60	CD43 BV421	1G10	Brillian Violet 421	Human	Mouse IgG1, κ	BD Biosciences	562916		Abs box 3	A1		Fridge	NA	Van Boxtel
+61	FANCD2			Human	rabbit polyclonal	Novus Biologicals	NB100-182SS	1:500	Abs freezer box 1	NA		Freezer	WB/IF	Van Boxtel
+62	CD4 AF700	OKT4	AF700	Human	Mouse IgG2b, κ	Biolegend	317426		Abs box 1	B7		Fridge	NA	Van Boxtel
+63	HLA-DR FITC	L243	FITC	Human	Mouse IgG2a kappa 	Biolegend	307603	1:20	Abs box 4	B4	Yes	Fridge	NA	Van Boxtel
+64	CD25 PerCP-Cy5.5	M-A251	PerCP-Cy5.5	Human	Mouse BALB/c IgG1, κ	BD Pharmigen	560503		Abs box 2	C2		Fridge	NA	Van Boxtel
+65	CD95 PE	DX2	PE	Human	mouse IgG1 kappa	BioLegend	305607	1:50	Abs box 3	C8		Fridge	NA	Van Boxtel
+66	CD205 BUV395	MMR1-7	BUV395	Human	Mouse IgG1, κ	BD Bioscience	744062		Abs box 4	A5		Fridge	NA	Van Boxtel
+67	CD1a BV421	HI149	BV421	Human	Mouse IgG1, k 	Biolegend	300128		Abs box 1	A2		Fridge	NA	Van Boxtel
+68	CDT1	D10F11		Human	rabbit monoclonal	Cell Signaling Technology	8064S	?	Abs freezer box 1	NA		Freezer	WB	Van Boxtel
+69	beta-Actin	RM112	n.a.	Human	rabbit mAb	Merck	MABT523	WB (1:5000)	Abs box 5	B3		Fridge	NA	Van Boxtel
+70	CD8a BV421	RPA-T8	BV421	Human	Mouse IgG1, κ	Biolegend	301036		Abs box 1	C8		Fridge	NA	Van Boxtel
+71	RPA32/RPA2	9H8		Human	mouse monoclonal	Abcam	ab2175		Abs freezer box 2	NA		Freezer	WB/IF	Van Boxtel
+72	PMS1	E-3	n.a.	Human	Mouse mAb	Santa Cruz Biotechnology	sc-515302	WB	Abs box 5	B9		Fridge	NA	Van Boxtel
+73	Zombie NIR Dye					BioLegend	77184		Abs freezer box 1	NA		Freezer	FACS	Van Boxtel
+74	anti-rabbit IgG AF594	n.a.	Alexa Fluor 594	rabbit	goat	invitrogen	2165334	IF	Abs box 5	A5		Fridge	NA	Van Boxtel
+75	CellTrace Violet					Invitrogen	C34571		Abs freezer box 1	NA		Freezer	FACS	Van Boxtel
+76	Ghost Dye Red 780			Mammalian cells		Tonbo biosciences	13-0865	1:2000(see tube)	Abs freezer box 2	NA		Freezer	FACS	Van Boxtel
+77	CD8a APC/Cy7	HIT8a	APC/Cy7	Human	Mouse IgG1, κ	Biolegend	300925		Abs box 1	C10		Fridge	NA	Van Boxtel
+78	NFIA			Human	Rabbit	Sigma	HPA008884-25ul	1:500 IF	Abs freezer box 2	NA		Freezer	WB/IF	Van Boxtel
+79	TCRgd APC	B1	APC	Human	Mouse IgG1, κ	BD Bioscience	561049		Abs box 4	B10	YES	Fridge	NA	Van Boxtel
+80	anti-mouse IgG AF488	n.a.	Alexa Fluor 488	Mouse	Goat / IgG	invitrogen	2220848	IF	Abs box 5	B1		Fridge	NA	Van Boxtel
+81	mouse IgG FITC isotype control		FITC		mouse mAb	Merck	12-487		Abs freezer box 1	NA		Freezer	FACS	Van Boxtel
+82	CD45 APC-R700	HI30	APC-R700	Human	Mouse IgG1, k 	Biolegend	304023	1:2000	Abs box 3	A4		Fridge	NA	Van Boxtel
+83	CD15 AF700	HI98	AF700	Human	Mouse IgM kappa	BioLegend	301919		Abs box 2	A9		Fridge	NA	Van Boxtel
+84	CD15 (SSEA-1) FITC	HI98	FITC	Human	mouse IgM kappa	BioLegend	301903		Abs box 2	A6	YES	Fridge	NA	Van Boxtel
+85	CD5 PE	UCHT2	PE	Human	Mouse IgG1, κ 	BioLegend	300608		Abs box 1	C1		Fridge	NA	Van Boxtel
+86	CD40 AF700	5C3	Alexa Fluor 700	Human	mouse IgG1 kappa	BioLegend	334327	1:50	Abs box 2	D7		Fridge	NA	Van Boxtel
+87	anti-rabbit IgG AF647	Poly4064	Alexa Fluor 647	Rabbit	donkey polyclonal	BioLegend	406414	FACS	Abs box 5	A6		Fridge	NA	Van Boxtel
+88	CD123 PE/Cy7	6H6	PE/Cy7	Human	mouse IgG1 kappa	BioLegend	306009		Abs box 3	D8		Fridge	NA	Van Boxtel
+89	CD13 APC	WM15	APC	Human	mouse IgG1 kappa	BioLegend	301705		Abs box 1	E3		Fridge	NA	Van Boxtel
+90	H3K36me2	C75H12		human	rabbit monoclonal	Cell Signaling Technology	2901	1:1000	Abs freezer box 1	NA		Freezer	WB	Van Boxtel
+91	UNG	OTI1A11		Human	mouse IgG1	Invitrogen	MA5-25680	1:2500	Abs freezer box 1	NA		Freezer	WB	Van Boxtel
+92	HLA-DR BUV805	G46-6	BUV805	Human	?	BD Bioscience	568335		Abs box 4	B6		Fridge	NA	Van Boxtel
+93	CD95 APC	DX2	APC	Human	mouse IgG1 kappa	BioLegend	305611		Abs box 3	C7		Fridge	NA	Van Boxtel
+94	aliquot CD13 PerCP/Cy5.5	WM15	PerCP/Cy5.5	Human	Mouse IgG1, κ	BD Biosciences	561361	FACS	Abs box 5	D10		Fridge	NA	Van Boxtel
+95	CD90 APC	5E10	APC	Human	mouse IgG1 kappa	BioLegend	328113	1:200	Abs box 3	C4	YES	Fridge	NA	Van Boxtel
+96	CD16 APC	3G8	APC	Human	mouse IgG1 kappa	BioLegend	302012		Abs box 2	B1		Fridge	NA	Van Boxtel
+97	CD19 APC	HIB19	APC	Human	mouse IgG1 kappa	BioLegend	302211		Abs box 2	B4		Fridge	NA	Van Boxtel
+98	CD8a BV650	RPA-T8	Brilliant Violet 650	Human	Mouse IgG1, κ	BD Bioscience	563821		Abs box 1	C6		Fridge	NA	Van Boxtel
+99	CD117 BUV395	YB5.B8	BUV395	Human	Mouse BALB/c IgG1	BD Bioscience	745740	1:200	Abs box 3	D5		Fridge	NA	Van Boxtel
+100	TCR Vg9 APC/Fire 750	B3	APC Fire750 	Human	Mouse IgG1, κ	BioLegend 	331315		Abs box 4	C6		Fridge	NA	Van Boxtel
+101	CD30 APC	BY88	APC	Human	mouse IgG1 kappa	BioLegend	333909	1:25	Abs box 2	C5		Fridge	NA	Van Boxtel
+102	CD4 PE/Cy7	OKT4	PE/Cy7	Human	Mouse BALB/c IgG1, κ	Biolegend	317413	1:500	Abs box 1	B5	YES	Fridge	NA	Van Boxtel
+103	DAPI 500 uM	n.a.	n.a.	Human	n.a.	Thermo	D3571	All (IF 1:2000, FACS 1:500)	Abs box 5	D7		Fridge	NA	Van Boxtel
+104	Human TruStain FC block	n.a.	n.a.	Human	n.a.	Biolegend	422301	FACS	Abs box 5	A3		Fridge	NA	Van Boxtel
+105	CD2	RPA-2.10	None	Human	Mouse	Biolegend	300202	Interaction blocking	Abs box 5	C2	YES	Fridge	NA	Van Boxtel
+106	CD11b BV785	ICRF44	BV785	Human	Mouse IgG1, κ	Biolegend	301345		Abs box 1	D5		Fridge	NA	Van Boxtel
+107	CD105 PE/Cy7	43A3	PE/Cy7	Human	mouse IgG1 kappa	BioLegend	323217		Abs box 3	C9	YES	Fridge	NA	Van Boxtel
+108	TCR Vg9 APC	B3	APC	Human	Mouse IgG1, κ	Biolegend	331309		Abs box 4	C9		Fridge	NA	Van Boxtel
+109	TCRab PE/Cy5	IP26	PE Cy5	Human	mouse IgG1 kappa	BioLegend	306710		Abs box 4	C8		Fridge	NA	Van Boxtel
+110	CD8a BV711	RPA-T8	Brilliant Violet 711	Human	Mouse IgG1, κ	Biolegend	301043	1:500	Abs box 1	C7	YES	Fridge	NA	Van Boxtel
+111	FANCG			Human	monoclonal	Abnova	H00002189-M01		Abs freezer box 1	NA		Freezer	WB	Van Boxtel
+112	TCRgd APC/Fire 750	B1	APC/Fire 750	Human	Mouse IgG1, κ	BioLegend	331227		Abs box 4	C1		Fridge	NA	Van Boxtel
+113	CD1c APC	L161	APC	Human	mouse IgG1 kappa	Biolegend	331523		Abs box 1	A3		Fridge	NA	Van Boxtel
+114	anti-mouse IgG AF647	n.a.	Alexa Fluor 647	Mouse	goat	Invitrogen	2272554	IF	Abs box 5	B8		Fridge	NA	Van Boxtel
+115	CD34 PE 	561	PE	Human	mouse IgG2a kappa	BioLegend	343605		Abs box 2	D4		Fridge	NA	Van Boxtel
+116	CD54	HCD54	None	Human	Mouse	Biolegend	322702	Interaction blocking	Abs box 5	C3	YES 	Fridge	NA	Van Boxtel
+117	HLA-DR BV605	L243	BV605	Human	Mouse IgG2a kappa 	BioLegend	307639		Abs box 4	B5	Yes	Fridge	NA	Van Boxtel
+118	CD16 PerCP/Cy5.5	3G8	PerCP/Cy5.5	Human	Mouse IgG1, k	BioLegend	302027		Abs box 2	B2		Fridge	NA	Van Boxtel
+119	ATR			Human	rabbit polyclonal	Abcam	ab2905		Abs freezer box 1	NA		Freezer	WB	Van Boxtel
+120	CD11c FITC	3.9	FITC	Human	Mouse IgG1, kappa	BioLegend	301604		Abs box 1	D8	YES	Fridge	NA	Van Boxtel
+121	CD141 APC	M80	APC	Human	Mouse IgG1 k	BioLegend	344105		Abs box 4	A1		Fridge	NA	Van Boxtel
+122	Annexin V/FITC	n.a.	FITC	Human	n.a.	Invitrogen	BMS306F1-100	FACS	Abs box 5	A4		Fridge	NA	Van Boxtel
+123	Precision Plus Protein WesternC standard					Bio-Rad	161-0376		Abs freezer box 1	NA		Freezer	WB	Van Boxtel
+124	CD123 BUV395	7G3	BUV395	Human	Mouse IgG2a, κ	BD Bioscience	564195		Abs box 3	D7		Fridge	NA	Van Boxtel
+125	BLM			Human	rabbit polyclonal	Abcam	ab2179		Abs freezer box 1	NA		Freezer	WB	Van Boxtel
+126	CD90 PECy7	5E10	PE/Cy7	Human	Mouse BALB/c IgG1, κ	BD Pharmingen	561558		Abs box 3	C5	YES	Fridge	NA	Van Boxtel
+127	Cd34 Pe Cy7	581	PE Cy7	Human	?	BD Bioscience	561819		Abs box 2	D5		Fridge	NA	Van Boxtel
+128	HLA-DR BUV737	G46-6	BUV737	Human	Mouse IgG2a, κ	BD Bioscience	748339		Abs box 4	B3		Fridge	NA	Van Boxtel
+129	CD16 FITC	3G8	FITC	Human	mouse IgG1 kappa	BioLegend	302005	1:100	Abs box 2	A10	YES	Fridge	NA	Van Boxtel
+130	FLAG (M2)	M2		Human	mouse monoclonal	Sigma	F1804	1:1000	Abs freezer box 1	NA		Freezer	WB	Van Boxtel
+131	CD8a AF700	HIT8a	AF700	Human	Mouse IgG1, κ	Biolegend	300920		Abs box 1	D1		Fridge	NA	Van Boxtel
+132	CD3 FITC	OKT3	FITC	Human	mouse IgG2a kappa	Biolegend	317306	1:100	Abs box 1	A5		Fridge	NA	Van Boxtel
+133	CD14 BV650	M5E2	Brilliant Violet 650	Human	Mouse IgG2a, κ	BD Bioscience	563419	1:500	Abs box 2	A3		Fridge	NA	Van Boxtel
+134	CD117 PE/Dazzle 594	104D2	PE/Dazzle 594	Human	mouse IgG1 kappa	BioLegend	313225		Abs box 3	C10	YES	Fridge	NA	Van Boxtel
+135	CD4 PerCP/Cy5.5	OKT4	PerCP/Cy5.5	Human	mouse IgG2b kappa	BioLegend	317427		Abs box 1	B4		Fridge	NA	Van Boxtel
+136	TCR Vd1 FITC	TS8.2	FITC	Human	Mouse IgG1	ThermoFisher	TCR2730		Abs box 4	C3		Fridge	NA	Van Boxtel
+137	CD326 (EpCAM) Pe/Cy7	9C4	Pe-Cy7	Human	Mouse IgG2b, κ	Biolegend	324221	FACS	Abs box 5	D3		Fridge	NA	Van Boxtel
+138	TK1	EPR3193		Human	rabbit mAb	Abcam	ab76495	1:10000	Abs freezer box 1	NA		Freezer	WB	Van Boxtel
+139	HA-Tag 	C29F4		Human	rabbit mAb	Cell Signaling Technology	3724S		Abs freezer box 1	NA		Freezer	WB	Van Boxtel
+140	CD15 BV711	W6D3	BV711	Human	?	BD Bioscience	563142		Abs box 2	A8		Fridge	NA	Van Boxtel
+141	MLH3	H-2	n.a.	Human	Mouse mAb	Santa Cruz Biotechnology	sc-25313	WB (?)	Abs box 5	B7		Fridge	NA	Van Boxtel
+142	CD8a FITC	HIT8a	FITC	Human	Mouse IgG1, κ 	BioLegend	300906		Abs box 1	D2		Fridge	NA	Van Boxtel
+143	CD11b APC/Cy7	ICRF44	APC/Cy7	Human	mouse IgG1 kappa	BioLegend	301341		Abs box 1	D6	YES (2x)	Fridge	NA	Van Boxtel
+144	CD64 FITC	10.1	FITC	Human	Mouse IgG1, k	BioLegend	305005		Abs box 3	B9	YES (2x)	Fridge	NA	Van Boxtel
+145	CD3 BV711	UCHT1	Brilliant Violet 711	Human	Mouse IgG1, κ	Biolegend	300463		Abs box 1	A9		Fridge	NA	Van Boxtel
+146	HPRT			Human	rabbit polyclonal	Abcam	ab10479	1:2000	Abs freezer box 1	NA		Freezer	WB	Van Boxtel
+147	CD7 BV786	MT701	Brilliant Violet 786	Human	Mouse BALB/c IgG1, κ	BD Bioscience	740964	1:500	Abs box 1	C3		Fridge	NA	Van Boxtel
+148	CD42b APC Vio770	?	APC Vio770	Human	?	Milteny Biotec	130100202		Abs box 2	E4		Fridge	NA	Van Boxtel
+149	SF3B1	D7L5T		Human	Rabbit mAb	Cell Signaling Technology	14434S	1:1000 WB	Abs freezer box 2	NA		Freezer	WB (+FACS?)	Van Boxtel
+150	RUNX1			Human	rabbit Ab	Cell Signaling Technology	4334S		Abs freezer box 1	NA		Freezer	WB	Van Boxtel
+151	Hoechst 33342	n.a.	n.a.	Human	n.a.	Thermo Fischer 	H3570	IF 	Abs box 5	E5		Fridge	NA	Van Boxtel
+152	Streptavidin BV711	n.a.	Brilliant Violet 711	Human	n.a.	BioLegend	405241	FACS	Abs box 5	D1		Fridge	NA	Van Boxtel
+153	anti-mouse IgG IRDye 680RD	n.a.	IRDye 680CW	Mouse	goat	LI-COR	925-68070	WB (1:10000)	Abs box 5	B2		Fridge	NA	Van Boxtel
+154	MBD4			Human	rabbit polyclonal	Abcam	ab12187		Abs freezer box 1	NA		Freezer	WB	Van Boxtel
+155	CD73 BV421	AD2	Brilliant Violet 421	Human	mouse IgG1 kappa	BioLegend	344007		Abs box 3	C2		Fridge	NA	Van Boxtel
+156	CD127 AF488	HIL-7R-M21	AF488	Human	Mouse IgG1, κ	BD Pharmingen	567403		Abs box 3	E1		Fridge	NA	Van Boxtel
+157	CD8a PE/Cy5	HIT8a	PE Cy5	Human	Mouse IgG1, κ	Biolegend	300909		Abs box 1	C9		Fridge	NA	Van Boxtel
+158	phospho-yH2AX FITC	JBW301	FITC	Human	mouse mAb	Merck	16-202A		Abs freezer box 1	NA		Freezer	FACS	Van Boxtel
+159	7-AAD	n.a.	n.a.	Human	n.a.	Invitrogen	00-6993-50	FACS	Abs box 5	A10	YES	Fridge	NA	Van Boxtel
+160	MGMT	MT 3.1	n.a.	Human	Mouse mAb IgG1 κ 	Invitrogen	MA5-13506	WB (1:500)	Abs box 5	B4		Fridge	NA	Van Boxtel
+161	XPC			Human	rabbit Ab	Cell Signaling Technology	12701S	1:2500	Abs freezer box 1	NA		Freezer	WB	Van Boxtel
+162	CD45 BV421	HI30	BV421	Human	Mouse IgG1, κ	Biolegend 	304031		Abs box 3	A9	YES	Fridge	NA	Van Boxtel
+163									Abs box 5	C6		Fridge	NA	Van Boxtel
+164	TCRab FITC	IP26	FITC	Human	Mouse IgG1, κ	Biolegend 	306705		Abs box 4	B8		Fridge	NA	Van Boxtel
+165	CD127 BV421	HIL-7R-M21	BV421	Human	Mouse IgG1, kappa	BD Bioscience	562436		Abs box 3	D10		Fridge	NA	Van Boxtel
+166	CD3 PE-Cy7	SK7	PE-Cy7	Human	mouse IgG1 kappa	BioLegend	344815		Abs box 1	A6	YES	Fridge	NA	Van Boxtel
+167	TCRgd APC	11F2	APC	Human	Mouse IgG1, k 	Miltenyi	130-113-500		Abs box 4	B9		Fridge	NA	Van Boxtel
+168	CD41 APC/Fire750	HIP8	APC/Fire750	Human	Mouse IgG, kappa	Biolegend	303749		Abs box 2	E2		Fridge	NA	Van Boxtel
+169	CD3 AF700	Ucht1	AF700	Human	Mouse IgG1, k	Biolegend	300403		Abs box 1	B3	Yes	Fridge	NA	Van Boxtel
+170	CD20 PerCP	2H7		Human	Mouse IgG2b, kappaa	BioLegend	302323		Abs box 2	C1		Fridge	NA	Van Boxtel
+171	CD7 APC	CD7-6B7	APC	Human	mouse IgG2a kappa	BD Bioscience	343107		Abs box 1	C2		Fridge	NA	Van Boxtel
+172	CD19 AF700	HIB19	Alexa Fluor 700	Human	mouse IgG1 kappa	bioLegend	302225		Abs box 2	B5		Fridge	NA	Van Boxtel
+173	CD123 APC Fire 750	6H6	APC Fire 750	Human	Mouse IgG1 k 	BioLegend	306041		Abs box 3	D9		Fridge	NA	Van Boxtel
+174	Invariant NK/T BV480	6B11	Brilliant Violet 480	Human	Mouse C57BL/6 IgG1, κ	BD Bioscience	746788	FACS	Abs box 5	C9		Fridge	NA	Van Boxtel
+175	CD58	TS2/9	None	Human	Mouse	Biolegend	330902	Interaction blocking	Abs box 5	C4	YES (2x) 	Fridge	NA	Van Boxtel
+176	FANCA	EPR16519		Human	rabbit monoclonal	Abcam	ab201457		Abs freezer box 1	NA		Freezer	WB	Van Boxtel
+177	RNASEH1			Human	rabbit polyclonal	Proteintech	15606-1-AP	1:1000 WB	Abs freezer box 2	NA		Freezer	WB	Van Boxtel
+178	CD20 FITC	2H7	FITC	Human	mouse IgG2b kappa	BioLegend	302303	1:50	Abs box 2	B9	YES	Fridge	NA	Van Boxtel
+179	MSH2 antibody aliquots	D24B5		Human	rabbit mAb	Cell Signaling Technology	2017S	1:2000	Abs freezer box 2	NA		Freezer	WB	Van Boxtel
+180	CCRL1 BV711	13E11	Brilliant Violet 711	Human	Mouse BALB/c IgG2b, κ	BD Bioscience	747803		Abs box 4	C10		Fridge	NA	Van Boxtel
+181	TDG			Human	rabbit polyclonal	abcam	ab227498		Abs freezer box 1	NA		Freezer	WB	Van Boxtel
+182	RUNX1 antibody			Human	rabbit polyclonal	Abcam	ab35962		Abs freezer box 2	NA		Freezer	WB	Van Boxtel
+183	S100A4 PerCP-Cy5.5	NJ04F3-D1	PerCP-Cy5.5	Human	n.a.	Biolegend	370009	FACS (intracellular)	Abs box 5	D6		Fridge	NA	Van Boxtel
+184	CD45 APC	2D1	APC	Human	mouse IgG1 kappa	BioLegend	368511	1:20	Abs box 3	A5	YES	Fridge	NA	Van Boxtel
+185	CD123 BV605	6H6	Brilliant Violet 605	Human	mouse IgG1 kappa	BioLegend	306025		Abs box 3	D6	YES	Fridge	NA	Van Boxtel
+186	FANCC			Human	rabbit polyclonal	Abcam	ab97575		Abs freezer box 1	NA		Freezer	WB	Van Boxtel
+187	CD40 PE/Cy7	5C3	PE/Cy7	Human	mouse IgG1 kappa	BioLegend	334321		Abs box 2	D8		Fridge	NA	Van Boxtel
+188	CD31 BV605	L133.1	BV605	Human	Mouse IgG1, κ	BD Bioscience	745119		Abs box 2	C8	YES	Fridge	NA	Van Boxtel
+189	CD3 BV650	UCHT1	Brilliant Violet 650	Human	mouse IgG1 kappa	BioLegend	300467		Abs box 1	A7		Fridge	NA	Van Boxtel
+190	CD117 Pe/Cy7	104D2	PE/Cy7	Human	mouse IgG1 kappa	BioLegend	313211	1:20	Abs box 3	D2		Fridge	NA	Van Boxtel
+191	CD66b PE/Dazzle 594	G10F5	PE/Dazzle 594	Human	mouse IgM kappa	BioLegend	305121		Abs box 3	B10	YES	Fridge	NA	Van Boxtel
+192	CD19 PE/Dazzle 594	HIB19	PE/Dazzle 594	Human	mouse IgG1 kappa	BioLegend	302251		Abs box 2	B6	YES (2x)	Fridge	NA	Van Boxtel
+193	CD49f PE/Cy7	GoH3	PE/Cy7	Human	rat IgG1a kappa	BioLegend	313621	1:100	Abs box 3	B3	YES	Fridge	NA	Van Boxtel
+194	CD3 PE	UCHT1	PE	Human	Mouse BALB/c IgG1, κ	BD Bioscience	561809		Abs box 1	A8	Yes (2x)	Fridge	NA	Van Boxtel
+195	Streptavidin BUV661	n.a.	BUV661	Mouse	n.a.	BD BIoscience	565081	FACS	Abs box 5	C10		Fridge	NA	Van Boxtel
+196	PMS2	EPR3947		Human	rabbit monoclonal	Abcam	ab110638		Abs freezer box 1	NA		Freezer	WB	Van Boxtel
+197	CD56 BV605	NCAM16.2	BV605	Human	?	BD Biosciences	562779		Abs box 3	B8		Fridge	NA	Van Boxtel
+198	Lamin A + C Antibody 	133A2	AF700	Human	Mouse mAb	NovusBio	NBP1-97688AF700	FACS	Abs box 5	C7		Fridge	NA	Van Boxtel
+199	S9.6 (Anti-DNA-RNA Hybrid)	S9.6		Human	mouse monoclonal	Kerafast	ENH001		Abs freezer box 1	NA		Freezer	WB/IF/IP	Van Boxtel
+200	CD265 (RANK) AF647	9A725	AF647	Human	IgG1, k 	BD Pharmigen	566348	FACS	Abs box 5	D2		Fridge	NA	Van Boxtel
+201	rabbit IgG PE isotype control	DA1E	PE		rabbit mAb	Cell Signaling Technology	5742S	FACS	Abs box 5	A2		Fridge	NA	Van Boxtel
+202	CD27 APCCy7	M-T271	APC/Cy7	Human	Mouse IgG1, κ	BioLegend	356423		Abs box 2	C4	YES	Fridge	NA	Van Boxtel
+203	CD45RA PerCP/Cy5.5	HI100	PerCP/Cy5.5	Human	mouse IgG2b kappa	BioLegend	304121	1:20	Abs box 3	B2		Fridge	NA	Van Boxtel
+204	CD10PE/CY5	H10a	PE Cy5	Human	mouse IgG1 kappa	Biolegend	312206		Abs box 1	D4		Fridge	NA	Van Boxtel
+205	TCR Vg9 PE/Cy5	B3	PE Cy5	Human	Mouse IgG1, κ	BioLegend 	331323		Abs box 4	C7		Fridge	NA	Van Boxtel
+206	CD45 AF700	HI30	Alexa Fluor 700	Human	mouse IgG1 kappa	BioLegend	304023		Abs box 3	A6	YES	Fridge	NA	Van Boxtel
+207	CD19 BV421	HIB19	BV421	Human	Mouse IgG1	BioLegend	302233		Abs box 2	B8		Fridge	NA	Van Boxtel
+208	CD42b PE	HIP1	PE	Human	mouse IgG1 kappa	BioLegend	303905	1:20	Abs box 2	E3	YES	Fridge	NA	Van Boxtel
+209	CD235a PE/Cy7	6A-R2	PE/Cy7	Human	mouse IgG2b kappa	BioLegend	563666		Abs box 4	A7		Fridge	NA	Van Boxtel
+210	CD19 AF700	HIB19	Alexa Fluor 700	Human	mouse IgG1 kappa	bioLegend	302225		Abs box 2	B5		Fridge	NA	Van Heesch
+211	RUNX1 antibody			Human	rabbit polyclonal	Abcam	ab35962		Abs freezer box 2	NA		Freezer	WB	Van Heesch
+212	CD31 BV605	L133.1	BV605	Human	Mouse IgG1, κ	BD Bioscience	745119		Abs box 2	C8	YES	Fridge	NA	Van Heesch
+213	anti-mouse IgG IRDye 680RD	n.a.	IRDye 680CW	Mouse	goat	LI-COR	925-68070	WB (1:10000)	Abs box 5	B2		Fridge	NA	Van Heesch
+214	CD19 BV785	HIB19	BV785	Human	mouse IgG1 kappa	BioLegend	302239		Abs box 2	B7		Fridge	NA	Van Heesch
+215	CD14 PE	63D3	PE	Human	mouse IgG1 kappa	BioLegend	367103		Abs box 2	A1	YES	Fridge	NA	Van Heesch
+216	CD3 AF700	Ucht1	AF700	Human	Mouse IgG1, k	Biolegend	300403		Abs box 1	B3	Yes	Fridge	NA	Van Heesch
+217	CD90 FITC	5E10	FITC	Human	?	BioLegend	328107		Abs box 3	C6		Fridge	NA	Van Heesch
+218	aliquot CD45 BV510		Brilliant Violet 510						Abs box 5	E2		Fridge	NA	Van Heesch
+219	RNASEH1			Human	rabbit polyclonal	Abcam	ab229078	1:1000 WB	Abs freezer box 2	NA		Freezer	WB	Van Heesch
+220	CD249 BV650	2D3/APA	BV650	Human	Mouse BALB/c IgG1, κ	BD Bioscience	745361		Abs box 4	A8		Fridge	NA	Van Heesch
+221	CD3 BV711	UCHT1	BV711	Human	Mouse IgG1, kappa	BioLegend	300463		Abs box 1	A4		Fridge	NA	Van Heesch
+222	anti-rabbit IgG AF594	n.a.	Alexa Fluor 594	rabbit	goat	invitrogen	2165334	IF	Abs box 5	A5		Fridge	NA	Van Heesch
+223	CCRL1 BV786	13E11	Brilliant Violet 786	Human	Mouse BALB/c IgG2b, κ	BD Bioscience	747802		Abs box 4	D1		Fridge	NA	Van Heesch
+224	CD117 Pe/Cy7	104D2	PE/Cy7	Human	mouse IgG1 kappa	BioLegend	313211	1:20	Abs box 3	D2		Fridge	NA	Van Heesch
+225	CD25 PerCP-Cy5.5	M-A251	PerCP-Cy5.5	Human	Mouse BALB/c IgG1, κ	BD Pharmigen	560503		Abs box 2	C2		Fridge	NA	Van Heesch
+226	Streptavidin BV711	n.a.	Brilliant Violet 711	Human	n.a.	BioLegend	405241	FACS	Abs box 5	D1		Fridge	NA	Van Heesch
+227	CD66b FITC	G10F5	FITC	Human	mouse IgM kappa	BioLegend	305103		Abs box 3	C1		Fridge	NA	Van Heesch
+228	CD13 APC	WM15	APC	Human	mouse IgG1 kappa	BioLegend	301705		Abs box 1	E3		Fridge	NA	Van Heesch
+229	CD117 BUV395	YB5.B8	BUV395	Human	Mouse BALB/c IgG1	BD Bioscience	745740	1:200	Abs box 3	D5		Fridge	NA	Van Heesch
+230	TCRgd APC	11F2	APC	Human	Mouse IgG1, k 	Miltenyi	130-113-500		Abs box 4	B9		Fridge	NA	Van Heesch
+231	CD8a BV650	RPA-T8	Brilliant Violet 650	Human	Mouse IgG1, κ	BD Bioscience	563821		Abs box 1	C6		Fridge	NA	Van Heesch
+232	CD95 PE	DX2	PE	Human	mouse IgG1 kappa	BioLegend	305607	1:50	Abs box 3	C8		Fridge	NA	Van Heesch
+233	NSB1 (NBN)			Human	rabbit polyclonal	Invitrogen	711701		Abs freezer box 1	NA		Freezer	WB	Van Heesch
+234	Phospho RPA32 antibody	n.a.	n.a.	Human, Mouse	Rabbit polyclonal	Bethyl	A300-245A-M	WB + IF	Abs box 5	B10		Fridge	NA	Van Heesch
+235	TCRgd BV421	11FS	BV421	Human	Mouse BALB/c IgG1	BD Bioscience	744870		Abs box 4	C2		Fridge	NA	Van Heesch
+236	MPG	EPR10959(B)		Human	rabbit mAb	Abcam	ab155092	1:10000	Abs freezer box 1	NA		Freezer	WB	Van Heesch
+237	PMS1	E-3	n.a.	Human	Mouse mAb	Santa Cruz Biotechnology	sc-515302	WB	Abs box 5	B9		Fridge	NA	Van Heesch
+238	CD163 APC	GHI61	APC	Human	Mouse IgG1, k	BioLegend	333609		Abs box 4	A3		Fridge	NA	Van Heesch
+239	CCR10 APC	6588-5	APC	Human	Armenian Hamster IgG	BioLegend	341505		Abs box 4	D2		Fridge	NA	Van Heesch
+240	CHD-1			Human	rabbit polyclonal	Sigma	HPA022236-25ul	1:500 IF	Abs freezer box 2	NA		Freezer	WB/IF	Van Heesch
+241	H3K36me2	C75H12		human	rabbit monoclonal	Cell Signaling Technology	2901	1:1000	Abs freezer box 1	NA		Freezer	WB	Van Heesch
+242	Precision Plus Protein WesternC standard					Bio-Rad	161-0376		Abs freezer box 1	NA		Freezer	WB	Van Heesch
+243	CD123 PE/Cy7	6H6	PE/Cy7	Human	mouse IgG1 kappa	BioLegend	306009		Abs box 3	D8		Fridge	NA	Van Heesch
+244	CD33 PE/Cy7	WM53	PE/Cy7	Human	mouse IgG1 kappa	BioLegend	303433	1:20	Abs box 2	C9	YES	Fridge	NA	Van Heesch
+245	Lamin A + C Antibody 	133A2	AF700	Human	Mouse mAb	NovusBio	NBP1-97688AF700	FACS	Abs box 5	C7		Fridge	NA	Van Heesch
+246	TCR Vd1 FITC	REA173	FITC	Human		Miltenyi	130-118-498		Abs box 4	C4		Fridge	NA	Van Heesch
+247	PMS2	EPR3947		Human	rabbit monoclonal	Abcam	ab110638		Abs freezer box 1	NA		Freezer	WB	Van Heesch
+248	CD4 PE/Cy7	L200	PE-Cy7	Human	Mouse BALB/c IgG1, κ	BD Pharmingen	560644		Abs box 1	B6		Fridge	NA	Van Heesch
+249	ATM [Y170]			Human	rabbit monoclonal	Abcam	ab32420		Abs freezer box 1	NA		Freezer	WB	Van Heesch
+250	MGMT	MT 3.1	n.a.	Human	Mouse mAb IgG1 κ 	Invitrogen	MA5-13506	WB (1:500)	Abs box 5	B4		Fridge	NA	Van Heesch
+251	Vybrant DyeCycle Ruby stain					Invitrogen	V10309		Abs freezer box 1	NA		Freezer	FACS	Van Heesch
+252	pChk2 PE	C13C1	PE	Human	rabbit mAb	Cell Signaling Technology	12812S	FACS	Abs box 5	A1		Fridge	NA	Van Heesch
+253	CD44 PE	?	PE	Human	?	Miltenyi	130095180		Abs box 3	A3		Fridge	NA	Van Heesch
+254	CD123 BV605	6H6	Brilliant Violet 605	Human	mouse IgG1 kappa	BioLegend	306025		Abs box 3	D6	YES	Fridge	NA	Van Heesch
+255	CD10 APC	HI10a	APC	Human	Mouse IgG1, κ	Biolegend	312209		Abs box 1	D3	YES (2x)	Fridge	NA	Van Heesch
+256	CD95 APC	DX2	APC	Human	mouse IgG1 kappa	BioLegend	305611		Abs box 3	C7		Fridge	NA	Van Heesch
+257	HPRT			Human	rabbit polyclonal	Abcam	ab10479	1:2000	Abs freezer box 1	NA		Freezer	WB	Van Heesch
+258	CD45RA BV605	HI100	BV605	Human	Mouse IgG2b, kappaa	Biolegend	304133		Abs box 3	B1		Fridge	NA	Van Heesch
+259	CD45 APC	2D1	APC	Human	mouse IgG1 kappa	BioLegend	368511	1:20	Abs box 3	A5	YES	Fridge	NA	Van Heesch
+260	CD14 BV650	M5E2	Brilliant Violet 650	Human	Mouse IgG2a, κ	BD Bioscience	563419	1:500	Abs box 2	A3		Fridge	NA	Van Heesch
+261	AnnexinV APC	n.a.	APC	Human	n.a.	Biolegend	640941	FACS	Abs box 5	D4		Fridge	NA	Van Heesch
+262	CD30 APC	BY88	APC	Human	mouse IgG1 kappa	BioLegend	333909	1:25	Abs box 2	C5		Fridge	NA	Van Heesch
+263	TCR Vd1 FITC	TS8.2	FITC	Human	Mouse IgG1	ThermoFisher	TCR2730		Abs box 4	C3		Fridge	NA	Van Heesch
+264	anti-mouse IgG HRP	n.a.	HRP	Mouse	sheep		NXA931V	WB (1:5000)	Abs box 5	E1		Fridge	NA	Van Heesch
+265	CD205 BUV395	MMR1-7	BUV395	Human	Mouse IgG1, κ	BD Bioscience	744062		Abs box 4	A5		Fridge	NA	Van Heesch
+266	CD11c APC	3.9	APC	Human	mouse IgG1 kappa	Company	301614		Abs box 1	D9		Fridge	NA	Van Heesch
+267	CD265 (RANK) AF647	9A725	AF647	Human	IgG1, k 	BD Pharmigen	566348	FACS	Abs box 5	D2		Fridge	NA	Van Heesch
+268	CD43 BV421	1G10	Brillian Violet 421	Human	Mouse IgG1, κ	BD Biosciences	562916		Abs box 3	A1		Fridge	NA	Van Heesch
+269	CD8a AF700	HIT8a	AF700	Human	Mouse IgG1, κ	Biolegend	300920		Abs box 1	D1		Fridge	NA	Van Heesch
+270	anti-rabbit IgG AF647	Poly4064	Alexa Fluor 647	Rabbit	donkey polyclonal	BioLegend	406414	FACS	Abs box 5	A6		Fridge	NA	Van Heesch
+271	CCRL1 BV711	13E11	Brilliant Violet 711	Human	Mouse BALB/c IgG2b, κ	BD Bioscience	747803		Abs box 4	C10		Fridge	NA	Van Heesch
+272	RNASEH1			Human	rabbit polyclonal	Proteintech	15606-1-AP	1:1000 WB	Abs freezer box 2	NA		Freezer	WB	Van Heesch
+273	CD54	HCD54	None	Human	Mouse	Biolegend	322702	Interaction blocking	Abs box 5	C3	YES 	Fridge	NA	Van Heesch
+274	CD117 BV421	YB5.B8	BV421	Human	Mouse IgG1, k 	BD Bioscience	562434	1:50	Abs box 3	D3		Fridge	NA	Van Heesch
+275	CD56 BUV661	NCAM16.2	BUV661	Human	Mouse BALB/c IgG2b, κ	BD optibuild	750478		Abs box 3	B7		Fridge	NA	Van Heesch
+276	Ig lambda light chain AF700	MHL-38	AF700	Human	Mouse IgG2a, κ	BioLegend	316631	FACS	Abs box 5	E3		Fridge	NA	Van Heesch
+277	CD7 BV786	MT701	Brilliant Violet 786	Human	Mouse BALB/c IgG1, κ	BD Bioscience	740964	1:500	Abs box 1	C3		Fridge	NA	Van Heesch
+278	CD33 APC	WM53	APC	Human	mouse IgG1 kappa	BioLegend	303407	1:50	Abs box 2	C10	YES	Fridge	NA	Van Heesch
+279	Zombie NIR Dye					BioLegend	77184		Abs freezer box 1	NA		Freezer	FACS	Van Heesch
+280	CD58	TS2/9	None	Human	Mouse	Biolegend	330902	Interaction blocking	Abs box 5	C4	YES (2x) 	Fridge	NA	Van Heesch
+281	CD127 AF488	HIL-7R-M21	AF488	Human	Mouse IgG1, κ	BD Pharmingen	567403		Abs box 3	E1		Fridge	NA	Van Heesch
+282	CD25 BB515	2A3	BB515	Human	Mouse BALB/c IgG1, κ	BD Bioscience	564468	1:200	Abs box 2	C3		Fridge	NA	Van Heesch
+283	CD56 BV605	NCAM16.2	BV605	Human	?	BD Biosciences	562779		Abs box 3	B8		Fridge	NA	Van Heesch
+284	CD1c APC	L161	APC	Human	mouse IgG1 kappa	Biolegend	331523		Abs box 1	A3		Fridge	NA	Van Heesch
+285	CD3 PE-Cy7	SK7	PE-Cy7	Human	mouse IgG1 kappa	BioLegend	344815		Abs box 1	A6	YES	Fridge	NA	Van Heesch
+286	PageRuler Prestained Protein ladder					Thermo Fisher	26616		Abs freezer box 1	NA		Freezer	WB	Van Heesch
+287	CD326 (EpCAM) Pe/Cy7	9C4	Pe-Cy7	Human	Mouse IgG2b, κ	Biolegend	324221	FACS	Abs box 5	D3		Fridge	NA	Van Heesch
+288	TCR Vg9 APC/Fire 750	B3	APC Fire750 	Human	Mouse IgG1, κ	BioLegend 	331315		Abs box 4	C6		Fridge	NA	Van Heesch
+289	CD8a FITC	HIT8a	FITC	Human	Mouse IgG1, κ 	BioLegend	300906		Abs box 1	D2		Fridge	NA	Van Heesch
+290	7-AAD	n.a.	n.a.	Human	n.a.	Invitrogen	00-6993-50	FACS	Abs box 5	A10	YES	Fridge	NA	Van Heesch
+291	TDG			Human	rabbit polyclonal	abcam	ab227498		Abs freezer box 1	NA		Freezer	WB	Van Heesch
+292	CD64 FITC	10.1	FITC	Human	Mouse IgG1, k	BioLegend	305005		Abs box 3	B9	YES (2x)	Fridge	NA	Van Heesch
+293	S100A4 PerCP-Cy5.5	NJ04F3-D1	PerCP-Cy5.5	Human	n.a.	Biolegend	370009	FACS (intracellular)	Abs box 5	D6		Fridge	NA	Van Heesch
+294	CD15 (SSEA-1) FITC	HI98	FITC	Human	mouse IgM kappa	BioLegend	301903		Abs box 2	A6	YES	Fridge	NA	Van Heesch
+295	TCRab APC	T10B9.1A-31	APC	Human	Mouse IgG1, κ	BD Bioscience	563821		Abs box 4	B7		Fridge	NA	Van Heesch
+296	Invariant NK/T BV480	6B11	Brilliant Violet 480	Human	Mouse C57BL/6 IgG1, κ	BD Bioscience	746788	FACS	Abs box 5	C9		Fridge	NA	Van Heesch
+297	CD16 FITC	3G8	FITC	Human	mouse IgG1 kappa	BioLegend	302005	1:100	Abs box 2	A10	YES	Fridge	NA	Van Heesch
+298	FLAG (M2)	M2		Human	mouse monoclonal	Sigma	F1804	1:1000	Abs freezer box 1	NA		Freezer	WB	Van Heesch
+299	UNG	OTI1A11		Human	mouse IgG1	Invitrogen	MA5-25680	1:2500	Abs freezer box 1	NA		Freezer	WB	Van Heesch
+300	SETD3 antibody			Human		Sigma	HPA003591		Abs freezer box 2	NA		Freezer	WB/IF	Van Heesch
+301	CD3 BV711	UCHT1	Brilliant Violet 711	Human	Mouse IgG1, κ	Biolegend	300463		Abs box 1	A9		Fridge	NA	Van Heesch
+302	MLH3	H-2	n.a.	Human	Mouse mAb	Santa Cruz Biotechnology	sc-25313	WB (?)	Abs box 5	B7		Fridge	NA	Van Heesch
+303	HLA-DR BV605	L243	BV605	Human	Mouse IgG2a kappa 	BioLegend	307639		Abs box 4	B5	Yes	Fridge	NA	Van Heesch
+304	Streptactin-HRP	n.a.	HRP	Human	n.a.	Bio-Rad	161-0380	WB (1:10000)	Abs box 5	B5		Fridge	NA	Van Heesch
+305	Lineage (CD3/14/19/20/56) APC	n.a.	APC	Human	mouse IgG1 + IgG2b kappa	BioLegend	348803		Abs box 4	B1		Fridge	NA	Van Heesch
+306	CD8a PE/Cy5	HIT8a	PE Cy5	Human	Mouse IgG1, κ	Biolegend	300909		Abs box 1	C9		Fridge	NA	Van Heesch
+307	CD7 APC	CD7-6B7	APC	Human	mouse IgG2a kappa	BD Bioscience	343107		Abs box 1	C2		Fridge	NA	Van Heesch
+308	POLI			Human	rabbit polyclonal	Novus biologicals	NB100-175	1:500 IF	Abs freezer box 2	NA		Freezer	WB/IF	Van Heesch
+309	CD20 FITC	2H7	FITC	Human	mouse IgG2b kappa	BioLegend	302303	1:50	Abs box 2	B9	YES	Fridge	NA	Van Heesch
+310	CD3 BUV496	UCHT1	BUV496	Human	Mouse BALB/c IgG1, κ	BD Bioscience	564810	1:500	Abs box 1	B2	YES	Fridge	NA	Van Heesch
+311	CD56 BV711	HCD56	Brilliant Violet 711	Human	mouse IgG1 kappa	BioLegend	318335		Abs box 3	B4	YES	Fridge	NA	Van Heesch
+312	CD10PE/CY5	H10a	PE Cy5	Human	mouse IgG1 kappa	Biolegend	312206		Abs box 1	D4		Fridge	NA	Van Heesch
+313	Anti-phopho-histone H3 (Ser10)	n.a.	n.a.	Human	n.a.	EMD Millipore	06-570		Abs box 5	D8	YES	Fridge	NA	Van Heesch
+314	Annexin V/FITC	n.a.	FITC	Human	n.a.	Invitrogen	BMS306F1-100	FACS	Abs box 5	A4		Fridge	NA	Van Heesch
+315	CENPH antibody			Human		Sigma	HPA036494		Abs freezer box 2	NA		Freezer	WB/IF	Van Heesch
+316	mouse IgG FITC isotype control		FITC		mouse mAb	Merck	12-487		Abs freezer box 1	NA		Freezer	FACS	Van Heesch
+317	CD11c BUV661	B-ly6	BUV661	Human	Mouse BALB/c IgG1, κ	BD Bioscience	565067/612968	1:200	Abs box 1	E1	YES	Fridge	NA	Van Heesch
+318	CD90 APC	5E10	APC	Human	mouse IgG1 kappa	BioLegend	328113	1:200	Abs box 3	C4	YES	Fridge	NA	Van Heesch
+319	beta-Actin	RM112	n.a.	Human	rabbit mAb	Merck	MABT523	WB (1:5000)	Abs box 5	B3		Fridge	NA	Van Heesch
+320	CD45 PECy7	HI30	PECy7	Human	Mouse IgG, kappa	Biolegend	304015		Abs box 3	A10		Fridge	NA	Van Heesch
+321	Geminin	F-7	n.a.	Human	Mouse mAb	Santa Cruz Biotechnology	sc-74456 	WB (?)	Abs box 5	B6		Fridge	NA	Van Heesch
+322	BLM			Human	rabbit polyclonal	Abcam	ab2179		Abs freezer box 1	NA		Freezer	WB	Van Heesch
+323	CD15 BV711	W6D3	BV711	Human	?	BD Bioscience	563142		Abs box 2	A8		Fridge	NA	Van Heesch
+324	CD42b PE	HIP1	PE	Human	mouse IgG1 kappa	BioLegend	303905	1:20	Abs box 2	E3	YES	Fridge	NA	Van Heesch
+325	CD45 FITC	HI30	FITC	Human	mouse IgG1 kappa	BioLegend	304005	1:50	Abs box 3	A7		Fridge	NA	Van Heesch
+326	CD40 AF700	5C3	Alexa Fluor 700	Human	mouse IgG1 kappa	BioLegend	334327	1:50	Abs box 2	D7		Fridge	NA	Van Heesch
+327	CD45 BV421	HI30	BV421	Human	Mouse IgG1, κ	Biolegend 	304031		Abs box 3	A9	YES	Fridge	NA	Van Heesch
+328	CD38 PE	HIT2	PE	Human	mouse IgG1 kappa	BioLegend	303505	1:50	Abs box 2	D6	YES	Fridge	NA	Van Heesch
+329	Lineage (CD3/14/19/20/56) FITC	n.a.	FITC	Human	mouse IgG1 + IgG2b kappa	BioLegend	348701	1:20	Abs box 4	A10	YES	Fridge	NA	Van Heesch
+330	HA-Tag 	C29F4		Human	rabbit mAb	Cell Signaling Technology	3724S		Abs freezer box 1	NA		Freezer	WB	Van Heesch
+331	phospho-yH2AX FITC	JBW301	FITC	Human	mouse mAb	Merck	16-202A		Abs freezer box 1	NA		Freezer	FACS	Van Heesch
+332	CD66b PE/Dazzle 594	G10F5	PE/Dazzle 594	Human	mouse IgM kappa	BioLegend	305121		Abs box 3	B10	YES	Fridge	NA	Van Heesch
+333	anti-mouse IgG AF647	n.a.	Alexa Fluor 647	Mouse	goat	Invitrogen	2272554	IF	Abs box 5	B8		Fridge	NA	Van Heesch
+334	CD19 PE/Dazzle 594	HIB19	PE/Dazzle 594	Human	mouse IgG1 kappa	BioLegend	302251		Abs box 2	B6	YES (2x)	Fridge	NA	Van Heesch
+335	Claudin-3 PE	n.a.	PE	Human	Mouse IgG2A	R&D systems	FAB4620P	FACS	Abs box 5	D5		Fridge	NA	Van Heesch
+336	CD1a PE	HI149	PE	Human	Mouse IgG1, k 	Biolegend	300105	1:1000	Abs box 1	A1		Fridge	NA	Van Heesch
+337	CD8a BV785	SK1	Brilliant Violet 785	Human	mouse IgG1 kappa	BioLegend	344739		Abs box 1	C5		Fridge	NA	Van Heesch
+338	CD45 APC-R700	HI30	APC-R700	Human	Mouse IgG1, k 	Biolegend	304023	1:2000	Abs box 3	A4		Fridge	NA	Van Heesch
+339	ATR			Human	rabbit polyclonal	Abcam	ab2905		Abs freezer box 1	NA		Freezer	WB	Van Heesch
+340	CD4 AF700	OKT4	AF700	Human	Mouse IgG2b, κ	Biolegend	317426		Abs box 1	B7		Fridge	NA	Van Heesch
+341	CD40 PE/Cy7	5C3	PE/Cy7	Human	mouse IgG1 kappa	BD Bioscience	561215		Abs box 2	D9		Fridge	NA	Van Heesch
+342	CD5 PE	UCHT2	PE	Human	Mouse IgG1, κ 	BioLegend	300608		Abs box 1	C1		Fridge	NA	Van Heesch
+343	CD15 (SSEA-1) PE	HI98	PE	Human	Mouse IgM kappa	Biolegend	301905	1:50 (Inge: 1:20)	Abs box 2	A7		Fridge	NA	Van Heesch
+344	CD4 APC/Cy7	SK3	APC/Cy7	Human 	Mouse IgG1, κ	BioLegend	344616		Abs box 1	B8		Fridge	NA	Van Heesch
+345	CD105 PE/Cy7	43A3	PE/Cy7	Human	mouse IgG1 kappa	BioLegend	323217		Abs box 3	C9	YES	Fridge	NA	Van Heesch
+346	CD15 AF700	HI98	AF700	Human	Mouse IgM kappa	BioLegend	301919		Abs box 2	A9		Fridge	NA	Van Heesch
+347	CD19 BV711	SJ25C1	BV 711	Human	Mouse BALB/c IgG1, κ	BD Bioscience	563038		Abs box 2	B3		Fridge	NA	Van Heesch
+348	CD11c BV605	3.9	BV605	Human	mouse IgG1 kappa	Biolegend	301635		Abs box 1	D10		Fridge	NA	Van Heesch
+349	S9.6 (Anti-DNA-RNA Hybrid)	S9.6		Human	mouse monoclonal	Kerafast	ENH001		Abs freezer box 1	NA		Freezer	WB/IF/IP	Van Heesch
+350	CD5 BUV737	UCHT2	BUV737	Human	Mouse BALB/c IgG1, κ	BD Bioscience	564451	1:500	Abs box 1	B9		Fridge	NA	Van Heesch
+351	Hoechst 33342	n.a.	n.a.	Human	n.a.	Thermo Fischer 	H3570	IF 	Abs box 5	E5		Fridge	NA	Van Heesch
+352	CD49f PE/Cy7	GoH3	PE/Cy7	Human	rat IgG1a kappa	BioLegend	313621	1:100	Abs box 3	B3	YES	Fridge	NA	Van Heesch
+353	CD8a BV711	RPA-T8	Brilliant Violet 711	Human	Mouse IgG1, κ	Biolegend	301043	1:500	Abs box 1	C7	YES	Fridge	NA	Van Heesch
+354	Cd34 Pe Cy7	581	PE Cy7	Human	?	BD Bioscience	561819		Abs box 2	D5		Fridge	NA	Van Heesch
+355	CD3 PE	UCHT1	PE	Human	Mouse BALB/c IgG1, κ	BD Bioscience	561809		Abs box 1	A8	Yes (2x)	Fridge	NA	Van Heesch
+356	MBD4			Human	rabbit polyclonal	Abcam	ab12187		Abs freezer box 1	NA		Freezer	WB	Van Heesch
+357	TCRgd APC	B1	APC	Human	Mouse IgG1, κ	BD Bioscience	561049		Abs box 4	B10	YES	Fridge	NA	Van Heesch
+358	TCRab PE/Cy5	IP26	PE Cy5	Human	mouse IgG1 kappa	BioLegend	306710		Abs box 4	C8		Fridge	NA	Van Heesch
+359	MSH2	D24B5		Human	rabbit mAb	Cell Signaling Technology	2017S	1:2000	Abs freezer box 1	NA		Freezer	WB	Van Heesch
+360	TARC/CCL17 PE	54015	PE	Human	mouse IgG1 kappa	R&D Systems	IC3641P		Abs box 4	B2		Fridge	NA	Van Heesch
+361	anti-mouse IgG AF488	n.a.	Alexa Fluor 488	Mouse	Goat / IgG	invitrogen	2220848	IF	Abs box 5	B1		Fridge	NA	Van Heesch
+362	RPA32/RPA2	9H8		Human	mouse monoclonal	Abcam	ab2175		Abs freezer box 2	NA		Freezer	WB/IF	Van Heesch
+363	TCR Vd2 PE	B6 	PE	Human	Mouse IgG1, κ	BioLegend	331407		Abs box 4	C5		Fridge	NA	Van Heesch
+364	Anti-Phospho_Histone H2A.X	JBW301	n.a.	Human	Mouse mAb	Sigma/Merck	05-636	IF (1:1000)	Abs box 5	A9	YES	Fridge	NA	Van Heesch
+365	HLA-DR BUV737	G46-6	BUV737	Human	Mouse IgG2a, κ	BD Bioscience	748339		Abs box 4	B3		Fridge	NA	Van Heesch
+366	CD271 APC	ME20.4	APC	Human	mouse IgG1 kappa	BioLegend	345107		Abs box 4	A9	YES	Fridge	NA	Van Heesch
+367	CD34 PE 	561	PE	Human	mouse IgG2a kappa	BioLegend	343605		Abs box 2	D4		Fridge	NA	Van Heesch
+368	CD80 BV510	2D10	Brilliant Violet 510	Human	Mouse IgG1, κ	Biolegend	305233		Abs box 3	C3	YES	Fridge	NA	Van Heesch
+369	SF3B1	D7L5T		Human	Rabbit mAb	Cell Signaling Technology	14434S	1:1000 WB	Abs freezer box 2	NA		Freezer	WB (+FACS?)	Van Heesch
+370	CD45RA PerCP/Cy5.5	HI100	PerCP/Cy5.5	Human	mouse IgG2b kappa	BioLegend	304121	1:20	Abs box 3	B2		Fridge	NA	Van Heesch
+371	CD45 PerCP/Cy5.5	HI30	PerCP/Cy5.5	Human	mouse IgG1 kappa	BioLegend	304027		Abs box 3	A8	YES	Fridge	NA	Van Heesch
+372	CD1a BV421	HI149	BV421	Human	Mouse IgG1, k 	Biolegend	300128		Abs box 1	A2		Fridge	NA	Van Heesch
+373	HLA-DR BUV805	G46-6	BUV805	Human	?	BD Bioscience	568335		Abs box 4	B6		Fridge	NA	Van Heesch
+374	CD127 BV421	HIL-7R-M21	BV421	Human	Mouse IgG1, kappa	BD Bioscience	562436		Abs box 3	D10		Fridge	NA	Van Heesch
+375	CD201/EPCR APC	RCR-401	APC	Human	Rat IgG1, Kappa	BioLegend	351905	1:50	Abs box 4	A4	YES	Fridge	NA	Van Heesch
+376	anti-rabbit IgG IRDye 800CW	n.a.	IRDye 800CW	Rabbit	goat	LI-COR	925-32211	WB (1:10000)	Abs box 5	A8		Fridge	NA	Van Heesch
+377	Streptavidin BUV661	n.a.	BUV661	Mouse	n.a.	BD BIoscience	565081	FACS	Abs box 5	C10		Fridge	NA	Van Heesch
+378	p95/NBS1 (Y112)			Human	rabbit monoclonal	Abcam	ab32074		Abs freezer box 1	NA		Freezer	WB	Van Heesch
+379	CD8a APC/Cy7	HIT8a	APC/Cy7	Human	Mouse IgG1, κ	Biolegend	300925		Abs box 1	C10		Fridge	NA	Van Heesch
+380	TCR Vg9 APC	B3	APC	Human	Mouse IgG1, κ	Biolegend	331309		Abs box 4	C9		Fridge	NA	Van Heesch
+381	CD11c FITC	3.9	FITC	Human	Mouse IgG1, kappa	BioLegend	301604		Abs box 1	D8	YES	Fridge	NA	Van Heesch
+382	SMUG1			Human	rabbit polyclonal	Invitrogen	PA5-44258	1:1000	Abs freezer box 1	NA		Freezer	WB	Van Heesch
+383	CD44 BV510	IM7	BV510	Human	Rat IgG2b, k 	Biolegend	103044		Abs box 3	A2		Fridge	NA	Van Heesch
+384	DAPI 500 uM	n.a.	n.a.	Human	n.a.	Thermo	D3571	All (IF 1:2000, FACS 1:500)	Abs box 5	D7		Fridge	NA	Van Heesch
+385	CD34 BV421	581	Brilliant Violet 421	Human	mouse IgG2a kappa	BioLegend	343609	1:20	Abs box 2	D2	YES	Fridge	NA	Van Heesch
+386	CD123 APC Fire 750	6H6	APC Fire 750	Human	Mouse IgG1 k 	BioLegend	306041		Abs box 3	D9		Fridge	NA	Van Heesch
+387	Anti-rabbit IgG AF488	n.a.	Alexa Fluor 488	Rabbit	Goat	invitrogen	2284595	IF	Abs box 5	A7		Fridge	NA	Van Heesch
+388	CD3 FITC	OKT3	FITC	Human	mouse IgG2a kappa	Biolegend	317306	1:100	Abs box 1	A5		Fridge	NA	Van Heesch
+389	CD7 PECy7	MT701	PE/Cy7	Human	Mouse BALB/c IgG1, κ	BD Pharmingen	564019		Abs box 1	C4		Fridge	NA	Van Heesch
+390	aliquot CD13 PerCP/Cy5.5	WM15	PerCP/Cy5.5	Human	Mouse IgG1, κ	BD Biosciences	561361	FACS	Abs box 5	D10		Fridge	NA	Van Heesch
+391	HLA-DR FITC	L243	FITC	Human	Mouse IgG2a kappa 	Biolegend	307603	1:20	Abs box 4	B4	Yes	Fridge	NA	Van Heesch
+392	CD20 PerCP	2H7		Human	Mouse IgG2b, kappaa	BioLegend	302323		Abs box 2	C1		Fridge	NA	Van Heesch
+393	CD14 BV750	63D3	BV750	Human	Mouse IgG1, k	BioLegend	367135		Abs box 2	A4		Fridge	NA	Van Heesch
+394	CD41 BV510	HIP8	BV510	Human	Mouse IgG1, kappa	BioLegend	303735		Abs box 2	E1		Fridge	NA	Van Heesch
+395	CD235a PE/Cy7	6A-R2	PE/Cy7	Human	mouse IgG2b kappa	BioLegend	563666		Abs box 4	A7		Fridge	NA	Van Heesch
+396	CD40 BUV563	5C3	BUV563	Human	?	BD Bioscience	741381		Abs box 2	D10		Fridge	NA	Van Heesch
+397	FANCA	EPR16519		Human	rabbit monoclonal	Abcam	ab201457		Abs freezer box 1	NA		Freezer	WB	Van Heesch
+398	TCRgd APC/Fire 750	B1	APC/Fire 750	Human	Mouse IgG1, κ	BioLegend	331227		Abs box 4	C1		Fridge	NA	Van Heesch
+399	CD3 APC/Fire750	SK7	APC/Fire750	Human	mouse IgG1 kappa	BioLegend	344839	1:100	Abs box 1	B1	YES	Fridge	NA	Van Heesch
+400	CD56 AF488	B159	AF488	Human	Mouse IgG1, κ	BD Pharmigen	557699		Abs box 3	B5		Fridge	NA	Van Heesch
+401	CD27 APCCy7	M-T271	APC/Cy7	Human	Mouse IgG1, κ	BioLegend	356423		Abs box 2	C4	YES	Fridge	NA	Van Heesch
+402	Ghost Dye Red 780			Mammalian cells		Tonbo biosciences	13-0865	1:2000(see tube)	Abs freezer box 2	NA		Freezer	FACS	Van Heesch
+403	TCR Vg9 PE/Cy5	B3	PE Cy5	Human	Mouse IgG1, κ	BioLegend 	331323		Abs box 4	C7		Fridge	NA	Van Heesch
+404	CD5 APC	UCHT2	APC	Human	Mouse IgG1, κ	BioLegend	300611		Abs box 1	B10		Fridge	NA	Van Heesch
+405	TCRab FITC	IP26	FITC	Human	Mouse IgG1, κ	Biolegend 	306705		Abs box 4	B8		Fridge	NA	Van Heesch
+406	CD141 APC	M80	APC	Human	Mouse IgG1 k	BioLegend	344105		Abs box 4	A1		Fridge	NA	Van Heesch
+407	CD3 APC	HIT3a	APC	Human	mouse IgG2a kappa	BioLegend	300311		Abs box 1	A10	YES (2x)	Fridge	NA	Van Heesch
+408	LFA-1 (CD11a/CD18)	M24	None	Human	Mouse mAb	Biolegend	363402	Interaction blocking	Abs box 5	C5	YES	Fridge	NA	Van Heesch
+409	CD11b BV785	ICRF44	BV785	Human	Mouse IgG1, κ	Biolegend	301345		Abs box 1	D5		Fridge	NA	Van Heesch
+410	CD41 APC/Fire750	HIP8	APC/Fire750	Human	Mouse IgG, kappa	Biolegend	303749		Abs box 2	E2		Fridge	NA	Van Heesch
+411	CD34 PE/Dazzle 594	581	PE/Dazzle 594	Human	mouse IgG1 kappa	BioLegend	343533		Abs box 2	D3	YES	Fridge	NA	Van Heesch
+412	CD30 APC/Fire750	BY88	APC/Fire750	Human	Mouse IgG1, k	BioLegend	333915		Abs box 2	C6		Fridge	NA	Van Heesch
+413	FANCD2			Human	rabbit polyclonal	Novus Biologicals	NB100-182SS	1:500	Abs freezer box 1	NA		Freezer	WB/IF	Van Heesch
+414	rabbit IgG PE isotype control	DA1E	PE		rabbit mAb	Cell Signaling Technology	5742S	FACS	Abs box 5	A2		Fridge	NA	Van Heesch
+415	CD11b APC	ICRF44	APC	Human	mouse IgG1 kappa	Biolegend	301309		Abs box 1	D7		Fridge	NA	Van Heesch
+416	Human TruStain FC block	n.a.	n.a.	Human	n.a.	Biolegend	422301	FACS	Abs box 5	A3		Fridge	NA	Van Heesch
+417	FANCG			Human	monoclonal	Abnova	H00002189-M01		Abs freezer box 1	NA		Freezer	WB	Van Heesch
+418	CD8a BV421	RPA-T8	BV421	Human	Mouse IgG1, κ	Biolegend	301036		Abs box 1	C8		Fridge	NA	Van Heesch
+419	pChk2 PE	C13C1	PE	Human	rabbit mAb	Cell Signaling Technology	12812S	FACS	Abs box 5	A1		Fridge	NA	Kuiper
+420	CD123 BUV395	7G3	BUV395	Human	Mouse IgG2a, κ	BD Bioscience	564195		Abs box 3	D7		Fridge	NA	Kuiper
+421	beta-Actin	RM112	n.a.	Human	rabbit mAb	Merck	MABT523	WB (1:5000)	Abs box 5	B3		Fridge	NA	Kuiper
+422	CD27 APCCy7	M-T271	APC/Cy7	Human	Mouse IgG1, κ	BioLegend	356423		Abs box 2	C4	YES	Fridge	NA	Kuiper
+423	CD3 AF700	Ucht1	AF700	Human	Mouse IgG1, k	Biolegend	300403		Abs box 1	B3	Yes	Fridge	NA	Kuiper
+424	FANCG			Human	monoclonal	Abnova	H00002189-M01		Abs freezer box 1	NA		Freezer	WB	Kuiper
+425	CD56 BUV661	NCAM16.2	BUV661	Human	Mouse BALB/c IgG2b, κ	BD optibuild	750478		Abs box 3	B7		Fridge	NA	Kuiper
+426	CCRL1 BV786	13E11	Brilliant Violet 786	Human	Mouse BALB/c IgG2b, κ	BD Bioscience	747802		Abs box 4	D1		Fridge	NA	Kuiper
+427	CD25 PerCP-Cy5.5	M-A251	PerCP-Cy5.5	Human	Mouse BALB/c IgG1, κ	BD Pharmigen	560503		Abs box 2	C2		Fridge	NA	Kuiper
+428	CD25 BB515	2A3	BB515	Human	Mouse BALB/c IgG1, κ	BD Bioscience	564468	1:200	Abs box 2	C3		Fridge	NA	Kuiper
+429	CD34 BV421	581	Brilliant Violet 421	Human	mouse IgG2a kappa	BioLegend	343609	1:20	Abs box 2	D2	YES	Fridge	NA	Kuiper
+430	anti-mouse IgG AF647	n.a.	Alexa Fluor 647	Mouse	goat	Invitrogen	2272554	IF	Abs box 5	B8		Fridge	NA	Kuiper
+431	HLA-DR FITC	L243	FITC	Human	Mouse IgG2a kappa 	Biolegend	307603	1:20	Abs box 4	B4	Yes	Fridge	NA	Kuiper
+432	CD105 PE/Cy7	43A3	PE/Cy7	Human	mouse IgG1 kappa	BioLegend	323217		Abs box 3	C9	YES	Fridge	NA	Kuiper
+433	CD56 AF488	B159	AF488	Human	Mouse IgG1, κ	BD Pharmigen	557699		Abs box 3	B5		Fridge	NA	Kuiper
+434	MPG	EPR10959(B)		Human	rabbit mAb	Abcam	ab155092	1:10000	Abs freezer box 1	NA		Freezer	WB	Kuiper
+435	CD56 BV711	HCD56	Brilliant Violet 711	Human	mouse IgG1 kappa	BioLegend	318335		Abs box 3	B4	YES	Fridge	NA	Kuiper
+436	anti-rabbit IgG IRDye 800CW	n.a.	IRDye 800CW	Rabbit	goat	LI-COR	925-32211	WB (1:10000)	Abs box 5	A8		Fridge	NA	Kuiper
+437	CD45 APC-R700	HI30	APC-R700	Human	Mouse IgG1, k 	Biolegend	304023	1:2000	Abs box 3	A4		Fridge	NA	Kuiper
+438	CD30 PE 	BY88	PE	Human	Mouse IgG1 k	BioLegend	333906		Abs box 2	C7	YES	Fridge	NA	Kuiper
+439	CD45RA PerCP/Cy5.5	HI100	PerCP/Cy5.5	Human	mouse IgG2b kappa	BioLegend	304121	1:20	Abs box 3	B2		Fridge	NA	Kuiper
+440	CD34 PE 	561	PE	Human	mouse IgG2a kappa	BioLegend	343605		Abs box 2	D4		Fridge	NA	Kuiper
+441	Annexin V/FITC	n.a.	FITC	Human	n.a.	Invitrogen	BMS306F1-100	FACS	Abs box 5	A4		Fridge	NA	Kuiper
+442	TCRgd BV421	11FS	BV421	Human	Mouse BALB/c IgG1	BD Bioscience	744870		Abs box 4	C2		Fridge	NA	Kuiper
+443	HLA-DR BV605	L243	BV605	Human	Mouse IgG2a kappa 	BioLegend	307639		Abs box 4	B5	Yes	Fridge	NA	Kuiper
+444	CD40 PE/Cy7	5C3	PE/Cy7	Human	mouse IgG1 kappa	BioLegend	334321		Abs box 2	D8		Fridge	NA	Kuiper
+445	BATF3	841702	PE	Human	Mouse	NovusBio	FAB7437P	FACS	Abs box 5	C8		Fridge	NA	Kuiper
+446	CD10 APC	HI10a	APC	Human	Mouse IgG1, κ	Biolegend	312209		Abs box 1	D3	YES (2x)	Fridge	NA	Kuiper
+447	CD45 PECy7	HI30	PECy7	Human	Mouse IgG, kappa	Biolegend	304015		Abs box 3	A10		Fridge	NA	Kuiper
+448	CD31 BV605	L133.1	BV605	Human	Mouse IgG1, κ	BD Bioscience	745119		Abs box 2	C8	YES	Fridge	NA	Kuiper
+449	CD8a BV421	RPA-T8	BV421	Human	Mouse IgG1, κ	Biolegend	301036		Abs box 1	C8		Fridge	NA	Kuiper
+450	CD80 BV510	2D10	Brilliant Violet 510	Human	Mouse IgG1, κ	Biolegend	305233		Abs box 3	C3	YES	Fridge	NA	Kuiper
+451	CD19 BV785	HIB19	BV785	Human	mouse IgG1 kappa	BioLegend	302239		Abs box 2	B7		Fridge	NA	Kuiper
+452	Streptavidin BV711	n.a.	Brilliant Violet 711	Human	n.a.	BioLegend	405241	FACS	Abs box 5	D1		Fridge	NA	Kuiper
+453	HA-Tag 	C29F4		Human	rabbit mAb	Cell Signaling Technology	3724S		Abs freezer box 1	NA		Freezer	WB	Kuiper
+454	CD205 BUV395	MMR1-7	BUV395	Human	Mouse IgG1, κ	BD Bioscience	744062		Abs box 4	A5		Fridge	NA	Kuiper
+455	CD16 APC	3G8	APC	Human	mouse IgG1 kappa	BioLegend	302012		Abs box 2	B1		Fridge	NA	Kuiper
+456	H3K36me2	C75H12		human	rabbit monoclonal	Cell Signaling Technology	2901	1:1000	Abs freezer box 1	NA		Freezer	WB	Kuiper
+457	Ghost Dye Red 780			Mammalian cells		Tonbo biosciences	13-0865	1:2000(see tube)	Abs freezer box 2	NA		Freezer	FACS	Kuiper
+458	CD15 (SSEA-1) FITC	HI98	FITC	Human	mouse IgM kappa	BioLegend	301903		Abs box 2	A6	YES	Fridge	NA	Kuiper
+459	CD3 FITC	OKT3	FITC	Human	mouse IgG2a kappa	Biolegend	317306	1:100	Abs box 1	A5		Fridge	NA	Kuiper
+460	CD201/EPCR APC	RCR-401	APC	Human	Rat IgG1, Kappa	BioLegend	351905	1:50	Abs box 4	A4	YES	Fridge	NA	Kuiper
+461	CD4 PE/Cy7	L200	PE-Cy7	Human	Mouse BALB/c IgG1, κ	BD Pharmingen	560644		Abs box 1	B6		Fridge	NA	Kuiper
+462	CD95 PE	DX2	PE	Human	mouse IgG1 kappa	BioLegend	305607	1:50	Abs box 3	C8		Fridge	NA	Kuiper
+463	SMUG1			Human	rabbit polyclonal	Invitrogen	PA5-44258	1:1000	Abs freezer box 1	NA		Freezer	WB	Kuiper
+464	CD249 BV650	2D3/APA	BV650	Human	Mouse BALB/c IgG1, κ	BD Bioscience	745361		Abs box 4	A8		Fridge	NA	Kuiper
+465	POLI			Human	rabbit polyclonal	Novus biologicals	NB100-175	1:500 IF	Abs freezer box 2	NA		Freezer	WB/IF	Kuiper
+466	TCRab APC	T10B9.1A-31	APC	Human	Mouse IgG1, κ	BD Bioscience	563821		Abs box 4	B7		Fridge	NA	Kuiper
+467	CD64 FITC	10.1	FITC	Human	Mouse IgG1, k	BioLegend	305005		Abs box 3	B9	YES (2x)	Fridge	NA	Kuiper
+468	TCR Vg9 APC/Fire 750	B3	APC Fire750 	Human	Mouse IgG1, κ	BioLegend 	331315		Abs box 4	C6		Fridge	NA	Kuiper
+469	CD33 APC	WM53	APC	Human	mouse IgG1 kappa	BioLegend	303407	1:50	Abs box 2	C10	YES	Fridge	NA	Kuiper
+470	CD5 BUV737	UCHT2	BUV737	Human	Mouse BALB/c IgG1, κ	BD Bioscience	564451	1:500	Abs box 1	B9		Fridge	NA	Kuiper
+471	CD14 PE	63D3	PE	Human	mouse IgG1 kappa	BioLegend	367103		Abs box 2	A1	YES	Fridge	NA	Kuiper
+472	CD42b PE	HIP1	PE	Human	mouse IgG1 kappa	BioLegend	303905	1:20	Abs box 2	E3	YES	Fridge	NA	Kuiper
+473	OGG1	EPR4664(2)		Human	rabbit mAb	Abcam	ab124741	1:10000	Abs freezer box 1	NA		Freezer	WB	Kuiper
+474	CHD-1			Human	rabbit polyclonal	Sigma	HPA022236-25ul	1:500 IF	Abs freezer box 2	NA		Freezer	WB/IF	Kuiper
+475	RUNX1			Human	rabbit Ab	Cell Signaling Technology	4334S		Abs freezer box 1	NA		Freezer	WB	Kuiper
+476	CD45RA BV605	HI100	BV605	Human	Mouse IgG2b, kappaa	Biolegend	304133		Abs box 3	B1		Fridge	NA	Kuiper
+477	CD117 APC 	YB5.B8	APC	Human	mouse IgG1 kappa	BD Pharmingen	561118		Abs box 3	D1	YES	Fridge	NA	Kuiper
+478	anti-mouse IgG AF488	n.a.	Alexa Fluor 488	Mouse	Goat / IgG	invitrogen	2220848	IF	Abs box 5	B1		Fridge	NA	Kuiper
+479	mouse IgG FITC isotype control		FITC		mouse mAb	Merck	12-487		Abs freezer box 1	NA		Freezer	FACS	Kuiper
+480	anti-rabbit IgG AF594	n.a.	Alexa Fluor 594	rabbit	goat	invitrogen	2165334	IF	Abs box 5	A5		Fridge	NA	Kuiper
+481	CD3 BV650	UCHT1	Brilliant Violet 650	Human	mouse IgG1 kappa	BioLegend	300467		Abs box 1	A7		Fridge	NA	Kuiper
+482	CD44 BV510	IM7	BV510	Human	Rat IgG2b, k 	Biolegend	103044		Abs box 3	A2		Fridge	NA	Kuiper
+483	CD4 APC/Cy7	SK3	APC/Cy7	Human 	Mouse IgG1, κ	BioLegend	344616		Abs box 1	B8		Fridge	NA	Kuiper
+484	Lineage (CD3/14/19/20/56) APC	n.a.	APC	Human	mouse IgG1 + IgG2b kappa	BioLegend	348803		Abs box 4	B1		Fridge	NA	Kuiper
+485	TCRab FITC	IP26	FITC	Human	Mouse IgG1, κ	Biolegend 	306705		Abs box 4	B8		Fridge	NA	Kuiper
+486	SF3B1	D7L5T		Human	Rabbit mAb	Cell Signaling Technology	14434S	1:1000 WB	Abs freezer box 2	NA		Freezer	WB (+FACS?)	Kuiper
+487	PMS1	E-3	n.a.	Human	Mouse mAb	Santa Cruz Biotechnology	sc-515302	WB	Abs box 5	B9		Fridge	NA	Kuiper
+488	Zombie NIR Dye					BioLegend	77184		Abs freezer box 1	NA		Freezer	FACS	Kuiper
+489	CD8a BV785	SK1	Brilliant Violet 785	Human	mouse IgG1 kappa	BioLegend	344739		Abs box 1	C5		Fridge	NA	Kuiper
+490	CD7 APC	CD7-6B7	APC	Human	mouse IgG2a kappa	BD Bioscience	343107		Abs box 1	C2		Fridge	NA	Kuiper
+491	Vybrant DyeCycle Violet Stain	n.a.	n.a.	Human	n.a.	Invitrogen	V35003	FACS	Abs box 5	E6		Fridge	NA	Kuiper
+492	rabbit IgG PE isotype control	DA1E	PE		rabbit mAb	Cell Signaling Technology	5742S	FACS	Abs box 5	A2		Fridge	NA	Kuiper
+493	CD8a BV650	RPA-T8	Brilliant Violet 650	Human	Mouse IgG1, κ	BD Bioscience	563821		Abs box 1	C6		Fridge	NA	Kuiper
+494	CD11b APC/Cy7	ICRF44	APC/Cy7	Human	mouse IgG1 kappa	BioLegend	301341		Abs box 1	D6	YES (2x)	Fridge	NA	Kuiper
+495	MSH2 antibody aliquots	D24B5		Human	rabbit mAb	Cell Signaling Technology	2017S	1:2000	Abs freezer box 2	NA		Freezer	WB	Kuiper
+496	CD44 PE	?	PE	Human	?	Miltenyi	130095180		Abs box 3	A3		Fridge	NA	Kuiper
+497	CD15 (SSEA-1) PE	HI98	PE	Human	Mouse IgM kappa	Biolegend	301905	1:50 (Inge: 1:20)	Abs box 2	A7		Fridge	NA	Kuiper
+498	CD43 BV421	1G10	Brillian Violet 421	Human	Mouse IgG1, κ	BD Biosciences	562916		Abs box 3	A1		Fridge	NA	Kuiper
+499	MBD4			Human	rabbit polyclonal	Abcam	ab12187		Abs freezer box 1	NA		Freezer	WB	Kuiper
+500	CD127 BV421	HIL-7R-M21	BV421	Human	Mouse IgG1, kappa	BD Bioscience	562436		Abs box 3	D10		Fridge	NA	Kuiper
+501	Lineage (CD3/14/19/20/56) FITC	n.a.	FITC	Human	mouse IgG1 + IgG2b kappa	BioLegend	348701	1:20	Abs box 4	A10	YES	Fridge	NA	Kuiper
+502	CCRL1 BV711	13E11	Brilliant Violet 711	Human	Mouse BALB/c IgG2b, κ	BD Bioscience	747803		Abs box 4	C10		Fridge	NA	Kuiper
+503	CD45 FITC	HI30	FITC	Human	mouse IgG1 kappa	BioLegend	304005	1:50	Abs box 3	A7		Fridge	NA	Kuiper
+504	CD123 PE/Cy7	6H6	PE/Cy7	Human	mouse IgG1 kappa	BioLegend	306009		Abs box 3	D8		Fridge	NA	Kuiper
+505	CD54	HCD54	None	Human	Mouse	Biolegend	322702	Interaction blocking	Abs box 5	C3	YES 	Fridge	NA	Kuiper
+506	S100A4 PerCP-Cy5.5	NJ04F3-D1	PerCP-Cy5.5	Human	n.a.	Biolegend	370009	FACS (intracellular)	Abs box 5	D6		Fridge	NA	Kuiper
+507	CD235a PE/Cy7	6A-R2	PE/Cy7	Human	mouse IgG2b kappa	BioLegend	563666		Abs box 4	A7		Fridge	NA	Kuiper
+508	CD3 PE-Cy7	SK7	PE-Cy7	Human	mouse IgG1 kappa	BioLegend	344815		Abs box 1	A6	YES	Fridge	NA	Kuiper
+509	Lamin A + C Antibody 	133A2	AF700	Human	Mouse mAb	NovusBio	NBP1-97688AF700	FACS	Abs box 5	C7		Fridge	NA	Kuiper
+510	TCR Vg9 APC	B3	APC	Human	Mouse IgG1, κ	Biolegend	331309		Abs box 4	C9		Fridge	NA	Kuiper
+511	PageRuler Prestained Protein ladder					Thermo Fisher	26616		Abs freezer box 1	NA		Freezer	WB	Kuiper
+512	MSH2	D24B5		Human	rabbit mAb	Cell Signaling Technology	2017S	1:2000	Abs freezer box 1	NA		Freezer	WB	Kuiper
+513	CD40 AF700	5C3	Alexa Fluor 700	Human	mouse IgG1 kappa	BioLegend	334327	1:50	Abs box 2	D7		Fridge	NA	Kuiper
+514	CD3 BV711	UCHT1	BV711	Human	Mouse IgG1, kappa	BioLegend	300463		Abs box 1	A4		Fridge	NA	Kuiper
+515	NFIA			Human	Rabbit	Sigma	HPA008884-25ul	1:500 IF	Abs freezer box 2	NA		Freezer	WB/IF	Kuiper
+516	CD123 APC Fire 750	6H6	APC Fire 750	Human	Mouse IgG1 k 	BioLegend	306041		Abs box 3	D9		Fridge	NA	Kuiper
+517	CD40 BUV563	5C3	BUV563	Human	?	BD Bioscience	741381		Abs box 2	D10		Fridge	NA	Kuiper
+518	CD19 BV421	HIB19	BV421	Human	Mouse IgG1	BioLegend	302233		Abs box 2	B8		Fridge	NA	Kuiper
+519	TDG			Human	rabbit polyclonal	abcam	ab227498		Abs freezer box 1	NA		Freezer	WB	Kuiper
+520	CD5 APC	UCHT2	APC	Human	Mouse IgG1, κ	BioLegend	300611		Abs box 1	B10		Fridge	NA	Kuiper
+521	CD56 BB700	NCAM16.2	BB700	Human	Mouse BALB/c IgG2b, κ	BD Bioscience	566574	1:500	Abs box 3	B6	YES	Fridge	NA	Kuiper
+522	CD127 AF488	HIL-7R-M21	AF488	Human	Mouse IgG1, κ	BD Pharmingen	567403		Abs box 3	E1		Fridge	NA	Kuiper
+523	CD58	TS2/9	None	Human	Mouse	Biolegend	330902	Interaction blocking	Abs box 5	C4	YES (2x) 	Fridge	NA	Kuiper
+524	aliquot CD45 BV510		Brilliant Violet 510						Abs box 5	E2		Fridge	NA	Kuiper
+525	CD11c BUV661	B-ly6	BUV661	Human	Mouse BALB/c IgG1, κ	BD Bioscience	565067/612968	1:200	Abs box 1	E1	YES	Fridge	NA	Kuiper
+526	CD30 APC/Fire750	BY88	APC/Fire750	Human	Mouse IgG1, k	BioLegend	333915		Abs box 2	C6		Fridge	NA	Kuiper
+527	Anti-rabbit IgG AF488	n.a.	Alexa Fluor 488	Rabbit	Goat	invitrogen	2284595	IF	Abs box 5	A7		Fridge	NA	Kuiper
+528	CD45 PerCP/Cy5.5	HI30	PerCP/Cy5.5	Human	mouse IgG1 kappa	BioLegend	304027		Abs box 3	A8	YES	Fridge	NA	Kuiper
+529	Ig lambda light chain AF700	MHL-38	AF700	Human	Mouse IgG2a, κ	BioLegend	316631	FACS	Abs box 5	E3		Fridge	NA	Kuiper
+530	CD5 PE	UCHT2	PE	Human	Mouse IgG1, κ 	BioLegend	300608		Abs box 1	C1		Fridge	NA	Kuiper
+531	FANCA	EPR16519		Human	rabbit monoclonal	Abcam	ab201457		Abs freezer box 1	NA		Freezer	WB	Kuiper
+532	CD16 PerCP/Cy5.5	3G8	PerCP/Cy5.5	Human	Mouse IgG1, k	BioLegend	302027		Abs box 2	B2		Fridge	NA	Kuiper
+533	LFA-1 (CD11a/CD18)	M24	None	Human	Mouse mAb	Biolegend	363402	Interaction blocking	Abs box 5	C5	YES	Fridge	NA	Kuiper
+534	CD20 FITC	2H7	FITC	Human	mouse IgG2b kappa	BioLegend	302303	1:50	Abs box 2	B9	YES	Fridge	NA	Kuiper
+535	DAPI 500 uM	n.a.	n.a.	Human	n.a.	Thermo	D3571	All (IF 1:2000, FACS 1:500)	Abs box 5	D7		Fridge	NA	Kuiper
+536	TCRgd APC	11F2	APC	Human	Mouse IgG1, k 	Miltenyi	130-113-500		Abs box 4	B9		Fridge	NA	Kuiper
+537	CENPH antibody			Human		Sigma	HPA036494		Abs freezer box 2	NA		Freezer	WB/IF	Kuiper
+538	CD42b APC Vio770	?	APC Vio770	Human	?	Milteny Biotec	130100202		Abs box 2	E4		Fridge	NA	Kuiper
+539	CD11b BV785	ICRF44	BV785	Human	Mouse IgG1, κ	Biolegend	301345		Abs box 1	D5		Fridge	NA	Kuiper
+540	POLH	B-7	n.a.	Human	Mouse mAb IgG1 κ 	Santa Cruz Biotechnology	sc-17770	WB (?)	Abs box 5	C1		Fridge	NA	Kuiper
+541	RNASEH1			Human	rabbit polyclonal	Proteintech	15606-1-AP	1:1000 WB	Abs freezer box 2	NA		Freezer	WB	Kuiper
+542	CD41 APC/Fire750	HIP8	APC/Fire750	Human	Mouse IgG, kappa	Biolegend	303749		Abs box 2	E2		Fridge	NA	Kuiper
+543	CD95 APC	DX2	APC	Human	mouse IgG1 kappa	BioLegend	305611		Abs box 3	C7		Fridge	NA	Kuiper
+544	CD41 BV510	HIP8	BV510	Human	Mouse IgG1, kappa	BioLegend	303735		Abs box 2	E1		Fridge	NA	Kuiper
+545	CD326 (EpCAM) Pe/Cy7	9C4	Pe-Cy7	Human	Mouse IgG2b, κ	Biolegend	324221	FACS	Abs box 5	D3		Fridge	NA	Kuiper
+546	CD90 APC	5E10	APC	Human	mouse IgG1 kappa	BioLegend	328113	1:200	Abs box 3	C4	YES	Fridge	NA	Kuiper
+547	CD30 APC	BY88	APC	Human	mouse IgG1 kappa	BioLegend	333909	1:25	Abs box 2	C5		Fridge	NA	Kuiper
+548	Anti-phopho-histone H3 (Ser10)	n.a.	n.a.	Human	n.a.	EMD Millipore	06-570		Abs box 5	D8	YES	Fridge	NA	Kuiper
+549	CD38 PE	HIT2	PE	Human	mouse IgG1 kappa	BioLegend	303505	1:50	Abs box 2	D6	YES	Fridge	NA	Kuiper
+550	p95/NBS1 (Y112)			Human	rabbit monoclonal	Abcam	ab32074		Abs freezer box 1	NA		Freezer	WB	Kuiper
+551	CD3 APC/Fire750	SK7	APC/Fire750	Human	mouse IgG1 kappa	BioLegend	344839	1:100	Abs box 1	B1	YES	Fridge	NA	Kuiper
+552	CD20 BV421	2H7	Brilliant Violet 421	Human	mouse IgG2b kappa	BioLegend	302329	1: 50	Abs box 2	B10	YES	Fridge	NA	Kuiper
+553	CD10PE/CY5	H10a	PE Cy5	Human	mouse IgG1 kappa	Biolegend	312206		Abs box 1	D4		Fridge	NA	Kuiper
+554	anti-mouse IgG IRDye 680RD	n.a.	IRDye 680CW	Mouse	goat	LI-COR	925-68070	WB (1:10000)	Abs box 5	B2		Fridge	NA	Kuiper
+555	CD8a APC/Cy7	HIT8a	APC/Cy7	Human	Mouse IgG1, κ	Biolegend	300925		Abs box 1	C10		Fridge	NA	Kuiper
+556	S9.6 (Anti-DNA-RNA Hybrid)	S9.6		Human	mouse monoclonal	Kerafast	ENH001		Abs freezer box 1	NA		Freezer	WB/IF/IP	Kuiper
+557	Vybrant DyeCycle Ruby stain					Invitrogen	V10309		Abs freezer box 1	NA		Freezer	FACS	Kuiper
+558	CD117 BV421	YB5.B8	BV421	Human	Mouse IgG1, k 	BD Bioscience	562434	1:50	Abs box 3	D3		Fridge	NA	Kuiper
+559	CD14 PE CF594	MphiP9	PE CF594	Human	?	BD Biosciences	562334		Abs box 2	A5		Fridge	NA	Kuiper
+560	HLA-DR BUV737	G46-6	BUV737	Human	Mouse IgG2a, κ	BD Bioscience	748339		Abs box 4	B3		Fridge	NA	Kuiper
+561	CD15 AF700	HI98	AF700	Human	Mouse IgM kappa	BioLegend	301919		Abs box 2	A9		Fridge	NA	Kuiper
+562	MLH3	H-2	n.a.	Human	Mouse mAb	Santa Cruz Biotechnology	sc-25313	WB (?)	Abs box 5	B7		Fridge	NA	Kuiper
+563	CD265 (RANK) AF647	9A725	AF647	Human	IgG1, k 	BD Pharmigen	566348	FACS	Abs box 5	D2		Fridge	NA	Kuiper
+564	CellTrace Violet					Invitrogen	C34571		Abs freezer box 1	NA		Freezer	FACS	Kuiper
+565	CD33 PE/Cy7	WM53	PE/Cy7	Human	mouse IgG1 kappa	BioLegend	303433	1:20	Abs box 2	C9	YES	Fridge	NA	Kuiper
+566	aliquot CD13 PerCP/Cy5.5	WM15	PerCP/Cy5.5	Human	Mouse IgG1, κ	BD Biosciences	561361	FACS	Abs box 5	D10		Fridge	NA	Kuiper
+567	TARC/CCL17 PE	54015	PE	Human	mouse IgG1 kappa	R&D Systems	IC3641P		Abs box 4	B2		Fridge	NA	Kuiper
+568	CD4 PerCP/Cy5.5	OKT4	PerCP/Cy5.5	Human	mouse IgG2b kappa	BioLegend	317427		Abs box 1	B4		Fridge	NA	Kuiper
+569	CD117 BV605	YbB5.B8	BV5605	Human	Mouse IgG1, κ	BD Bioscience	745259		Abs box 3	D4		Fridge	NA	Kuiper
+570	CD56 BV605	NCAM16.2	BV605	Human	?	BD Biosciences	562779		Abs box 3	B8		Fridge	NA	Kuiper
+571	Precision Plus Protein WesternC standard					Bio-Rad	161-0376		Abs freezer box 1	NA		Freezer	WB	Kuiper
+572	TCRab PE/Cy5	IP26	PE Cy5	Human	mouse IgG1 kappa	BioLegend	306710		Abs box 4	C8		Fridge	NA	Kuiper
+573	CDT1	D10F11		Human	rabbit monoclonal	Cell Signaling Technology	8064S	?	Abs freezer box 1	NA		Freezer	WB	Kuiper
+574	Cd34 Pe Cy7	581	PE Cy7	Human	?	BD Bioscience	561819		Abs box 2	D5		Fridge	NA	Kuiper
+575	CD34 APC	561	APC	Human	mouse IgG2a kappa	BioLegend	343607		Abs box 2	D1	YES (2x)	Fridge	NA	Kuiper
+576	CD3 APC	HIT3a	APC	Human	mouse IgG2a kappa	BioLegend	300311		Abs box 1	A10	YES (2x)	Fridge	NA	Kuiper
+577	Human TruStain FC block	n.a.	n.a.	Human	n.a.	Biolegend	422301	FACS	Abs box 5	A3		Fridge	NA	Kuiper
+578	CD16 FITC	3G8	FITC	Human	mouse IgG1 kappa	BioLegend	302005	1:100	Abs box 2	A10	YES	Fridge	NA	Kuiper
+579	HPRT			Human	rabbit polyclonal	Abcam	ab10479	1:2000	Abs freezer box 1	NA		Freezer	WB	Kuiper
+580	Invariant NK/T BV480	6B11	Brilliant Violet 480	Human	Mouse C57BL/6 IgG1, κ	BD Bioscience	746788	FACS	Abs box 5	C9		Fridge	NA	Kuiper
+581	SETD3 antibody			Human		Sigma	HPA003591		Abs freezer box 2	NA		Freezer	WB/IF	Kuiper
+582	CD15 BV711	W6D3	BV711	Human	?	BD Bioscience	563142		Abs box 2	A8		Fridge	NA	Kuiper
+583	CD11c FITC	3.9	FITC	Human	Mouse IgG1, kappa	BioLegend	301604		Abs box 1	D8	YES	Fridge	NA	Kuiper
+584	Anti-Phospho_Histone H2A.X	JBW301	n.a.	Human	Mouse mAb	Sigma/Merck	05-636	IF (1:1000)	Abs box 5	A9	YES	Fridge	NA	Kuiper
+585	CD8a BV711	RPA-T8	Brilliant Violet 711	Human	Mouse IgG1, κ	Biolegend	301043	1:500	Abs box 1	C7	YES	Fridge	NA	Kuiper
+586	BLM			Human	rabbit polyclonal	Abcam	ab2179		Abs freezer box 1	NA		Freezer	WB	Kuiper
+587	CD117 BUV395	YB5.B8	BUV395	Human	Mouse BALB/c IgG1	BD Bioscience	745740	1:200	Abs box 3	D5		Fridge	NA	Kuiper
+588	CD1a PE	HI149	PE	Human	Mouse IgG1, k 	Biolegend	300105	1:1000	Abs box 1	A1		Fridge	NA	Kuiper
+589	CD141 APC	M80	APC	Human	Mouse IgG1 k	BioLegend	344105		Abs box 4	A1		Fridge	NA	Kuiper
+590	CD11b APC	ICRF44	APC	Human	mouse IgG1 kappa	Biolegend	301309		Abs box 1	D7		Fridge	NA	Kuiper
+591	CD14 BV750	63D3	BV750	Human	Mouse IgG1, k	BioLegend	367135		Abs box 2	A4		Fridge	NA	Kuiper
+592	CD8a PE/Cy5	HIT8a	PE Cy5	Human	Mouse IgG1, κ	Biolegend	300909		Abs box 1	C9		Fridge	NA	Kuiper
+593	CD66b FITC	G10F5	FITC	Human	mouse IgM kappa	BioLegend	305103		Abs box 3	C1		Fridge	NA	Kuiper
+594	FCR-Blocker (for MACS)	n.a.	n.a.	Human	n.a	Miltenyi biotec	120-000-816	FACS	Abs box 5	D9		Fridge	NA	Kuiper
+595	CD14 AF700	HCD14	Alexa Fluor 700	Human	mouse IgG1 kappa	BioLegend	325614	1:100	Abs box 2	A2	YES	Fridge	NA	Kuiper
+596	7-AAD	n.a.	n.a.	Human	n.a.	Invitrogen	00-6993-50	FACS	Abs box 5	A10	YES	Fridge	NA	Kuiper
+597	NSB1 (NBN)			Human	rabbit polyclonal	Invitrogen	711701		Abs freezer box 1	NA		Freezer	WB	Kuiper
+598	CD117 PE/Dazzle 594	104D2	PE/Dazzle 594	Human	mouse IgG1 kappa	BioLegend	313225		Abs box 3	C10	YES	Fridge	NA	Kuiper
+599	CD34 PE/Dazzle 594	581	PE/Dazzle 594	Human	mouse IgG1 kappa	BioLegend	343533		Abs box 2	D3	YES	Fridge	NA	Kuiper
+600	CD4 PE/Cy7	OKT4	PE/Cy7	Human	Mouse BALB/c IgG1, κ	Biolegend	317413	1:500	Abs box 1	B5	YES	Fridge	NA	Kuiper
+601	Hoechst 33342	n.a.	n.a.	Human	n.a.	Thermo Fischer 	H3570	IF 	Abs box 5	E5		Fridge	NA	Kuiper
+602	phospho-yH2AX FITC	JBW301	FITC	Human	mouse mAb	Merck	16-202A		Abs freezer box 1	NA		Freezer	FACS	Kuiper
+603	CD7 BV786	MT701	Brilliant Violet 786	Human	Mouse BALB/c IgG1, κ	BD Bioscience	740964	1:500	Abs box 1	C3		Fridge	NA	Kuiper
+604	APOBEC3A			Human	rabbit polyclonal	Sigma	HPA043237-100UL		Abs freezer box 1	NA		Freezer	WB	Kuiper
+605	CD8a AF700	HIT8a	AF700	Human	Mouse IgG1, κ	Biolegend	300920		Abs box 1	D1		Fridge	NA	Kuiper
+606	CD3 BUV496	UCHT1	BUV496	Human	Mouse BALB/c IgG1, κ	BD Bioscience	564810	1:500	Abs box 1	B2	YES	Fridge	NA	Kuiper
+607	MCM8			Human	rabbit polyclonal	Proteintech	16451-1-AP	1:1000?	Abs freezer box 2	NA		Freezer	WB	Kuiper
+608	CD8a FITC	HIT8a	FITC	Human	Mouse IgG1, κ 	BioLegend	300906		Abs box 1	D2		Fridge	NA	Kuiper
+609	CCR10 APC	6588-5	APC	Human	Armenian Hamster IgG	BioLegend	341505		Abs box 4	D2		Fridge	NA	Kuiper
+610	CD7 PECy7	MT701	PE/Cy7	Human	Mouse BALB/c IgG1, κ	BD Pharmingen	564019		Abs box 1	C4		Fridge	NA	Kuiper
+611	CD45 APC	2D1	APC	Human	mouse IgG1 kappa	BioLegend	368511	1:20	Abs box 3	A5	YES	Fridge	NA	Kuiper
+612	CD13 APC	WM15	APC	Human	mouse IgG1 kappa	BioLegend	301705		Abs box 1	E3		Fridge	NA	Kuiper
+613	CD20 PerCP	2H7		Human	Mouse IgG2b, kappaa	BioLegend	302323		Abs box 2	C1		Fridge	NA	Kuiper
+614	Ig kappa light chain PECy7	MHK-49	Pe-Cy7	Human	Mouse IgG1, κ	BioLegend	316520	FACS	Abs box 5	E4		Fridge	NA	Kuiper
+615	RUNX1 antibody			Human	rabbit polyclonal	Abcam	ab35962		Abs freezer box 2	NA		Freezer	WB	Kuiper
+616	CD123 BV605	6H6	Brilliant Violet 605	Human	mouse IgG1 kappa	BioLegend	306025		Abs box 3	D6	YES	Fridge	NA	Kuiper
+617	CD45 BV421	HI30	BV421	Human	Mouse IgG1, κ	Biolegend 	304031		Abs box 3	A9	YES	Fridge	NA	Kuiper
+618	TCR Vd1 FITC	TS8.2	FITC	Human	Mouse IgG1	ThermoFisher	TCR2730		Abs box 4	C3		Fridge	NA	Kuiper
+619	ATR			Human	rabbit polyclonal	Abcam	ab2905		Abs freezer box 1	NA		Freezer	WB	Kuiper
+620	PMS2	EPR3947		Human	rabbit monoclonal	Abcam	ab110638		Abs freezer box 1	NA		Freezer	WB	Kuiper
+621	CD1c APC	L161	APC	Human	mouse IgG1 kappa	Biolegend	331523		Abs box 1	A3		Fridge	NA	Kuiper
+622	XPC			Human	rabbit Ab	Cell Signaling Technology	12701S	1:2500	Abs freezer box 1	NA		Freezer	WB	Kuiper
+623	CD3 BV711	UCHT1	Brilliant Violet 711	Human	Mouse IgG1, κ	Biolegend	300463		Abs box 1	A9		Fridge	NA	Kuiper
+624	CD19 PE/Dazzle 594	HIB19	PE/Dazzle 594	Human	mouse IgG1 kappa	BioLegend	302251		Abs box 2	B6	YES (2x)	Fridge	NA	Kuiper
+625	CD2	RPA-2.10	None	Human	Mouse	Biolegend	300202	Interaction blocking	Abs box 5	C2	YES	Fridge	NA	Kuiper
+626	FANCC			Human	rabbit polyclonal	Abcam	ab97575		Abs freezer box 1	NA		Freezer	WB	Kuiper
+627	MGMT	MT 3.1	n.a.	Human	Mouse mAb IgG1 κ 	Invitrogen	MA5-13506	WB (1:500)	Abs box 5	B4		Fridge	NA	Kuiper
+628	CD271 APC	ME20.4	APC	Human	mouse IgG1 kappa	BioLegend	345107		Abs box 4	A9	YES	Fridge	NA	Molenaar
+629	CD127 AF488	HIL-7R-M21	AF488	Human	Mouse IgG1, κ	BD Pharmingen	567403		Abs box 3	E1		Fridge	NA	Molenaar
+630	PMS1	E-3	n.a.	Human	Mouse mAb	Santa Cruz Biotechnology	sc-515302	WB	Abs box 5	B9		Fridge	NA	Molenaar
+631	mouse IgG FITC isotype control		FITC		mouse mAb	Merck	12-487		Abs freezer box 1	NA		Freezer	FACS	Molenaar
+632	aliquot CD13 PerCP/Cy5.5	WM15	PerCP/Cy5.5	Human	Mouse IgG1, κ	BD Biosciences	561361	FACS	Abs box 5	D10		Fridge	NA	Molenaar
+633	CCR10 APC	6588-5	APC	Human	Armenian Hamster IgG	BioLegend	341505		Abs box 4	D2		Fridge	NA	Molenaar
+634	MSH3			human	rabbit polyclonal	Abcam	ab69619		Abs freezer box 1	NA		Freezer	WB	Molenaar
+635	CD19 BV421	HIB19	BV421	Human	Mouse IgG1	BioLegend	302233		Abs box 2	B8		Fridge	NA	Molenaar
+636	CD7 BV786	MT701	Brilliant Violet 786	Human	Mouse BALB/c IgG1, κ	BD Bioscience	740964	1:500	Abs box 1	C3		Fridge	NA	Molenaar
+637	CD19 AF700	HIB19	Alexa Fluor 700	Human	mouse IgG1 kappa	bioLegend	302225		Abs box 2	B5		Fridge	NA	Molenaar
+638	HLA-DR BV605	L243	BV605	Human	Mouse IgG2a kappa 	BioLegend	307639		Abs box 4	B5	Yes	Fridge	NA	Molenaar
+639	CD56 BV711	HCD56	Brilliant Violet 711	Human	mouse IgG1 kappa	BioLegend	318335		Abs box 3	B4	YES	Fridge	NA	Molenaar
+640	Annexin V/FITC	n.a.	FITC	Human	n.a.	Invitrogen	BMS306F1-100	FACS	Abs box 5	A4		Fridge	NA	Molenaar
+641	CD45 PerCP/Cy5.5	HI30	PerCP/Cy5.5	Human	mouse IgG1 kappa	BioLegend	304027		Abs box 3	A8	YES	Fridge	NA	Molenaar
+642	RNASEH1			Human	rabbit polyclonal	Abcam	ab229078	1:1000 WB	Abs freezer box 2	NA		Freezer	WB	Molenaar
+643	MSH2	D24B5		Human	rabbit mAb	Cell Signaling Technology	2017S	1:2000	Abs freezer box 1	NA		Freezer	WB	Molenaar
+644	CD11c PECy7	B-ly6	PE-Cy7	Human	Mouse BALB/c IgG1, κ	BD Pharmingen	561356		Abs box 1	E2		Fridge	NA	Molenaar
+645	MLH3	H-2	n.a.	Human	Mouse mAb	Santa Cruz Biotechnology	sc-25313	WB (?)	Abs box 5	B7		Fridge	NA	Molenaar
+646	CD235a PE/Cy7	6A-R2	PE/Cy7	Human	mouse IgG2b kappa	BioLegend	563666		Abs box 4	A7		Fridge	NA	Molenaar
+647	CD40 PE/Cy7	5C3	PE/Cy7	Human	mouse IgG1 kappa	BioLegend	334321		Abs box 2	D8		Fridge	NA	Molenaar
+648	CD90 APC	5E10	APC	Human	mouse IgG1 kappa	BioLegend	328113	1:200	Abs box 3	C4	YES	Fridge	NA	Molenaar
+649	CD4 AF700	OKT4	AF700	Human	Mouse IgG2b, κ	Biolegend	317426		Abs box 1	B7		Fridge	NA	Molenaar
+650	CD56 BB700	NCAM16.2	BB700	Human	Mouse BALB/c IgG2b, κ	BD Bioscience	566574	1:500	Abs box 3	B6	YES	Fridge	NA	Molenaar
+651	DAPI 500 uM	n.a.	n.a.	Human	n.a.	Thermo	D3571	All (IF 1:2000, FACS 1:500)	Abs box 5	D7		Fridge	NA	Molenaar
+652	CD14 BV650	M5E2	Brilliant Violet 650	Human	Mouse IgG2a, κ	BD Bioscience	563419	1:500	Abs box 2	A3		Fridge	NA	Molenaar
+653	CD66b FITC	G10F5	FITC	Human	mouse IgM kappa	BioLegend	305103		Abs box 3	C1		Fridge	NA	Molenaar
+654	HLA-DR BUV737	G46-6	BUV737	Human	Mouse IgG2a, κ	BD Bioscience	748339		Abs box 4	B3		Fridge	NA	Molenaar
+655	CD5 APC	UCHT2	APC	Human	Mouse IgG1, κ	BioLegend	300611		Abs box 1	B10		Fridge	NA	Molenaar
+656	CD205 BUV395	MMR1-7	BUV395	Human	Mouse IgG1, κ	BD Bioscience	744062		Abs box 4	A5		Fridge	NA	Molenaar
+657	TK1	EPR3193		Human	rabbit mAb	Abcam	ab76495	1:10000	Abs freezer box 1	NA		Freezer	WB	Molenaar
+658	Anti-Phospho_Histone H2A.X	JBW301	n.a.	Human	Mouse mAb	Sigma/Merck	05-636	IF (1:1000)	Abs box 5	A9	YES	Fridge	NA	Molenaar
+659	CD30 APC/Fire750	BY88	APC/Fire750	Human	Mouse IgG1, k	BioLegend	333915		Abs box 2	C6		Fridge	NA	Molenaar
+660	CD1a BV421	HI149	BV421	Human	Mouse IgG1, k 	Biolegend	300128		Abs box 1	A2		Fridge	NA	Molenaar
+661	CD56 AF488	B159	AF488	Human	Mouse IgG1, κ	BD Pharmigen	557699		Abs box 3	B5		Fridge	NA	Molenaar
+662	CD34 PE/Dazzle 594	581	PE/Dazzle 594	Human	mouse IgG1 kappa	BioLegend	343533		Abs box 2	D3	YES	Fridge	NA	Molenaar
+663	RPA32/RPA2	9H8		Human	mouse monoclonal	Abcam	ab2175		Abs freezer box 2	NA		Freezer	WB/IF	Molenaar
+664	CD34 PE 	561	PE	Human	mouse IgG2a kappa	BioLegend	343605		Abs box 2	D4		Fridge	NA	Molenaar
+665	HLA-DR BUV805	G46-6	BUV805	Human	?	BD Bioscience	568335		Abs box 4	B6		Fridge	NA	Molenaar
+666	CD3 PE	UCHT1	PE	Human	Mouse BALB/c IgG1, κ	BD Bioscience	561809		Abs box 1	A8	Yes (2x)	Fridge	NA	Molenaar
+667	CD54	HCD54	None	Human	Mouse	Biolegend	322702	Interaction blocking	Abs box 5	C3	YES 	Fridge	NA	Molenaar
+668	CD34 APC	561	APC	Human	mouse IgG2a kappa	BioLegend	343607		Abs box 2	D1	YES (2x)	Fridge	NA	Molenaar
+669	CD19 BV711	SJ25C1	BV 711	Human	Mouse BALB/c IgG1, κ	BD Bioscience	563038		Abs box 2	B3		Fridge	NA	Molenaar
+670	HA-Tag 	C29F4		Human	rabbit mAb	Cell Signaling Technology	3724S		Abs freezer box 1	NA		Freezer	WB	Molenaar
+671	CD123 BUV395	7G3	BUV395	Human	Mouse IgG2a, κ	BD Bioscience	564195		Abs box 3	D7		Fridge	NA	Molenaar
+672	MSH2 antibody aliquots	D24B5		Human	rabbit mAb	Cell Signaling Technology	2017S	1:2000	Abs freezer box 2	NA		Freezer	WB	Molenaar
+673	CD40 PE/Cy7	5C3	PE/Cy7	Human	mouse IgG1 kappa	BD Bioscience	561215		Abs box 2	D9		Fridge	NA	Molenaar
+674	CD38 PE	HIT2	PE	Human	mouse IgG1 kappa	BioLegend	303505	1:50	Abs box 2	D6	YES	Fridge	NA	Molenaar
+675	FANCC			Human	rabbit polyclonal	Abcam	ab97575		Abs freezer box 1	NA		Freezer	WB	Molenaar
+676	BLM			Human	rabbit polyclonal	Abcam	ab2179		Abs freezer box 1	NA		Freezer	WB	Molenaar
+677	OGG1	EPR4664(2)		Human	rabbit mAb	Abcam	ab124741	1:10000	Abs freezer box 1	NA		Freezer	WB	Molenaar
+678	UNG	OTI1A11		Human	mouse IgG1	Invitrogen	MA5-25680	1:2500	Abs freezer box 1	NA		Freezer	WB	Molenaar
+679	MPG	EPR10959(B)		Human	rabbit mAb	Abcam	ab155092	1:10000	Abs freezer box 1	NA		Freezer	WB	Molenaar
+680	CD123 BV605	6H6	Brilliant Violet 605	Human	mouse IgG1 kappa	BioLegend	306025		Abs box 3	D6	YES	Fridge	NA	Molenaar
+681	S9.6 (Anti-DNA-RNA Hybrid)	S9.6		Human	mouse monoclonal	Kerafast	ENH001		Abs freezer box 1	NA		Freezer	WB/IF/IP	Molenaar
+682	PageRuler Prestained Protein ladder					Thermo Fisher	26616		Abs freezer box 1	NA		Freezer	WB	Molenaar
+683	SMUG1			Human	rabbit polyclonal	Invitrogen	PA5-44258	1:1000	Abs freezer box 1	NA		Freezer	WB	Molenaar
+684	pChk2 PE	C13C1	PE	Human	rabbit mAb	Cell Signaling Technology	12812S	FACS	Abs box 5	A1		Fridge	NA	Molenaar
+685	CD14 PE	63D3	PE	Human	mouse IgG1 kappa	BioLegend	367103		Abs box 2	A1	YES	Fridge	NA	Molenaar
+686	CD117 PE/Dazzle 594	104D2	PE/Dazzle 594	Human	mouse IgG1 kappa	BioLegend	313225		Abs box 3	C10	YES	Fridge	NA	Molenaar
+687	TCR Vg9 APC	B3	APC	Human	Mouse IgG1, κ	Biolegend	331309		Abs box 4	C9		Fridge	NA	Molenaar
+688	TCR Vg9 PE/Cy5	B3	PE Cy5	Human	Mouse IgG1, κ	BioLegend 	331323		Abs box 4	C7		Fridge	NA	Molenaar
+689	TCR Vg9 APC/Fire 750	B3	APC Fire750 	Human	Mouse IgG1, κ	BioLegend 	331315		Abs box 4	C6		Fridge	NA	Molenaar
+690	H3K36me2	C75H12		human	rabbit monoclonal	Cell Signaling Technology	2901	1:1000	Abs freezer box 1	NA		Freezer	WB	Molenaar
+691	CD7 APC	CD7-6B7	APC	Human	mouse IgG2a kappa	BD Bioscience	343107		Abs box 1	C2		Fridge	NA	Molenaar
+692	CD11c FITC	3.9	FITC	Human	Mouse IgG1, kappa	BioLegend	301604		Abs box 1	D8	YES	Fridge	NA	Molenaar
+693	TCR Vd1 FITC	REA173	FITC	Human		Miltenyi	130-118-498		Abs box 4	C4		Fridge	NA	Molenaar
+694	Anti-rabbit IgG AF488	n.a.	Alexa Fluor 488	Rabbit	Goat	invitrogen	2284595	IF	Abs box 5	A7		Fridge	NA	Molenaar
+695	CD14 PE CF594	MphiP9	PE CF594	Human	?	BD Biosciences	562334		Abs box 2	A5		Fridge	NA	Molenaar
+696	CD13 APC	WM15	APC	Human	mouse IgG1 kappa	BioLegend	301705		Abs box 1	E3		Fridge	NA	Molenaar
+697	CD56 BV605	NCAM16.2	BV605	Human	?	BD Biosciences	562779		Abs box 3	B8		Fridge	NA	Molenaar
+698	CD8a APC/Cy7	HIT8a	APC/Cy7	Human	Mouse IgG1, κ	Biolegend	300925		Abs box 1	C10		Fridge	NA	Molenaar
+699	CD49f PE/Cy7	GoH3	PE/Cy7	Human	rat IgG1a kappa	BioLegend	313621	1:100	Abs box 3	B3	YES	Fridge	NA	Molenaar
+700	CD44 BV510	IM7	BV510	Human	Rat IgG2b, k 	Biolegend	103044		Abs box 3	A2		Fridge	NA	Molenaar
+701	CD25 PerCP-Cy5.5	M-A251	PerCP-Cy5.5	Human	Mouse BALB/c IgG1, κ	BD Pharmigen	560503		Abs box 2	C2		Fridge	NA	Molenaar
+702	7-AAD	n.a.	n.a.	Human	n.a.	Invitrogen	00-6993-50	FACS	Abs box 5	A10	YES	Fridge	NA	Molenaar
+703	CD8a AF700	HIT8a	AF700	Human	Mouse IgG1, κ	Biolegend	300920		Abs box 1	D1		Fridge	NA	Molenaar
+704	TCRab APC	T10B9.1A-31	APC	Human	Mouse IgG1, κ	BD Bioscience	563821		Abs box 4	B7		Fridge	NA	Molenaar
+705	CD30 PE 	BY88	PE	Human	Mouse IgG1 k	BioLegend	333906		Abs box 2	C7	YES	Fridge	NA	Molenaar
+706	TCRgd APC	B1	APC	Human	Mouse IgG1, κ	BD Bioscience	561049		Abs box 4	B10	YES	Fridge	NA	Molenaar
+707	CD5 PE	UCHT2	PE	Human	Mouse IgG1, κ 	BioLegend	300608		Abs box 1	C1		Fridge	NA	Molenaar
+708	NSB1 (NBN)			Human	rabbit polyclonal	Invitrogen	711701		Abs freezer box 1	NA		Freezer	WB	Molenaar
+709	FANCD2			Human	rabbit polyclonal	Novus Biologicals	NB100-182SS	1:500	Abs freezer box 1	NA		Freezer	WB/IF	Molenaar
+710	CD45 FITC	HI30	FITC	Human	mouse IgG1 kappa	BioLegend	304005	1:50	Abs box 3	A7		Fridge	NA	Molenaar
+711	Vybrant DyeCycle Ruby stain					Invitrogen	V10309		Abs freezer box 1	NA		Freezer	FACS	Molenaar
+712	Lineage (CD3/14/19/20/56) FITC	n.a.	FITC	Human	mouse IgG1 + IgG2b kappa	BioLegend	348701	1:20	Abs box 4	A10	YES	Fridge	NA	Molenaar
+713	TARC/CCL17 PE	54015	PE	Human	mouse IgG1 kappa	R&D Systems	IC3641P		Abs box 4	B2		Fridge	NA	Molenaar
+714	CD163 APC	GHI61	APC	Human	Mouse IgG1, k	BioLegend	333609		Abs box 4	A3		Fridge	NA	Molenaar
+715	Anti-phopho-histone H3 (Ser10)	n.a.	n.a.	Human	n.a.	EMD Millipore	06-570		Abs box 5	D8	YES	Fridge	NA	Molenaar
+716	ATM [Y170]			Human	rabbit monoclonal	Abcam	ab32420		Abs freezer box 1	NA		Freezer	WB	Molenaar
+717	anti-mouse IgG HRP	n.a.	HRP	Mouse	sheep		NXA931V	WB (1:5000)	Abs box 5	E1		Fridge	NA	Molenaar
+718	ATR			Human	rabbit polyclonal	Abcam	ab2905		Abs freezer box 1	NA		Freezer	WB	Molenaar
+719	Hoechst 33342	n.a.	n.a.	Human	n.a.	Thermo Fischer 	H3570	IF 	Abs box 5	E5		Fridge	NA	Molenaar
+720	CD2	RPA-2.10	None	Human	Mouse	Biolegend	300202	Interaction blocking	Abs box 5	C2	YES	Fridge	NA	Molenaar
+721	phospho-yH2AX FITC	JBW301	FITC	Human	mouse mAb	Merck	16-202A		Abs freezer box 1	NA		Freezer	FACS	Molenaar
+722	CD11b APC	ICRF44	APC	Human	mouse IgG1 kappa	Biolegend	301309		Abs box 1	D7		Fridge	NA	Molenaar
+723	CD117 APC 	YB5.B8	APC	Human	mouse IgG1 kappa	BD Pharmingen	561118		Abs box 3	D1	YES	Fridge	NA	Molenaar
+724	TDG			Human	rabbit polyclonal	abcam	ab227498		Abs freezer box 1	NA		Freezer	WB	Molenaar
+725	CD11c BUV661	B-ly6	BUV661	Human	Mouse BALB/c IgG1, κ	BD Bioscience	565067/612968	1:200	Abs box 1	E1	YES	Fridge	NA	Molenaar
+726	CD11b APC/Cy7	ICRF44	APC/Cy7	Human	mouse IgG1 kappa	BioLegend	301341		Abs box 1	D6	YES (2x)	Fridge	NA	Molenaar
+727	CD141 APC	M80	APC	Human	Mouse IgG1 k	BioLegend	344105		Abs box 4	A1		Fridge	NA	Molenaar
+728	TCRab PE/Cy5	IP26	PE Cy5	Human	mouse IgG1 kappa	BioLegend	306710		Abs box 4	C8		Fridge	NA	Molenaar
+729	CD90 FITC	5E10	FITC	Human	?	BioLegend	328107		Abs box 3	C6		Fridge	NA	Molenaar
+730	beta-Actin	RM112	n.a.	Human	rabbit mAb	Merck	MABT523	WB (1:5000)	Abs box 5	B3		Fridge	NA	Molenaar
+731	CD30 APC	BY88	APC	Human	mouse IgG1 kappa	BioLegend	333909	1:25	Abs box 2	C5		Fridge	NA	Molenaar
+732	p95/NBS1 (Y112)			Human	rabbit monoclonal	Abcam	ab32074		Abs freezer box 1	NA		Freezer	WB	Molenaar
+733	CENPH antibody			Human		Sigma	HPA036494		Abs freezer box 2	NA		Freezer	WB/IF	Molenaar
+734	CD127 BV421	HIL-7R-M21	BV421	Human	Mouse IgG1, kappa	BD Bioscience	562436		Abs box 3	D10		Fridge	NA	Molenaar
+735	Lineage (CD3/14/19/20/56) APC	n.a.	APC	Human	mouse IgG1 + IgG2b kappa	BioLegend	348803		Abs box 4	B1		Fridge	NA	Molenaar
+736	CD201/EPCR APC	RCR-401	APC	Human	Rat IgG1, Kappa	BioLegend	351905	1:50	Abs box 4	A4	YES	Fridge	NA	Molenaar
+737	PMS2	EPR3947		Human	rabbit monoclonal	Abcam	ab110638		Abs freezer box 1	NA		Freezer	WB	Molenaar
+738	TCR Vd2 PE	B6 	PE	Human	Mouse IgG1, κ	BioLegend	331407		Abs box 4	C5		Fridge	NA	Molenaar
+739	CD42b PE	HIP1	PE	Human	mouse IgG1 kappa	BioLegend	303905	1:20	Abs box 2	E3	YES	Fridge	NA	Molenaar
+740	HLA-DR FITC	L243	FITC	Human	Mouse IgG2a kappa 	Biolegend	307603	1:20	Abs box 4	B4	Yes	Fridge	NA	Molenaar
+741	CD27 APCCy7	M-T271	APC/Cy7	Human	Mouse IgG1, κ	BioLegend	356423		Abs box 2	C4	YES	Fridge	NA	Molenaar
+742	CD95 APC	DX2	APC	Human	mouse IgG1 kappa	BioLegend	305611		Abs box 3	C7		Fridge	NA	Molenaar
+743	CD19 APC	HIB19	APC	Human	mouse IgG1 kappa	BioLegend	302211		Abs box 2	B4		Fridge	NA	Molenaar
+744	XPC			Human	rabbit Ab	Cell Signaling Technology	12701S	1:2500	Abs freezer box 1	NA		Freezer	WB	Molenaar
+745	CD34 BV421	581	Brilliant Violet 421	Human	mouse IgG2a kappa	BioLegend	343609	1:20	Abs box 2	D2	YES	Fridge	NA	Molenaar
+746	anti-mouse IgG AF647	n.a.	Alexa Fluor 647	Mouse	goat	Invitrogen	2272554	IF	Abs box 5	B8		Fridge	NA	Molenaar
+747	Cd34 Pe Cy7	581	PE Cy7	Human	?	BD Bioscience	561819		Abs box 2	D5		Fridge	NA	Molenaar
+748	CD4 PerCP/Cy5.5	OKT4	PerCP/Cy5.5	Human	mouse IgG2b kappa	BioLegend	317427		Abs box 1	B4		Fridge	NA	Molenaar
+749	CD45 AF700	HI30	Alexa Fluor 700	Human	mouse IgG1 kappa	BioLegend	304023		Abs box 3	A6	YES	Fridge	NA	Molenaar
+750	CD20 PerCP	2H7		Human	Mouse IgG2b, kappaa	BioLegend	302323		Abs box 2	C1		Fridge	NA	Molenaar
+751	CD3 BV711	UCHT1	Brilliant Violet 711	Human	Mouse IgG1, κ	Biolegend	300463		Abs box 1	A9		Fridge	NA	Molenaar
+752	CD66b PE/Dazzle 594	G10F5	PE/Dazzle 594	Human	mouse IgM kappa	BioLegend	305121		Abs box 3	B10	YES	Fridge	NA	Molenaar
+753	CD14 BV750	63D3	BV750	Human	Mouse IgG1, k	BioLegend	367135		Abs box 2	A4		Fridge	NA	Molenaar
+754	POLI			Human	rabbit polyclonal	Novus biologicals	NB100-175	1:500 IF	Abs freezer box 2	NA		Freezer	WB/IF	Molenaar
+755	CD5 BUV737	UCHT2	BUV737	Human	Mouse BALB/c IgG1, κ	BD Bioscience	564451	1:500	Abs box 1	B9		Fridge	NA	Molenaar
+756	FLAG (M2)	M2		Human	mouse monoclonal	Sigma	F1804	1:1000	Abs freezer box 1	NA		Freezer	WB	Molenaar
+757	CD58	TS2/9	None	Human	Mouse	Biolegend	330902	Interaction blocking	Abs box 5	C4	YES (2x) 	Fridge	NA	Molenaar
+758	CD8a BV711	RPA-T8	Brilliant Violet 711	Human	Mouse IgG1, κ	Biolegend	301043	1:500	Abs box 1	C7	YES	Fridge	NA	Molenaar
+759	CD45RA BV605	HI100	BV605	Human	Mouse IgG2b, kappaa	Biolegend	304133		Abs box 3	B1		Fridge	NA	Molenaar
+760	CD326 (EpCAM) Pe/Cy7	9C4	Pe-Cy7	Human	Mouse IgG2b, κ	Biolegend	324221	FACS	Abs box 5	D3		Fridge	NA	Molenaar
+761	LFA-1 (CD11a/CD18)	M24	None	Human	Mouse mAb	Biolegend	363402	Interaction blocking	Abs box 5	C5	YES	Fridge	NA	Molenaar
+762	CD265 (RANK) AF647	9A725	AF647	Human	IgG1, k 	BD Pharmigen	566348	FACS	Abs box 5	D2		Fridge	NA	Molenaar
+763	CD80 BV510	2D10	Brilliant Violet 510	Human	Mouse IgG1, κ	Biolegend	305233		Abs box 3	C3	YES	Fridge	NA	Molenaar
+764	CellTrace Violet					Invitrogen	C34571		Abs freezer box 1	NA		Freezer	FACS	Molenaar
+765	CD3 BV711	UCHT1	BV711	Human	Mouse IgG1, kappa	BioLegend	300463		Abs box 1	A4		Fridge	NA	Molenaar
+766	CD44 PE	?	PE	Human	?	Miltenyi	130095180		Abs box 3	A3		Fridge	NA	Molenaar
+767	CD16 FITC	3G8	FITC	Human	mouse IgG1 kappa	BioLegend	302005	1:100	Abs box 2	A10	YES	Fridge	NA	Molenaar
+768	CD16 PerCP/Cy5.5	3G8	PerCP/Cy5.5	Human	Mouse IgG1, k	BioLegend	302027		Abs box 2	B2		Fridge	NA	Molenaar
+769	Streptavidin BUV661	n.a.	BUV661	Mouse	n.a.	BD BIoscience	565081	FACS	Abs box 5	C10		Fridge	NA	Molenaar
+770	CD3 BV650	UCHT1	Brilliant Violet 650	Human	mouse IgG1 kappa	BioLegend	300467		Abs box 1	A7		Fridge	NA	Molenaar
+771	FCR-Blocker (for MACS)	n.a.	n.a.	Human	n.a	Miltenyi biotec	120-000-816	FACS	Abs box 5	D9		Fridge	NA	Molenaar
+772	CCRL1 BV786	13E11	Brilliant Violet 786	Human	Mouse BALB/c IgG2b, κ	BD Bioscience	747802		Abs box 4	D1		Fridge	NA	Molenaar
+773	Invariant NK/T BV480	6B11	Brilliant Violet 480	Human	Mouse C57BL/6 IgG1, κ	BD Bioscience	746788	FACS	Abs box 5	C9		Fridge	NA	Molenaar
+774	HPRT			Human	rabbit polyclonal	Abcam	ab10479	1:2000	Abs freezer box 1	NA		Freezer	WB	Molenaar
+775	APOBEC3A			Human	rabbit polyclonal	Sigma	HPA043237-100UL		Abs freezer box 1	NA		Freezer	WB	Molenaar
+776	CD8a BV421	RPA-T8	BV421	Human	Mouse IgG1, κ	Biolegend	301036		Abs box 1	C8		Fridge	NA	Molenaar
+777	S100A4 PerCP-Cy5.5	NJ04F3-D1	PerCP-Cy5.5	Human	n.a.	Biolegend	370009	FACS (intracellular)	Abs box 5	D6		Fridge	NA	Molenaar
+778	CD117 BV605	YbB5.B8	BV5605	Human	Mouse IgG1, κ	BD Bioscience	745259		Abs box 3	D4		Fridge	NA	Molenaar
+779	NFIA			Human	Rabbit	Sigma	HPA008884-25ul	1:500 IF	Abs freezer box 2	NA		Freezer	WB/IF	Molenaar
+780	anti-mouse IgG AF488	n.a.	Alexa Fluor 488	Mouse	Goat / IgG	invitrogen	2220848	IF	Abs box 5	B1		Fridge	NA	Molenaar
+781	Vybrant DyeCycle Violet Stain	n.a.	n.a.	Human	n.a.	Invitrogen	V35003	FACS	Abs box 5	E6		Fridge	NA	Molenaar
+782	CD95 PE	DX2	PE	Human	mouse IgG1 kappa	BioLegend	305607	1:50	Abs box 3	C8		Fridge	NA	Molenaar
+783	MBD4			Human	rabbit polyclonal	Abcam	ab12187		Abs freezer box 1	NA		Freezer	WB	Molenaar
+784	CD40 BUV563	5C3	BUV563	Human	?	BD Bioscience	741381		Abs box 2	D10		Fridge	NA	Molenaar
+785	AnnexinV APC	n.a.	APC	Human	n.a.	Biolegend	640941	FACS	Abs box 5	D4		Fridge	NA	Molenaar
+786	CD15 AF700	HI98	AF700	Human	Mouse IgM kappa	BioLegend	301919		Abs box 2	A9		Fridge	NA	Molenaar
+787	CHD-1			Human	rabbit polyclonal	Sigma	HPA022236-25ul	1:500 IF	Abs freezer box 2	NA		Freezer	WB/IF	Molenaar
+788	CD8a PE/Cy5	HIT8a	PE Cy5	Human	Mouse IgG1, κ	Biolegend	300909		Abs box 1	C9		Fridge	NA	Molenaar
+789	CD117 Pe/Cy7	104D2	PE/Cy7	Human	mouse IgG1 kappa	BioLegend	313211	1:20	Abs box 3	D2		Fridge	NA	Molenaar
+790	anti-rabbit IgG AF594	n.a.	Alexa Fluor 594	rabbit	goat	invitrogen	2165334	IF	Abs box 5	A5		Fridge	NA	Molenaar
+791	CD15 (SSEA-1) FITC	HI98	FITC	Human	mouse IgM kappa	BioLegend	301903		Abs box 2	A6	YES	Fridge	NA	Molenaar
+792	CD20 BV421	2H7	Brilliant Violet 421	Human	mouse IgG2b kappa	BioLegend	302329	1: 50	Abs box 2	B10	YES	Fridge	NA	Molenaar
+793	CD43 BV421	1G10	Brillian Violet 421	Human	Mouse IgG1, κ	BD Biosciences	562916		Abs box 3	A1		Fridge	NA	Molenaar
+794	CD45 APC-R700	HI30	APC-R700	Human	Mouse IgG1, k 	Biolegend	304023	1:2000	Abs box 3	A4		Fridge	NA	Molenaar
+795	CD11b BV785	ICRF44	BV785	Human	Mouse IgG1, κ	Biolegend	301345		Abs box 1	D5		Fridge	NA	Molenaar
+796	CD19 PE/Dazzle 594	HIB19	PE/Dazzle 594	Human	mouse IgG1 kappa	BioLegend	302251		Abs box 2	B6	YES (2x)	Fridge	NA	Molenaar
+797	POLH	B-7	n.a.	Human	Mouse mAb IgG1 κ 	Santa Cruz Biotechnology	sc-17770	WB (?)	Abs box 5	C1		Fridge	NA	Molenaar
+798	CD42b APC Vio770	?	APC Vio770	Human	?	Milteny Biotec	130100202		Abs box 2	E4		Fridge	NA	Molenaar
+799	CD8a BV650	RPA-T8	Brilliant Violet 650	Human	Mouse IgG1, κ	BD Bioscience	563821		Abs box 1	C6		Fridge	NA	Molenaar
+800	FANCG			Human	monoclonal	Abnova	H00002189-M01		Abs freezer box 1	NA		Freezer	WB	Molenaar
+801	TCRab FITC	IP26	FITC	Human	Mouse IgG1, κ	Biolegend 	306705		Abs box 4	B8		Fridge	NA	Molenaar
+802	TCRgd APC	11F2	APC	Human	Mouse IgG1, k 	Miltenyi	130-113-500		Abs box 4	B9		Fridge	NA	Molenaar
+803	CD249 BV650	2D3/APA	BV650	Human	Mouse BALB/c IgG1, κ	BD Bioscience	745361		Abs box 4	A8		Fridge	NA	Molenaar
+804	CD4 APC/Cy7	SK3	APC/Cy7	Human 	Mouse IgG1, κ	BioLegend	344616		Abs box 1	B8		Fridge	NA	Molenaar
+805	CD8a BV785	SK1	Brilliant Violet 785	Human	mouse IgG1 kappa	BioLegend	344739		Abs box 1	C5		Fridge	NA	Molenaar
+806	Streptavidin BV711	n.a.	Brilliant Violet 711	Human	n.a.	BioLegend	405241	FACS	Abs box 5	D1		Fridge	NA	Molenaar
+807	CD19 BV785	HIB19	BV785	Human	mouse IgG1 kappa	BioLegend	302239		Abs box 2	B7		Fridge	NA	Molenaar
+808	CD123 APC Fire 750	6H6	APC Fire 750	Human	Mouse IgG1 k 	BioLegend	306041		Abs box 3	D9		Fridge	NA	Molenaar
+809	CD3 APC	HIT3a	APC	Human	mouse IgG2a kappa	BioLegend	300311		Abs box 1	A10	YES (2x)	Fridge	NA	Molenaar
+810	CD10PE/CY5	H10a	PE Cy5	Human	mouse IgG1 kappa	Biolegend	312206		Abs box 1	D4		Fridge	NA	Molenaar
+811	Precision Plus Protein WesternC standard					Bio-Rad	161-0376		Abs freezer box 1	NA		Freezer	WB	Molenaar
+812	Phospho RPA32 antibody	n.a.	n.a.	Human, Mouse	Rabbit polyclonal	Bethyl	A300-245A-M	WB + IF	Abs box 5	B10		Fridge	NA	Molenaar
+813	CD7 PECy7	MT701	PE/Cy7	Human	Mouse BALB/c IgG1, κ	BD Pharmingen	564019		Abs box 1	C4		Fridge	NA	Molenaar
+814	RUNX1 antibody			Human	rabbit polyclonal	Abcam	ab35962		Abs freezer box 2	NA		Freezer	WB	Molenaar
+815	CDT1	D10F11		Human	rabbit monoclonal	Cell Signaling Technology	8064S	?	Abs freezer box 1	NA		Freezer	WB	Molenaar
+816	CD45 APC	2D1	APC	Human	mouse IgG1 kappa	BioLegend	368511	1:20	Abs box 3	A5	YES	Fridge	NA	Molenaar
+817	CD33 PE/Cy7	WM53	PE/Cy7	Human	mouse IgG1 kappa	BioLegend	303433	1:20	Abs box 2	C9	YES	Fridge	NA	Molenaar
+818	Claudin-3 PE	n.a.	PE	Human	Mouse IgG2A	R&D systems	FAB4620P	FACS	Abs box 5	D5		Fridge	NA	Molenaar
+819	Zombie NIR Dye					BioLegend	77184		Abs freezer box 1	NA		Freezer	FACS	Molenaar
+820	CD1c APC	L161	APC	Human	mouse IgG1 kappa	Biolegend	331523		Abs box 1	A3		Fridge	NA	Molenaar
+821	CD3 FITC	OKT3	FITC	Human	mouse IgG2a kappa	Biolegend	317306	1:100	Abs box 1	A5		Fridge	NA	Molenaar
+822	aliquot CD45 BV510		Brilliant Violet 510						Abs box 5	E2		Fridge	NA	Molenaar
+823	CD117 BUV395	YB5.B8	BUV395	Human	Mouse BALB/c IgG1	BD Bioscience	745740	1:200	Abs box 3	D5		Fridge	NA	Molenaar
+824	CD64 FITC	10.1	FITC	Human	Mouse IgG1, k	BioLegend	305005		Abs box 3	B9	YES (2x)	Fridge	NA	Molenaar
+825	CD144 BV421	55-7H1	BV421	Human	Mouse IgG1, κ	BD Horizon	565670		Abs box 4	A2		Fridge	NA	Molenaar
+826	CD14 AF700	HCD14	Alexa Fluor 700	Human	mouse IgG1 kappa	BioLegend	325614	1:100	Abs box 2	A2	YES	Fridge	NA	Molenaar
+827	CD3 AF700	Ucht1	AF700	Human	Mouse IgG1, k	Biolegend	300403		Abs box 1	B3	Yes	Fridge	NA	Molenaar
+828	MGMT	MT 3.1	n.a.	Human	Mouse mAb IgG1 κ 	Invitrogen	MA5-13506	WB (1:500)	Abs box 5	B4		Fridge	NA	Molenaar
+829	CD8a FITC	HIT8a	FITC	Human	Mouse IgG1, κ 	BioLegend	300906		Abs box 1	D2		Fridge	NA	Molenaar
+830	TCRgd APC/Fire 750	B1	APC/Fire 750	Human	Mouse IgG1, κ	BioLegend	331227		Abs box 4	C1		Fridge	NA	Molenaar
+831	CD105 PE/Cy7	43A3	PE/Cy7	Human	mouse IgG1 kappa	BioLegend	323217		Abs box 3	C9	YES	Fridge	NA	Molenaar
+832	CD56 BUV661	NCAM16.2	BUV661	Human	Mouse BALB/c IgG2b, κ	BD optibuild	750478		Abs box 3	B7		Fridge	NA	Molenaar
+833	CD90 PECy7	5E10	PE/Cy7	Human	Mouse BALB/c IgG1, κ	BD Pharmingen	561558		Abs box 3	C5	YES	Fridge	NA	Molenaar
+834	CD45 BV421	HI30	BV421	Human	Mouse IgG1, κ	Biolegend 	304031		Abs box 3	A9	YES	Fridge	NA	Molenaar
+835	CD45 PECy7	HI30	PECy7	Human	Mouse IgG, kappa	Biolegend	304015		Abs box 3	A10		Fridge	NA	Molenaar
+836	CD16 APC	3G8	APC	Human	mouse IgG1 kappa	BioLegend	302012		Abs box 2	B1		Fridge	NA	Molenaar
+837	anti-mouse IgG AF647	n.a.	Alexa Fluor 647	Mouse	goat	Invitrogen	2272554	IF	Abs box 5	B8		Fridge	NA	Kemmeren
+838	CD34 BV421	581	Brilliant Violet 421	Human	mouse IgG2a kappa	BioLegend	343609	1:20	Abs box 2	D2	YES	Fridge	NA	Kemmeren
+839	CD11c FITC	3.9	FITC	Human	Mouse IgG1, kappa	BioLegend	301604		Abs box 1	D8	YES	Fridge	NA	Kemmeren
+840	CD2	RPA-2.10	None	Human	Mouse	Biolegend	300202	Interaction blocking	Abs box 5	C2	YES	Fridge	NA	Kemmeren
+841	CD25 PerCP-Cy5.5	M-A251	PerCP-Cy5.5	Human	Mouse BALB/c IgG1, κ	BD Pharmigen	560503		Abs box 2	C2		Fridge	NA	Kemmeren
+842	Invariant NK/T BV480	6B11	Brilliant Violet 480	Human	Mouse C57BL/6 IgG1, κ	BD Bioscience	746788	FACS	Abs box 5	C9		Fridge	NA	Kemmeren
+843	CD19 AF700	HIB19	Alexa Fluor 700	Human	mouse IgG1 kappa	bioLegend	302225		Abs box 2	B5		Fridge	NA	Kemmeren
+844	UNG	OTI1A11		Human	mouse IgG1	Invitrogen	MA5-25680	1:2500	Abs freezer box 1	NA		Freezer	WB	Kemmeren
+845	Lineage (CD3/14/19/20/56) FITC	n.a.	FITC	Human	mouse IgG1 + IgG2b kappa	BioLegend	348701	1:20	Abs box 4	A10	YES	Fridge	NA	Kemmeren
+846	CD56 BUV661	NCAM16.2	BUV661	Human	Mouse BALB/c IgG2b, κ	BD optibuild	750478		Abs box 3	B7		Fridge	NA	Kemmeren
+847	Ig lambda light chain AF700	MHL-38	AF700	Human	Mouse IgG2a, κ	BioLegend	316631	FACS	Abs box 5	E3		Fridge	NA	Kemmeren
+848	CD8a APC/Cy7	HIT8a	APC/Cy7	Human	Mouse IgG1, κ	Biolegend	300925		Abs box 1	C10		Fridge	NA	Kemmeren
+849	HPRT			Human	rabbit polyclonal	Abcam	ab10479	1:2000	Abs freezer box 1	NA		Freezer	WB	Kemmeren
+850	CD105 PE/Cy7	43A3	PE/Cy7	Human	mouse IgG1 kappa	BioLegend	323217		Abs box 3	C9	YES	Fridge	NA	Kemmeren
+851	FANCG			Human	monoclonal	Abnova	H00002189-M01		Abs freezer box 1	NA		Freezer	WB	Kemmeren
+852	CD127 AF488	HIL-7R-M21	AF488	Human	Mouse IgG1, κ	BD Pharmingen	567403		Abs box 3	E1		Fridge	NA	Kemmeren
+853	Ghost Dye Red 780			Mammalian cells		Tonbo biosciences	13-0865	1:2000(see tube)	Abs freezer box 2	NA		Freezer	FACS	Kemmeren
+854	Vybrant DyeCycle Ruby stain					Invitrogen	V10309		Abs freezer box 1	NA		Freezer	FACS	Kemmeren
+855	CD19 BV711	SJ25C1	BV 711	Human	Mouse BALB/c IgG1, κ	BD Bioscience	563038		Abs box 2	B3		Fridge	NA	Kemmeren
+856	Anti-rabbit IgG AF488	n.a.	Alexa Fluor 488	Rabbit	Goat	invitrogen	2284595	IF	Abs box 5	A7		Fridge	NA	Kemmeren
+857	CD16 APC	3G8	APC	Human	mouse IgG1 kappa	BioLegend	302012		Abs box 2	B1		Fridge	NA	Kemmeren
+858	CD15 BV711	W6D3	BV711	Human	?	BD Bioscience	563142		Abs box 2	A8		Fridge	NA	Kemmeren
+859	Lamin A + C Antibody 	133A2	AF700	Human	Mouse mAb	NovusBio	NBP1-97688AF700	FACS	Abs box 5	C7		Fridge	NA	Kemmeren
+860	CCRL1 BV786	13E11	Brilliant Violet 786	Human	Mouse BALB/c IgG2b, κ	BD Bioscience	747802		Abs box 4	D1		Fridge	NA	Kemmeren
+861	CD56 AF488	B159	AF488	Human	Mouse IgG1, κ	BD Pharmigen	557699		Abs box 3	B5		Fridge	NA	Kemmeren
+862	anti-rabbit IgG AF647	Poly4064	Alexa Fluor 647	Rabbit	donkey polyclonal	BioLegend	406414	FACS	Abs box 5	A6		Fridge	NA	Kemmeren
+863	CD19 PE/Dazzle 594	HIB19	PE/Dazzle 594	Human	mouse IgG1 kappa	BioLegend	302251		Abs box 2	B6	YES (2x)	Fridge	NA	Kemmeren
+864	CD5 APC	UCHT2	APC	Human	Mouse IgG1, κ	BioLegend	300611		Abs box 1	B10		Fridge	NA	Kemmeren
+865	CD4 AF700	OKT4	AF700	Human	Mouse IgG2b, κ	Biolegend	317426		Abs box 1	B7		Fridge	NA	Kemmeren
+866	FANCC			Human	rabbit polyclonal	Abcam	ab97575		Abs freezer box 1	NA		Freezer	WB	Kemmeren
+867	CD11b APC	ICRF44	APC	Human	mouse IgG1 kappa	Biolegend	301309		Abs box 1	D7		Fridge	NA	Kemmeren
+868	CD11c BV605	3.9	BV605	Human	mouse IgG1 kappa	Biolegend	301635		Abs box 1	D10		Fridge	NA	Kemmeren
+869	CD11b APC/Cy7	ICRF44	APC/Cy7	Human	mouse IgG1 kappa	BioLegend	301341		Abs box 1	D6	YES (2x)	Fridge	NA	Kemmeren
+870	HLA-DR BUV737	G46-6	BUV737	Human	Mouse IgG2a, κ	BD Bioscience	748339		Abs box 4	B3		Fridge	NA	Kemmeren
+871	CD14 BV750	63D3	BV750	Human	Mouse IgG1, k	BioLegend	367135		Abs box 2	A4		Fridge	NA	Kemmeren
+872	Anti-Phospho_Histone H2A.X	JBW301	n.a.	Human	Mouse mAb	Sigma/Merck	05-636	IF (1:1000)	Abs box 5	A9	YES	Fridge	NA	Kemmeren
+873	CD45RA PerCP/Cy5.5	HI100	PerCP/Cy5.5	Human	mouse IgG2b kappa	BioLegend	304121	1:20	Abs box 3	B2		Fridge	NA	Kemmeren
+874	CD235a PE/Cy7	6A-R2	PE/Cy7	Human	mouse IgG2b kappa	BioLegend	563666		Abs box 4	A7		Fridge	NA	Kemmeren
+875	APOBEC3A			Human	rabbit polyclonal	Sigma	HPA043237-100UL		Abs freezer box 1	NA		Freezer	WB	Kemmeren
+876	OGG1	EPR4664(2)		Human	rabbit mAb	Abcam	ab124741	1:10000	Abs freezer box 1	NA		Freezer	WB	Kemmeren
+877	anti-rabbit IgG AF594	n.a.	Alexa Fluor 594	rabbit	goat	invitrogen	2165334	IF	Abs box 5	A5		Fridge	NA	Kemmeren
+878	anti-mouse IgG AF488	n.a.	Alexa Fluor 488	Mouse	Goat / IgG	invitrogen	2220848	IF	Abs box 5	B1		Fridge	NA	Kemmeren
+879	CD90 FITC	5E10	FITC	Human	?	BioLegend	328107		Abs box 3	C6		Fridge	NA	Kemmeren
+880	TCRgd BV421	11FS	BV421	Human	Mouse BALB/c IgG1	BD Bioscience	744870		Abs box 4	C2		Fridge	NA	Kemmeren
+881	CD40 BUV563	5C3	BUV563	Human	?	BD Bioscience	741381		Abs box 2	D10		Fridge	NA	Kemmeren
+882	CD144 BV421	55-7H1	BV421	Human	Mouse IgG1, κ	BD Horizon	565670		Abs box 4	A2		Fridge	NA	Kemmeren
+883	CD41 APC/Fire750	HIP8	APC/Fire750	Human	Mouse IgG, kappa	Biolegend	303749		Abs box 2	E2		Fridge	NA	Kemmeren
+884	Lineage (CD3/14/19/20/56) APC	n.a.	APC	Human	mouse IgG1 + IgG2b kappa	BioLegend	348803		Abs box 4	B1		Fridge	NA	Kemmeren
+885	CD265 (RANK) AF647	9A725	AF647	Human	IgG1, k 	BD Pharmigen	566348	FACS	Abs box 5	D2		Fridge	NA	Kemmeren
+886	CD27 APCCy7	M-T271	APC/Cy7	Human	Mouse IgG1, κ	BioLegend	356423		Abs box 2	C4	YES	Fridge	NA	Kemmeren
+887	CD54	HCD54	None	Human	Mouse	Biolegend	322702	Interaction blocking	Abs box 5	C3	YES 	Fridge	NA	Kemmeren
+888	CD15 (SSEA-1) FITC	HI98	FITC	Human	mouse IgM kappa	BioLegend	301903		Abs box 2	A6	YES	Fridge	NA	Kemmeren
+889	CD8a BV711	RPA-T8	Brilliant Violet 711	Human	Mouse IgG1, κ	Biolegend	301043	1:500	Abs box 1	C7	YES	Fridge	NA	Kemmeren
+890	CD40 PE/Cy7	5C3	PE/Cy7	Human	mouse IgG1 kappa	BD Bioscience	561215		Abs box 2	D9		Fridge	NA	Kemmeren
+891	CD49f PE/Cy7	GoH3	PE/Cy7	Human	rat IgG1a kappa	BioLegend	313621	1:100	Abs box 3	B3	YES	Fridge	NA	Kemmeren
+892	CD3 PE-Cy7	SK7	PE-Cy7	Human	mouse IgG1 kappa	BioLegend	344815		Abs box 1	A6	YES	Fridge	NA	Kemmeren
+893	CD45 PerCP/Cy5.5	HI30	PerCP/Cy5.5	Human	mouse IgG1 kappa	BioLegend	304027		Abs box 3	A8	YES	Fridge	NA	Kemmeren
+894	α-Tubulin	B-5-1-2		Human	mouse mAb	Sigma	T5168-2ML	1:5000	Abs freezer box 1	NA		Freezer	WB	Kemmeren
+895	CD56 BB700	NCAM16.2	BB700	Human	Mouse BALB/c IgG2b, κ	BD Bioscience	566574	1:500	Abs box 3	B6	YES	Fridge	NA	Kemmeren
+896	rabbit IgG PE isotype control	DA1E	PE		rabbit mAb	Cell Signaling Technology	5742S	FACS	Abs box 5	A2		Fridge	NA	Kemmeren
+897	CD123 APC Fire 750	6H6	APC Fire 750	Human	Mouse IgG1 k 	BioLegend	306041		Abs box 3	D9		Fridge	NA	Kemmeren
+898	phospho-yH2AX FITC	JBW301	FITC	Human	mouse mAb	Merck	16-202A		Abs freezer box 1	NA		Freezer	FACS	Kemmeren
+899	CD3 AF700	Ucht1	AF700	Human	Mouse IgG1, k	Biolegend	300403		Abs box 1	B3	Yes	Fridge	NA	Kemmeren
+900	CD45 FITC	HI30	FITC	Human	mouse IgG1 kappa	BioLegend	304005	1:50	Abs box 3	A7		Fridge	NA	Kemmeren
+901	CD3 APC/Fire750	SK7	APC/Fire750	Human	mouse IgG1 kappa	BioLegend	344839	1:100	Abs box 1	B1	YES	Fridge	NA	Kemmeren
+902	CD45 PECy7	HI30	PECy7	Human	Mouse IgG, kappa	Biolegend	304015		Abs box 3	A10		Fridge	NA	Kemmeren
+903	TCR Vg9 APC/Fire 750	B3	APC Fire750 	Human	Mouse IgG1, κ	BioLegend 	331315		Abs box 4	C6		Fridge	NA	Kemmeren
+904	CD14 AF700	HCD14	Alexa Fluor 700	Human	mouse IgG1 kappa	BioLegend	325614	1:100	Abs box 2	A2	YES	Fridge	NA	Kemmeren
+905	CD117 APC 	YB5.B8	APC	Human	mouse IgG1 kappa	BD Pharmingen	561118		Abs box 3	D1	YES	Fridge	NA	Kemmeren
+906	SETD3 antibody			Human		Sigma	HPA003591		Abs freezer box 2	NA		Freezer	WB/IF	Kemmeren
+907	DAPI 500 uM	n.a.	n.a.	Human	n.a.	Thermo	D3571	All (IF 1:2000, FACS 1:500)	Abs box 5	D7		Fridge	NA	Kemmeren
+908	BATF3	841702	PE	Human	Mouse	NovusBio	FAB7437P	FACS	Abs box 5	C8		Fridge	NA	Kemmeren
+909	Zombie NIR Dye					BioLegend	77184		Abs freezer box 1	NA		Freezer	FACS	Kemmeren
+910	CD56 BV605	NCAM16.2	BV605	Human	?	BD Biosciences	562779		Abs box 3	B8		Fridge	NA	Kemmeren
+911	CD19 APC	HIB19	APC	Human	mouse IgG1 kappa	BioLegend	302211		Abs box 2	B4		Fridge	NA	Kemmeren
+912	TCR Vd2 PE	B6 	PE	Human	Mouse IgG1, κ	BioLegend	331407		Abs box 4	C5		Fridge	NA	Kemmeren
+913	CD41 BV510	HIP8	BV510	Human	Mouse IgG1, kappa	BioLegend	303735		Abs box 2	E1		Fridge	NA	Kemmeren
+914	CD123 BUV395	7G3	BUV395	Human	Mouse IgG2a, κ	BD Bioscience	564195		Abs box 3	D7		Fridge	NA	Kemmeren
+915	aliquot CD13 PerCP/Cy5.5	WM15	PerCP/Cy5.5	Human	Mouse IgG1, κ	BD Biosciences	561361	FACS	Abs box 5	D10		Fridge	NA	Kemmeren
+916	S100A4 PerCP-Cy5.5	NJ04F3-D1	PerCP-Cy5.5	Human	n.a.	Biolegend	370009	FACS (intracellular)	Abs box 5	D6		Fridge	NA	Kemmeren
+917	CD33 PE/Cy7	WM53	PE/Cy7	Human	mouse IgG1 kappa	BioLegend	303433	1:20	Abs box 2	C9	YES	Fridge	NA	Kemmeren
+918	CD163 APC	GHI61	APC	Human	Mouse IgG1, k	BioLegend	333609		Abs box 4	A3		Fridge	NA	Kemmeren
+919	CD95 APC	DX2	APC	Human	mouse IgG1 kappa	BioLegend	305611		Abs box 3	C7		Fridge	NA	Kemmeren
+920	CD34 PE/Dazzle 594	581	PE/Dazzle 594	Human	mouse IgG1 kappa	BioLegend	343533		Abs box 2	D3	YES	Fridge	NA	Kemmeren
+921	CD205 BUV395	MMR1-7	BUV395	Human	Mouse IgG1, κ	BD Bioscience	744062		Abs box 4	A5		Fridge	NA	Kemmeren
+922	CD11c BUV661	B-ly6	BUV661	Human	Mouse BALB/c IgG1, κ	BD Bioscience	565067/612968	1:200	Abs box 1	E1	YES	Fridge	NA	Kemmeren
+923	MSH2 antibody aliquots	D24B5		Human	rabbit mAb	Cell Signaling Technology	2017S	1:2000	Abs freezer box 2	NA		Freezer	WB	Kemmeren
+924	CD10 APC	HI10a	APC	Human	Mouse IgG1, κ	Biolegend	312209		Abs box 1	D3	YES (2x)	Fridge	NA	Kemmeren
+925	CD40 PE/Cy7	5C3	PE/Cy7	Human	mouse IgG1 kappa	BioLegend	334321		Abs box 2	D8		Fridge	NA	Kemmeren
+926	MBD4			Human	rabbit polyclonal	Abcam	ab12187		Abs freezer box 1	NA		Freezer	WB	Kemmeren
+927	MSH2	D24B5		Human	rabbit mAb	Cell Signaling Technology	2017S	1:2000	Abs freezer box 1	NA		Freezer	WB	Kemmeren
+928	Annexin V/FITC	n.a.	FITC	Human	n.a.	Invitrogen	BMS306F1-100	FACS	Abs box 5	A4		Fridge	NA	Kemmeren
+929	CD3 PE	UCHT1	PE	Human	Mouse BALB/c IgG1, κ	BD Bioscience	561809		Abs box 1	A8	Yes (2x)	Fridge	NA	Kemmeren
+930	CDT1	D10F11		Human	rabbit monoclonal	Cell Signaling Technology	8064S	?	Abs freezer box 1	NA		Freezer	WB	Kemmeren
+931	CD42b APC Vio770	?	APC Vio770	Human	?	Milteny Biotec	130100202		Abs box 2	E4		Fridge	NA	Kemmeren
+932	Vybrant DyeCycle Violet Stain	n.a.	n.a.	Human	n.a.	Invitrogen	V35003	FACS	Abs box 5	E6		Fridge	NA	Kemmeren
+933	anti-mouse IgG IRDye 680RD	n.a.	IRDye 680CW	Mouse	goat	LI-COR	925-68070	WB (1:10000)	Abs box 5	B2		Fridge	NA	Kemmeren
+934	RPA32/RPA2	9H8		Human	mouse monoclonal	Abcam	ab2175		Abs freezer box 2	NA		Freezer	WB/IF	Kemmeren
+935	CellTrace Violet					Invitrogen	C34571		Abs freezer box 1	NA		Freezer	FACS	Kemmeren
+936	PMS2	EPR3947		Human	rabbit monoclonal	Abcam	ab110638		Abs freezer box 1	NA		Freezer	WB	Kemmeren
+937	CD45RA BV605	HI100	BV605	Human	Mouse IgG2b, kappaa	Biolegend	304133		Abs box 3	B1		Fridge	NA	Kemmeren
+938	CD8a PE/Cy5	HIT8a	PE Cy5	Human	Mouse IgG1, κ	Biolegend	300909		Abs box 1	C9		Fridge	NA	Kemmeren
+939	CD11b BV785	ICRF44	BV785	Human	Mouse IgG1, κ	Biolegend	301345		Abs box 1	D5		Fridge	NA	Kemmeren
+940	SF3B1	D7L5T		Human	Rabbit mAb	Cell Signaling Technology	14434S	1:1000 WB	Abs freezer box 2	NA		Freezer	WB (+FACS?)	Kemmeren
+941	CD123 BV605	6H6	Brilliant Violet 605	Human	mouse IgG1 kappa	BioLegend	306025		Abs box 3	D6	YES	Fridge	NA	Kemmeren
+942	CD117 Pe/Cy7	104D2	PE/Cy7	Human	mouse IgG1 kappa	BioLegend	313211	1:20	Abs box 3	D2		Fridge	NA	Kemmeren
+943	BLM			Human	rabbit polyclonal	Abcam	ab2179		Abs freezer box 1	NA		Freezer	WB	Kemmeren
+944	CD249 BV650	2D3/APA	BV650	Human	Mouse BALB/c IgG1, κ	BD Bioscience	745361		Abs box 4	A8		Fridge	NA	Kemmeren
+945									Abs box 5	C6		Fridge	NA	Kemmeren
+946	Hoechst 33342	n.a.	n.a.	Human	n.a.	Thermo Fischer 	H3570	IF 	Abs box 5	E5		Fridge	NA	Kemmeren
+947	POLI			Human	rabbit polyclonal	Novus biologicals	NB100-175	1:500 IF	Abs freezer box 2	NA		Freezer	WB/IF	Kemmeren
+948	anti-mouse IgG HRP	n.a.	HRP	Mouse	sheep		NXA931V	WB (1:5000)	Abs box 5	E1		Fridge	NA	Kemmeren
+949	POLH	B-7	n.a.	Human	Mouse mAb IgG1 κ 	Santa Cruz Biotechnology	sc-17770	WB (?)	Abs box 5	C1		Fridge	NA	Kemmeren
+950	CD66b PE/Dazzle 594	G10F5	PE/Dazzle 594	Human	mouse IgM kappa	BioLegend	305121		Abs box 3	B10	YES	Fridge	NA	Kemmeren
+951	CD5 PE	UCHT2	PE	Human	Mouse IgG1, κ 	BioLegend	300608		Abs box 1	C1		Fridge	NA	Kemmeren
+952	HA-Tag 	C29F4		Human	rabbit mAb	Cell Signaling Technology	3724S		Abs freezer box 1	NA		Freezer	WB	Kemmeren
+953	NFIA			Human	Rabbit	Sigma	HPA008884-25ul	1:500 IF	Abs freezer box 2	NA		Freezer	WB/IF	Kemmeren
+954	CD1a BV421	HI149	BV421	Human	Mouse IgG1, k 	Biolegend	300128		Abs box 1	A2		Fridge	NA	Kemmeren
+955	CD3 FITC	OKT3	FITC	Human	mouse IgG2a kappa	Biolegend	317306	1:100	Abs box 1	A5		Fridge	NA	Kemmeren
+956	MSH3			human	rabbit polyclonal	Abcam	ab69619		Abs freezer box 1	NA		Freezer	WB	Kemmeren
+957	MPG	EPR10959(B)		Human	rabbit mAb	Abcam	ab155092	1:10000	Abs freezer box 1	NA		Freezer	WB	Kemmeren
+958	Ig kappa light chain PECy7	MHK-49	Pe-Cy7	Human	Mouse IgG1, κ	BioLegend	316520	FACS	Abs box 5	E4		Fridge	NA	Kemmeren
+959	CD16 PerCP/Cy5.5	3G8	PerCP/Cy5.5	Human	Mouse IgG1, k	BioLegend	302027		Abs box 2	B2		Fridge	NA	Kemmeren
+960	CD14 PE	63D3	PE	Human	mouse IgG1 kappa	BioLegend	367103		Abs box 2	A1	YES	Fridge	NA	Kemmeren
+961	CD7 APC	CD7-6B7	APC	Human	mouse IgG2a kappa	BD Bioscience	343107		Abs box 1	C2		Fridge	NA	Kemmeren
+962	TCRgd APC	B1	APC	Human	Mouse IgG1, κ	BD Bioscience	561049		Abs box 4	B10	YES	Fridge	NA	Kemmeren
+963	CD73 BV421	AD2	Brilliant Violet 421	Human	mouse IgG1 kappa	BioLegend	344007		Abs box 3	C2		Fridge	NA	Kemmeren
+964	TCRab FITC	IP26	FITC	Human	Mouse IgG1, κ	Biolegend 	306705		Abs box 4	B8		Fridge	NA	Kemmeren
+965	CD31 BV605	L133.1	BV605	Human	Mouse IgG1, κ	BD Bioscience	745119		Abs box 2	C8	YES	Fridge	NA	Kemmeren
+966	PMS1	E-3	n.a.	Human	Mouse mAb	Santa Cruz Biotechnology	sc-515302	WB	Abs box 5	B9		Fridge	NA	Kemmeren
+967	TCR Vg9 PE/Cy5	B3	PE Cy5	Human	Mouse IgG1, κ	BioLegend 	331323		Abs box 4	C7		Fridge	NA	Kemmeren
+968	FANCD2			Human	rabbit polyclonal	Novus Biologicals	NB100-182SS	1:500	Abs freezer box 1	NA		Freezer	WB/IF	Kemmeren
+969	CD14 PE CF594	MphiP9	PE CF594	Human	?	BD Biosciences	562334		Abs box 2	A5		Fridge	NA	Kemmeren
+970	aliquot CD45 BV510		Brilliant Violet 510						Abs box 5	E2		Fridge	NA	Kemmeren
+971	HLA-DR FITC	L243	FITC	Human	Mouse IgG2a kappa 	Biolegend	307603	1:20	Abs box 4	B4	Yes	Fridge	NA	Kemmeren
+972	H3K36me2	C75H12		human	rabbit monoclonal	Cell Signaling Technology	2901	1:1000	Abs freezer box 1	NA		Freezer	WB	Kemmeren
+973	7-AAD	n.a.	n.a.	Human	n.a.	Invitrogen	00-6993-50	FACS	Abs box 5	A10	YES	Fridge	NA	Kemmeren
+974	CD117 BV605	YbB5.B8	BV5605	Human	Mouse IgG1, κ	BD Bioscience	745259		Abs box 3	D4		Fridge	NA	Kemmeren
+975	MCM8			Human	rabbit polyclonal	Proteintech	16451-1-AP	1:1000?	Abs freezer box 2	NA		Freezer	WB	Kemmeren
+976	CD44 BV510	IM7	BV510	Human	Rat IgG2b, k 	Biolegend	103044		Abs box 3	A2		Fridge	NA	Kemmeren
+977	CD1c APC	L161	APC	Human	mouse IgG1 kappa	Biolegend	331523		Abs box 1	A3		Fridge	NA	Kemmeren
+978	TCRgd APC	11F2	APC	Human	Mouse IgG1, k 	Miltenyi	130-113-500		Abs box 4	B9		Fridge	NA	Kemmeren
+979	TCR Vg9 APC	B3	APC	Human	Mouse IgG1, κ	Biolegend	331309		Abs box 4	C9		Fridge	NA	Kemmeren
+980	SMUG1			Human	rabbit polyclonal	Invitrogen	PA5-44258	1:1000	Abs freezer box 1	NA		Freezer	WB	Kemmeren
+981	CD205 BV480	MMRI7	BV480	Human	?	BD Bioscience	746830		Abs box 4	A6		Fridge	NA	Kemmeren
+982	CD7 BV786	MT701	Brilliant Violet 786	Human	Mouse BALB/c IgG1, κ	BD Bioscience	740964	1:500	Abs box 1	C3		Fridge	NA	Kemmeren
+983	CD8a BV421	RPA-T8	BV421	Human	Mouse IgG1, κ	Biolegend	301036		Abs box 1	C8		Fridge	NA	Kemmeren
+984	FANCA	EPR16519		Human	rabbit monoclonal	Abcam	ab201457		Abs freezer box 1	NA		Freezer	WB	Kemmeren
+985	CD4 PE/Cy7	L200	PE-Cy7	Human	Mouse BALB/c IgG1, κ	BD Pharmingen	560644		Abs box 1	B6		Fridge	NA	Kemmeren
+986	CD45 AF700	HI30	Alexa Fluor 700	Human	mouse IgG1 kappa	BioLegend	304023		Abs box 3	A6	YES	Fridge	NA	Kemmeren
+987	CD14 BV650	M5E2	Brilliant Violet 650	Human	Mouse IgG2a, κ	BD Bioscience	563419	1:500	Abs box 2	A3		Fridge	NA	Kemmeren
+988	CD8a BV650	RPA-T8	Brilliant Violet 650	Human	Mouse IgG1, κ	BD Bioscience	563821		Abs box 1	C6		Fridge	NA	Kemmeren
+989	CD7 PECy7	MT701	PE/Cy7	Human	Mouse BALB/c IgG1, κ	BD Pharmingen	564019		Abs box 1	C4		Fridge	NA	Kemmeren
+990	CD66b FITC	G10F5	FITC	Human	mouse IgM kappa	BioLegend	305103		Abs box 3	C1		Fridge	NA	Kemmeren
+991	CD326 (EpCAM) Pe/Cy7	9C4	Pe-Cy7	Human	Mouse IgG2b, κ	Biolegend	324221	FACS	Abs box 5	D3		Fridge	NA	Kemmeren
+992	CD4 PE/Cy7	OKT4	PE/Cy7	Human	Mouse BALB/c IgG1, κ	Biolegend	317413	1:500	Abs box 1	B5	YES	Fridge	NA	Kemmeren
+993	CD19 BV785	HIB19	BV785	Human	mouse IgG1 kappa	BioLegend	302239		Abs box 2	B7		Fridge	NA	Kemmeren
+994	TK1	EPR3193		Human	rabbit mAb	Abcam	ab76495	1:10000	Abs freezer box 1	NA		Freezer	WB	Kemmeren
+995	CD8a AF700	HIT8a	AF700	Human	Mouse IgG1, κ	Biolegend	300920		Abs box 1	D1		Fridge	NA	Kemmeren
+996	CD38 PE	HIT2	PE	Human	mouse IgG1 kappa	BioLegend	303505	1:50	Abs box 2	D6	YES	Fridge	NA	Kemmeren
+997	Precision Plus Protein WesternC standard					Bio-Rad	161-0376		Abs freezer box 1	NA		Freezer	WB	Kemmeren
+998	CD80 BV510	2D10	Brilliant Violet 510	Human	Mouse IgG1, κ	Biolegend	305233		Abs box 3	C3	YES	Fridge	NA	Kemmeren
+999	CCR10 APC	6588-5	APC	Human	Armenian Hamster IgG	BioLegend	341505		Abs box 4	D2		Fridge	NA	Kemmeren
+1000	CD3 BV650	UCHT1	Brilliant Violet 650	Human	mouse IgG1 kappa	BioLegend	300467		Abs box 1	A7		Fridge	NA	Kemmeren
+1001	HLA-DR BUV805	G46-6	BUV805	Human	?	BD Bioscience	568335		Abs box 4	B6		Fridge	NA	Kemmeren
+1002	TCRgd APC/Fire 750	B1	APC/Fire 750	Human	Mouse IgG1, κ	BioLegend	331227		Abs box 4	C1		Fridge	NA	Kemmeren
+1003	TCRab PE/Cy5	IP26	PE Cy5	Human	mouse IgG1 kappa	BioLegend	306710		Abs box 4	C8		Fridge	NA	Kemmeren
+1004	MGMT	MT 3.1	n.a.	Human	Mouse mAb IgG1 κ 	Invitrogen	MA5-13506	WB (1:500)	Abs box 5	B4		Fridge	NA	Kemmeren
+1005	CD5 BUV737	UCHT2	BUV737	Human	Mouse BALB/c IgG1, κ	BD Bioscience	564451	1:500	Abs box 1	B9		Fridge	NA	Kemmeren
+1006	Human TruStain FC block	n.a.	n.a.	Human	n.a.	Biolegend	422301	FACS	Abs box 5	A3		Fridge	NA	Kemmeren
+1007	CD30 APC/Fire750	BY88	APC/Fire750	Human	Mouse IgG1, k	BioLegend	333915		Abs box 2	C6		Fridge	NA	Kemmeren
+1008	FCR-Blocker (for MACS)	n.a.	n.a.	Human	n.a	Miltenyi biotec	120-000-816	FACS	Abs box 5	D9		Fridge	NA	Kemmeren
+1009	CD45 APC	2D1	APC	Human	mouse IgG1 kappa	BioLegend	368511	1:20	Abs box 3	A5	YES	Fridge	NA	Kemmeren
+1010	CD20 PerCP	2H7		Human	Mouse IgG2b, kappaa	BioLegend	302323		Abs box 2	C1		Fridge	NA	Kemmeren
+1011	TCR Vd1 FITC	TS8.2	FITC	Human	Mouse IgG1	ThermoFisher	TCR2730		Abs box 4	C3		Fridge	NA	Kemmeren
+1012	CD44 PE	?	PE	Human	?	Miltenyi	130095180		Abs box 3	A3		Fridge	NA	Kemmeren
+1013	CHD-1			Human	rabbit polyclonal	Sigma	HPA022236-25ul	1:500 IF	Abs freezer box 2	NA		Freezer	WB/IF	Kemmeren
+1014	RUNX1 antibody			Human	rabbit polyclonal	Abcam	ab35962		Abs freezer box 2	NA		Freezer	WB	Kemmeren
+1015	CD3 BV711	UCHT1	BV711	Human	Mouse IgG1, kappa	BioLegend	300463		Abs box 1	A4		Fridge	NA	Kemmeren
+1016	CD33 APC	WM53	APC	Human	mouse IgG1 kappa	BioLegend	303407	1:50	Abs box 2	C10	YES	Fridge	NA	Kemmeren
+1017	Cd34 Pe Cy7	581	PE Cy7	Human	?	BD Bioscience	561819		Abs box 2	D5		Fridge	NA	Kemmeren
+1018	CD141 APC	M80	APC	Human	Mouse IgG1 k	BioLegend	344105		Abs box 4	A1		Fridge	NA	Kemmeren
+1019	CD40 AF700	5C3	Alexa Fluor 700	Human	mouse IgG1 kappa	BioLegend	334327	1:50	Abs box 2	D7		Fridge	NA	Kemmeren
+1020	Streptavidin BUV661	n.a.	BUV661	Mouse	n.a.	BD BIoscience	565081	FACS	Abs box 5	C10		Fridge	NA	Kemmeren
+1021	Phospho RPA32 antibody	n.a.	n.a.	Human, Mouse	Rabbit polyclonal	Bethyl	A300-245A-M	WB + IF	Abs box 5	B10		Fridge	NA	Kemmeren
+1022	TCRab APC	T10B9.1A-31	APC	Human	Mouse IgG1, κ	BD Bioscience	563821		Abs box 4	B7		Fridge	NA	Kemmeren
+1023	CD19 BV421	HIB19	BV421	Human	Mouse IgG1	BioLegend	302233		Abs box 2	B8		Fridge	NA	Kemmeren
+1024	CD20 BV421	2H7	Brilliant Violet 421	Human	mouse IgG2b kappa	BioLegend	302329	1: 50	Abs box 2	B10	YES	Fridge	NA	Kemmeren
+1025	XPC			Human	rabbit Ab	Cell Signaling Technology	12701S	1:2500	Abs freezer box 1	NA		Freezer	WB	Kemmeren
+1026	CD58	TS2/9	None	Human	Mouse	Biolegend	330902	Interaction blocking	Abs box 5	C4	YES (2x) 	Fridge	NA	Kemmeren
+1027	CD11c APC	3.9	APC	Human	mouse IgG1 kappa	Company	301614		Abs box 1	D9		Fridge	NA	Kemmeren
+1028	RNASEH1			Human	rabbit polyclonal	Proteintech	15606-1-AP	1:1000 WB	Abs freezer box 2	NA		Freezer	WB	Kemmeren
+1029	CD117 BV421	YB5.B8	BV421	Human	Mouse IgG1, k 	BD Bioscience	562434	1:50	Abs box 3	D3		Fridge	NA	Kemmeren
+1030	anti-rabbit IgG IRDye 800CW	n.a.	IRDye 800CW	Rabbit	goat	LI-COR	925-32211	WB (1:10000)	Abs box 5	A8		Fridge	NA	Kemmeren
+1031	CD201/EPCR APC	RCR-401	APC	Human	Rat IgG1, Kappa	BioLegend	351905	1:50	Abs box 4	A4	YES	Fridge	NA	Kemmeren
+1032	CENPH antibody			Human		Sigma	HPA036494		Abs freezer box 2	NA		Freezer	WB/IF	Kemmeren
+1033	CD30 PE 	BY88	PE	Human	Mouse IgG1 k	BioLegend	333906		Abs box 2	C7	YES	Fridge	NA	Kemmeren
+1034	RNASEH1			Human	rabbit polyclonal	Abcam	ab229078	1:1000 WB	Abs freezer box 2	NA		Freezer	WB	Kemmeren
+1035	CD4 PerCP/Cy5.5	OKT4	PerCP/Cy5.5	Human	mouse IgG2b kappa	BioLegend	317427		Abs box 1	B4		Fridge	NA	Kemmeren
+1036	LFA-1 (CD11a/CD18)	M24	None	Human	Mouse mAb	Biolegend	363402	Interaction blocking	Abs box 5	C5	YES	Fridge	NA	Kemmeren
+1037	MLH3	H-2	n.a.	Human	Mouse mAb	Santa Cruz Biotechnology	sc-25313	WB (?)	Abs box 5	B7		Fridge	NA	Kemmeren
+1038	CD8a BV785	SK1	Brilliant Violet 785	Human	mouse IgG1 kappa	BioLegend	344739		Abs box 1	C5		Fridge	NA	Kemmeren
+1039	CD117 BUV395	YB5.B8	BUV395	Human	Mouse BALB/c IgG1	BD Bioscience	745740	1:200	Abs box 3	D5		Fridge	NA	Kemmeren
+1040	p95/NBS1 (Y112)			Human	rabbit monoclonal	Abcam	ab32074		Abs freezer box 1	NA		Freezer	WB	Kemmeren
+1041	CD30 APC	BY88	APC	Human	mouse IgG1 kappa	BioLegend	333909	1:25	Abs box 2	C5		Fridge	NA	Kemmeren
+1042	Geminin	F-7	n.a.	Human	Mouse mAb	Santa Cruz Biotechnology	sc-74456 	WB (?)	Abs box 5	B6		Fridge	NA	Kemmeren
+1043	CD45 APC-R700	HI30	APC-R700	Human	Mouse IgG1, k 	Biolegend	304023	1:2000	Abs box 3	A4		Fridge	NA	Kemmeren
+1044	CD4 APC/Cy7	SK3	APC/Cy7	Human 	Mouse IgG1, κ	BioLegend	344616		Abs box 1	B8		Fridge	NA	Kemmeren
+1045	FLAG (M2)	M2		Human	mouse monoclonal	Sigma	F1804	1:1000	Abs freezer box 1	NA		Freezer	WB	Kemmeren
+1046	CD4 PE/Cy7	OKT4	PE/Cy7	Human	Mouse BALB/c IgG1, κ	Biolegend	317413	1:500	Abs box 1	B5	YES	Fridge	NA	Drost
+1047	CD56 BB700	NCAM16.2	BB700	Human	Mouse BALB/c IgG2b, κ	BD Bioscience	566574	1:500	Abs box 3	B6	YES	Fridge	NA	Drost
+1048	CD30 PE 	BY88	PE	Human	Mouse IgG1 k	BioLegend	333906		Abs box 2	C7	YES	Fridge	NA	Drost
+1049	XPC			Human	rabbit Ab	Cell Signaling Technology	12701S	1:2500	Abs freezer box 1	NA		Freezer	WB	Drost
+1050	CD45RA BV605	HI100	BV605	Human	Mouse IgG2b, kappaa	Biolegend	304133		Abs box 3	B1		Fridge	NA	Drost
+1051	ATR			Human	rabbit polyclonal	Abcam	ab2905		Abs freezer box 1	NA		Freezer	WB	Drost
+1052	CD45 PerCP/Cy5.5	HI30	PerCP/Cy5.5	Human	mouse IgG1 kappa	BioLegend	304027		Abs box 3	A8	YES	Fridge	NA	Drost
+1053	CD40 PE/Cy7	5C3	PE/Cy7	Human	mouse IgG1 kappa	BioLegend	334321		Abs box 2	D8		Fridge	NA	Drost
+1054	Anti-phopho-histone H3 (Ser10)	n.a.	n.a.	Human	n.a.	EMD Millipore	06-570		Abs box 5	D8	YES	Fridge	NA	Drost
+1055	CD19 APC	HIB19	APC	Human	mouse IgG1 kappa	BioLegend	302211		Abs box 2	B4		Fridge	NA	Drost
+1056	CD8a AF700	HIT8a	AF700	Human	Mouse IgG1, κ	Biolegend	300920		Abs box 1	D1		Fridge	NA	Drost
+1057	CD44 PE	?	PE	Human	?	Miltenyi	130095180		Abs box 3	A3		Fridge	NA	Drost
+1058	CD201/EPCR APC	RCR-401	APC	Human	Rat IgG1, Kappa	BioLegend	351905	1:50	Abs box 4	A4	YES	Fridge	NA	Drost
+1059	Annexin V/FITC	n.a.	FITC	Human	n.a.	Invitrogen	BMS306F1-100	FACS	Abs box 5	A4		Fridge	NA	Drost
+1060	TCR Vg9 APC/Fire 750	B3	APC Fire750 	Human	Mouse IgG1, κ	BioLegend 	331315		Abs box 4	C6		Fridge	NA	Drost
+1061	CD1a PE	HI149	PE	Human	Mouse IgG1, k 	Biolegend	300105	1:1000	Abs box 1	A1		Fridge	NA	Drost
+1062	anti-mouse IgG IRDye 680RD	n.a.	IRDye 680CW	Mouse	goat	LI-COR	925-68070	WB (1:10000)	Abs box 5	B2		Fridge	NA	Drost
+1063	CD11b APC/Cy7	ICRF44	APC/Cy7	Human	mouse IgG1 kappa	BioLegend	301341		Abs box 1	D6	YES (2x)	Fridge	NA	Drost
+1064	CD54	HCD54	None	Human	Mouse	Biolegend	322702	Interaction blocking	Abs box 5	C3	YES 	Fridge	NA	Drost
+1065	CD117 BV421	YB5.B8	BV421	Human	Mouse IgG1, k 	BD Bioscience	562434	1:50	Abs box 3	D3		Fridge	NA	Drost
+1066	CD56 BV711	HCD56	Brilliant Violet 711	Human	mouse IgG1 kappa	BioLegend	318335		Abs box 3	B4	YES	Fridge	NA	Drost
+1067	CD45 AF700	HI30	Alexa Fluor 700	Human	mouse IgG1 kappa	BioLegend	304023		Abs box 3	A6	YES	Fridge	NA	Drost
+1068	TCR Vd2 PE	B6 	PE	Human	Mouse IgG1, κ	BioLegend	331407		Abs box 4	C5		Fridge	NA	Drost
+1069	TK1	EPR3193		Human	rabbit mAb	Abcam	ab76495	1:10000	Abs freezer box 1	NA		Freezer	WB	Drost
+1070	CD43 BV421	1G10	Brillian Violet 421	Human	Mouse IgG1, κ	BD Biosciences	562916		Abs box 3	A1		Fridge	NA	Drost
+1071	anti-rabbit IgG IRDye 800CW	n.a.	IRDye 800CW	Rabbit	goat	LI-COR	925-32211	WB (1:10000)	Abs box 5	A8		Fridge	NA	Drost
+1072	HPRT			Human	rabbit polyclonal	Abcam	ab10479	1:2000	Abs freezer box 1	NA		Freezer	WB	Drost
+1073	CD117 BUV395	YB5.B8	BUV395	Human	Mouse BALB/c IgG1	BD Bioscience	745740	1:200	Abs box 3	D5		Fridge	NA	Drost
+1074	CD8a PE/Cy5	HIT8a	PE Cy5	Human	Mouse IgG1, κ	Biolegend	300909		Abs box 1	C9		Fridge	NA	Drost
+1075	CD14 PE CF594	MphiP9	PE CF594	Human	?	BD Biosciences	562334		Abs box 2	A5		Fridge	NA	Drost
+1076	CD34 PE 	561	PE	Human	mouse IgG2a kappa	BioLegend	343605		Abs box 2	D4		Fridge	NA	Drost
+1077	7-AAD	n.a.	n.a.	Human	n.a.	Invitrogen	00-6993-50	FACS	Abs box 5	A10	YES	Fridge	NA	Drost
+1078	APOBEC3A			Human	rabbit polyclonal	Sigma	HPA043237-100UL		Abs freezer box 1	NA		Freezer	WB	Drost
+1079	CD3 FITC	OKT3	FITC	Human	mouse IgG2a kappa	Biolegend	317306	1:100	Abs box 1	A5		Fridge	NA	Drost
+1080	CD13 APC	WM15	APC	Human	mouse IgG1 kappa	BioLegend	301705		Abs box 1	E3		Fridge	NA	Drost
+1081	Ig kappa light chain PECy7	MHK-49	Pe-Cy7	Human	Mouse IgG1, κ	BioLegend	316520	FACS	Abs box 5	E4		Fridge	NA	Drost
+1082	ATM [Y170]			Human	rabbit monoclonal	Abcam	ab32420		Abs freezer box 1	NA		Freezer	WB	Drost
+1083	CD19 BV785	HIB19	BV785	Human	mouse IgG1 kappa	BioLegend	302239		Abs box 2	B7		Fridge	NA	Drost
+1084	CENPH antibody			Human		Sigma	HPA036494		Abs freezer box 2	NA		Freezer	WB/IF	Drost
+1085	CD326 (EpCAM) Pe/Cy7	9C4	Pe-Cy7	Human	Mouse IgG2b, κ	Biolegend	324221	FACS	Abs box 5	D3		Fridge	NA	Drost
+1086	CD11c APC	3.9	APC	Human	mouse IgG1 kappa	Company	301614		Abs box 1	D9		Fridge	NA	Drost
+1087	CD11b BV785	ICRF44	BV785	Human	Mouse IgG1, κ	Biolegend	301345		Abs box 1	D5		Fridge	NA	Drost
+1088	CD3 BV711	UCHT1	Brilliant Violet 711	Human	Mouse IgG1, κ	Biolegend	300463		Abs box 1	A9		Fridge	NA	Drost
+1089	CD11c PECy7	B-ly6	PE-Cy7	Human	Mouse BALB/c IgG1, κ	BD Pharmingen	561356		Abs box 1	E2		Fridge	NA	Drost
+1090	Ghost Dye Red 780			Mammalian cells		Tonbo biosciences	13-0865	1:2000(see tube)	Abs freezer box 2	NA		Freezer	FACS	Drost
+1091	TCR Vd1 FITC	TS8.2	FITC	Human	Mouse IgG1	ThermoFisher	TCR2730		Abs box 4	C3		Fridge	NA	Drost
+1092	CD14 AF700	HCD14	Alexa Fluor 700	Human	mouse IgG1 kappa	BioLegend	325614	1:100	Abs box 2	A2	YES	Fridge	NA	Drost
+1093	CD16 APC	3G8	APC	Human	mouse IgG1 kappa	BioLegend	302012		Abs box 2	B1		Fridge	NA	Drost
+1094	CD117 Pe/Cy7	104D2	PE/Cy7	Human	mouse IgG1 kappa	BioLegend	313211	1:20	Abs box 3	D2		Fridge	NA	Drost
+1095	CD44 BV510	IM7	BV510	Human	Rat IgG2b, k 	Biolegend	103044		Abs box 3	A2		Fridge	NA	Drost
+1096	MSH2	D24B5		Human	rabbit mAb	Cell Signaling Technology	2017S	1:2000	Abs freezer box 1	NA		Freezer	WB	Drost
+1097	CD123 BUV395	7G3	BUV395	Human	Mouse IgG2a, κ	BD Bioscience	564195		Abs box 3	D7		Fridge	NA	Drost
+1098	DAPI 500 uM	n.a.	n.a.	Human	n.a.	Thermo	D3571	All (IF 1:2000, FACS 1:500)	Abs box 5	D7		Fridge	NA	Drost
+1099	CD19 BV421	HIB19	BV421	Human	Mouse IgG1	BioLegend	302233		Abs box 2	B8		Fridge	NA	Drost
+1100	CD15 (SSEA-1) FITC	HI98	FITC	Human	mouse IgM kappa	BioLegend	301903		Abs box 2	A6	YES	Fridge	NA	Drost
+1101	TCRgd APC/Fire 750	B1	APC/Fire 750	Human	Mouse IgG1, κ	BioLegend	331227		Abs box 4	C1		Fridge	NA	Drost
+1102	CD127 AF488	HIL-7R-M21	AF488	Human	Mouse IgG1, κ	BD Pharmingen	567403		Abs box 3	E1		Fridge	NA	Drost
+1103	CD15 (SSEA-1) PE	HI98	PE	Human	Mouse IgM kappa	Biolegend	301905	1:50 (Inge: 1:20)	Abs box 2	A7		Fridge	NA	Drost
+1104	HLA-DR BUV805	G46-6	BUV805	Human	?	BD Bioscience	568335		Abs box 4	B6		Fridge	NA	Drost
+1105	CD41 BV510	HIP8	BV510	Human	Mouse IgG1, kappa	BioLegend	303735		Abs box 2	E1		Fridge	NA	Drost
+1106	RUNX1			Human	rabbit Ab	Cell Signaling Technology	4334S		Abs freezer box 1	NA		Freezer	WB	Drost
+1107	CD40 AF700	5C3	Alexa Fluor 700	Human	mouse IgG1 kappa	BioLegend	334327	1:50	Abs box 2	D7		Fridge	NA	Drost
+1108	FLAG (M2)	M2		Human	mouse monoclonal	Sigma	F1804	1:1000	Abs freezer box 1	NA		Freezer	WB	Drost
+1109	Geminin	F-7	n.a.	Human	Mouse mAb	Santa Cruz Biotechnology	sc-74456 	WB (?)	Abs box 5	B6		Fridge	NA	Drost
+1110	CD2	RPA-2.10	None	Human	Mouse	Biolegend	300202	Interaction blocking	Abs box 5	C2	YES	Fridge	NA	Drost
+1111	HLA-DR FITC	L243	FITC	Human	Mouse IgG2a kappa 	Biolegend	307603	1:20	Abs box 4	B4	Yes	Fridge	NA	Drost
+1112	CD41 APC/Fire750	HIP8	APC/Fire750	Human	Mouse IgG, kappa	Biolegend	303749		Abs box 2	E2		Fridge	NA	Drost
+1113	CD45 FITC	HI30	FITC	Human	mouse IgG1 kappa	BioLegend	304005	1:50	Abs box 3	A7		Fridge	NA	Drost
+1114	AnnexinV APC	n.a.	APC	Human	n.a.	Biolegend	640941	FACS	Abs box 5	D4		Fridge	NA	Drost
+1115	CD90 FITC	5E10	FITC	Human	?	BioLegend	328107		Abs box 3	C6		Fridge	NA	Drost
+1116	HA-Tag 	C29F4		Human	rabbit mAb	Cell Signaling Technology	3724S		Abs freezer box 1	NA		Freezer	WB	Drost
+1117	CD45 BV421	HI30	BV421	Human	Mouse IgG1, κ	Biolegend 	304031		Abs box 3	A9	YES	Fridge	NA	Drost
+1118	CD163 APC	GHI61	APC	Human	Mouse IgG1, k	BioLegend	333609		Abs box 4	A3		Fridge	NA	Drost
+1119	CD7 APC	CD7-6B7	APC	Human	mouse IgG2a kappa	BD Bioscience	343107		Abs box 1	C2		Fridge	NA	Drost
+1120	CD14 BV750	63D3	BV750	Human	Mouse IgG1, k	BioLegend	367135		Abs box 2	A4		Fridge	NA	Drost
+1121	CD30 APC	BY88	APC	Human	mouse IgG1 kappa	BioLegend	333909	1:25	Abs box 2	C5		Fridge	NA	Drost
+1122	CD105 PE/Cy7	43A3	PE/Cy7	Human	mouse IgG1 kappa	BioLegend	323217		Abs box 3	C9	YES	Fridge	NA	Drost
+1123	CD3 APC/Fire750	SK7	APC/Fire750	Human	mouse IgG1 kappa	BioLegend	344839	1:100	Abs box 1	B1	YES	Fridge	NA	Drost
+1124	CHD-1			Human	rabbit polyclonal	Sigma	HPA022236-25ul	1:500 IF	Abs freezer box 2	NA		Freezer	WB/IF	Drost
+1125	Vybrant DyeCycle Violet Stain	n.a.	n.a.	Human	n.a.	Invitrogen	V35003	FACS	Abs box 5	E6		Fridge	NA	Drost
+1126	TCRab PE/Cy5	IP26	PE Cy5	Human	mouse IgG1 kappa	BioLegend	306710		Abs box 4	C8		Fridge	NA	Drost
+1127	CD16 PerCP/Cy5.5	3G8	PerCP/Cy5.5	Human	Mouse IgG1, k	BioLegend	302027		Abs box 2	B2		Fridge	NA	Drost
+1128	Lineage (CD3/14/19/20/56) FITC	n.a.	FITC	Human	mouse IgG1 + IgG2b kappa	BioLegend	348701	1:20	Abs box 4	A10	YES	Fridge	NA	Drost
+1129	CD249 BV650	2D3/APA	BV650	Human	Mouse BALB/c IgG1, κ	BD Bioscience	745361		Abs box 4	A8		Fridge	NA	Drost
+1130	FANCG			Human	monoclonal	Abnova	H00002189-M01		Abs freezer box 1	NA		Freezer	WB	Drost
+1131	CD5 APC	UCHT2	APC	Human	Mouse IgG1, κ	BioLegend	300611		Abs box 1	B10		Fridge	NA	Drost
+1132	RNASEH1			Human	rabbit polyclonal	Abcam	ab229078	1:1000 WB	Abs freezer box 2	NA		Freezer	WB	Drost
+1133	PMS2	EPR3947		Human	rabbit monoclonal	Abcam	ab110638		Abs freezer box 1	NA		Freezer	WB	Drost
+1134	CD7 BV786	MT701	Brilliant Violet 786	Human	Mouse BALB/c IgG1, κ	BD Bioscience	740964	1:500	Abs box 1	C3		Fridge	NA	Drost
+1135	CD45RA PerCP/Cy5.5	HI100	PerCP/Cy5.5	Human	mouse IgG2b kappa	BioLegend	304121	1:20	Abs box 3	B2		Fridge	NA	Drost
+1136	Claudin-3 PE	n.a.	PE	Human	Mouse IgG2A	R&D systems	FAB4620P	FACS	Abs box 5	D5		Fridge	NA	Drost
+1137	CD30 APC/Fire750	BY88	APC/Fire750	Human	Mouse IgG1, k	BioLegend	333915		Abs box 2	C6		Fridge	NA	Drost
+1138	CD34 BV421	581	Brilliant Violet 421	Human	mouse IgG2a kappa	BioLegend	343609	1:20	Abs box 2	D2	YES	Fridge	NA	Drost
+1139	CD56 BUV661	NCAM16.2	BUV661	Human	Mouse BALB/c IgG2b, κ	BD optibuild	750478		Abs box 3	B7		Fridge	NA	Drost
+1140	MLH3	H-2	n.a.	Human	Mouse mAb	Santa Cruz Biotechnology	sc-25313	WB (?)	Abs box 5	B7		Fridge	NA	Drost
+1141	CD117 BV605	YbB5.B8	BV5605	Human	Mouse IgG1, κ	BD Bioscience	745259		Abs box 3	D4		Fridge	NA	Drost
+1142	CD4 APC/Cy7	SK3	APC/Cy7	Human 	Mouse IgG1, κ	BioLegend	344616		Abs box 1	B8		Fridge	NA	Drost
+1143	Lineage (CD3/14/19/20/56) APC	n.a.	APC	Human	mouse IgG1 + IgG2b kappa	BioLegend	348803		Abs box 4	B1		Fridge	NA	Drost
+1144	FANCD2			Human	rabbit polyclonal	Novus Biologicals	NB100-182SS	1:500	Abs freezer box 1	NA		Freezer	WB/IF	Drost
+1145	CD25 BB515	2A3	BB515	Human	Mouse BALB/c IgG1, κ	BD Bioscience	564468	1:200	Abs box 2	C3		Fridge	NA	Drost
+1146	CD3 BV650	UCHT1	Brilliant Violet 650	Human	mouse IgG1 kappa	BioLegend	300467		Abs box 1	A7		Fridge	NA	Drost
+1147	CD8a BV711	RPA-T8	Brilliant Violet 711	Human	Mouse IgG1, κ	Biolegend	301043	1:500	Abs box 1	C7	YES	Fridge	NA	Drost
+1148	Anti-Phospho_Histone H2A.X	JBW301	n.a.	Human	Mouse mAb	Sigma/Merck	05-636	IF (1:1000)	Abs box 5	A9	YES	Fridge	NA	Drost
+1149	Anti-rabbit IgG AF488	n.a.	Alexa Fluor 488	Rabbit	Goat	invitrogen	2284595	IF	Abs box 5	A7		Fridge	NA	Drost
+1150	CD8a BV785	SK1	Brilliant Violet 785	Human	mouse IgG1 kappa	BioLegend	344739		Abs box 1	C5		Fridge	NA	Drost
+1151	CD265 (RANK) AF647	9A725	AF647	Human	IgG1, k 	BD Pharmigen	566348	FACS	Abs box 5	D2		Fridge	NA	Drost
+1152	CD45 APC-R700	HI30	APC-R700	Human	Mouse IgG1, k 	Biolegend	304023	1:2000	Abs box 3	A4		Fridge	NA	Drost
+1153	SMUG1			Human	rabbit polyclonal	Invitrogen	PA5-44258	1:1000	Abs freezer box 1	NA		Freezer	WB	Drost
+1154	Invariant NK/T BV480	6B11	Brilliant Violet 480	Human	Mouse C57BL/6 IgG1, κ	BD Bioscience	746788	FACS	Abs box 5	C9		Fridge	NA	Drost
+1155	CD45 PECy7	HI30	PECy7	Human	Mouse IgG, kappa	Biolegend	304015		Abs box 3	A10		Fridge	NA	Drost
+1156	CD56 AF488	B159	AF488	Human	Mouse IgG1, κ	BD Pharmigen	557699		Abs box 3	B5		Fridge	NA	Drost
+1157	mouse IgG FITC isotype control		FITC		mouse mAb	Merck	12-487		Abs freezer box 1	NA		Freezer	FACS	Drost
+1158	CD8a FITC	HIT8a	FITC	Human	Mouse IgG1, κ 	BioLegend	300906		Abs box 1	D2		Fridge	NA	Drost
+1159	RUNX1 antibody			Human	rabbit polyclonal	Abcam	ab35962		Abs freezer box 2	NA		Freezer	WB	Drost
+1160	CD117 PE/Dazzle 594	104D2	PE/Dazzle 594	Human	mouse IgG1 kappa	BioLegend	313225		Abs box 3	C10	YES	Fridge	NA	Drost
+1161	NSB1 (NBN)			Human	rabbit polyclonal	Invitrogen	711701		Abs freezer box 1	NA		Freezer	WB	Drost
+1162	CD25 PerCP-Cy5.5	M-A251	PerCP-Cy5.5	Human	Mouse BALB/c IgG1, κ	BD Pharmigen	560503		Abs box 2	C2		Fridge	NA	Drost
+1163	CD205 BV480	MMRI7	BV480	Human	?	BD Bioscience	746830		Abs box 4	A6		Fridge	NA	Drost
+1164	CD33 APC	WM53	APC	Human	mouse IgG1 kappa	BioLegend	303407	1:50	Abs box 2	C10	YES	Fridge	NA	Drost
+1165	CD127 BV421	HIL-7R-M21	BV421	Human	Mouse IgG1, kappa	BD Bioscience	562436		Abs box 3	D10		Fridge	NA	Drost
+1166	CD1a BV421	HI149	BV421	Human	Mouse IgG1, k 	Biolegend	300128		Abs box 1	A2		Fridge	NA	Drost
+1167	CD40 PE/Cy7	5C3	PE/Cy7	Human	mouse IgG1 kappa	BD Bioscience	561215		Abs box 2	D9		Fridge	NA	Drost
+1168	CD19 PE/Dazzle 594	HIB19	PE/Dazzle 594	Human	mouse IgG1 kappa	BioLegend	302251		Abs box 2	B6	YES (2x)	Fridge	NA	Drost
+1169	CD34 APC	561	APC	Human	mouse IgG2a kappa	BioLegend	343607		Abs box 2	D1	YES (2x)	Fridge	NA	Drost
+1170	CD11c BV605	3.9	BV605	Human	mouse IgG1 kappa	Biolegend	301635		Abs box 1	D10		Fridge	NA	Drost
+1171	CD1c APC	L161	APC	Human	mouse IgG1 kappa	Biolegend	331523		Abs box 1	A3		Fridge	NA	Drost
+1172	TCR Vg9 PE/Cy5	B3	PE Cy5	Human	Mouse IgG1, κ	BioLegend 	331323		Abs box 4	C7		Fridge	NA	Drost
+1173	FANCA	EPR16519		Human	rabbit monoclonal	Abcam	ab201457		Abs freezer box 1	NA		Freezer	WB	Drost
+1174	CD27 APCCy7	M-T271	APC/Cy7	Human	Mouse IgG1, κ	BioLegend	356423		Abs box 2	C4	YES	Fridge	NA	Drost
+1175	Streptavidin BUV661	n.a.	BUV661	Mouse	n.a.	BD BIoscience	565081	FACS	Abs box 5	C10		Fridge	NA	Drost
+1176	Streptactin-HRP	n.a.	HRP	Human	n.a.	Bio-Rad	161-0380	WB (1:10000)	Abs box 5	B5		Fridge	NA	Drost
+1177	CD20 PerCP	2H7		Human	Mouse IgG2b, kappaa	BioLegend	302323		Abs box 2	C1		Fridge	NA	Drost
+1178	H3K36me2	C75H12		human	rabbit monoclonal	Cell Signaling Technology	2901	1:1000	Abs freezer box 1	NA		Freezer	WB	Drost
+1179	POLI			Human	rabbit polyclonal	Novus biologicals	NB100-175	1:500 IF	Abs freezer box 2	NA		Freezer	WB/IF	Drost
+1180	BATF3	841702	PE	Human	Mouse	NovusBio	FAB7437P	FACS	Abs box 5	C8		Fridge	NA	Drost
+1181	CD3 AF700	Ucht1	AF700	Human	Mouse IgG1, k	Biolegend	300403		Abs box 1	B3	Yes	Fridge	NA	Drost
+1182	anti-mouse IgG AF647	n.a.	Alexa Fluor 647	Mouse	goat	Invitrogen	2272554	IF	Abs box 5	B8		Fridge	NA	Drost
+1183	Human TruStain FC block	n.a.	n.a.	Human	n.a.	Biolegend	422301	FACS	Abs box 5	A3		Fridge	NA	Drost
+1184	CD95 APC	DX2	APC	Human	mouse IgG1 kappa	BioLegend	305611		Abs box 3	C7		Fridge	NA	Drost
+1185	Hoechst 33342	n.a.	n.a.	Human	n.a.	Thermo Fischer 	H3570	IF 	Abs box 5	E5		Fridge	NA	Drost
+1186	CD5 BUV737	UCHT2	BUV737	Human	Mouse BALB/c IgG1, κ	BD Bioscience	564451	1:500	Abs box 1	B9		Fridge	NA	Drost
+1187	α-Tubulin	B-5-1-2		Human	mouse mAb	Sigma	T5168-2ML	1:5000	Abs freezer box 1	NA		Freezer	WB	Drost
+1188	CD20 BV421	2H7	Brilliant Violet 421	Human	mouse IgG2b kappa	BioLegend	302329	1: 50	Abs box 2	B10	YES	Fridge	NA	Drost
+1189	CD123 APC Fire 750	6H6	APC Fire 750	Human	Mouse IgG1 k 	BioLegend	306041		Abs box 3	D9		Fridge	NA	Drost
+1190	TCRgd APC	B1	APC	Human	Mouse IgG1, κ	BD Bioscience	561049		Abs box 4	B10	YES	Fridge	NA	Drost
+1191	TCR Vg9 APC	B3	APC	Human	Mouse IgG1, κ	Biolegend	331309		Abs box 4	C9		Fridge	NA	Drost
+1192	aliquot CD45 BV510		Brilliant Violet 510						Abs box 5	E2		Fridge	NA	Drost
+1193	MGMT	MT 3.1	n.a.	Human	Mouse mAb IgG1 κ 	Invitrogen	MA5-13506	WB (1:500)	Abs box 5	B4		Fridge	NA	Drost
+1194	anti-mouse IgG AF488	n.a.	Alexa Fluor 488	Mouse	Goat / IgG	invitrogen	2220848	IF	Abs box 5	B1		Fridge	NA	Drost
+1195	MCM8			Human	rabbit polyclonal	Proteintech	16451-1-AP	1:1000?	Abs freezer box 2	NA		Freezer	WB	Drost
+1196	CD5 PE	UCHT2	PE	Human	Mouse IgG1, κ 	BioLegend	300608		Abs box 1	C1		Fridge	NA	Drost
+1197	Lamin A + C Antibody 	133A2	AF700	Human	Mouse mAb	NovusBio	NBP1-97688AF700	FACS	Abs box 5	C7		Fridge	NA	Drost
+1198	CD15 BV711	W6D3	BV711	Human	?	BD Bioscience	563142		Abs box 2	A8		Fridge	NA	Drost
+1199	RPA32/RPA2	9H8		Human	mouse monoclonal	Abcam	ab2175		Abs freezer box 2	NA		Freezer	WB/IF	Drost
+1200	POLH	B-7	n.a.	Human	Mouse mAb IgG1 κ 	Santa Cruz Biotechnology	sc-17770	WB (?)	Abs box 5	C1		Fridge	NA	Drost
+1201	CD42b PE	HIP1	PE	Human	mouse IgG1 kappa	BioLegend	303905	1:20	Abs box 2	E3	YES	Fridge	NA	Drost
+1202	CD11b APC	ICRF44	APC	Human	mouse IgG1 kappa	Biolegend	301309		Abs box 1	D7		Fridge	NA	Drost
+1203	CCRL1 BV711	13E11	Brilliant Violet 711	Human	Mouse BALB/c IgG2b, κ	BD Bioscience	747803		Abs box 4	C10		Fridge	NA	Drost
+1204	OGG1	EPR4664(2)		Human	rabbit mAb	Abcam	ab124741	1:10000	Abs freezer box 1	NA		Freezer	WB	Drost
+1205	S100A4 PerCP-Cy5.5	NJ04F3-D1	PerCP-Cy5.5	Human	n.a.	Biolegend	370009	FACS (intracellular)	Abs box 5	D6		Fridge	NA	Drost
+1206	UNG	OTI1A11		Human	mouse IgG1	Invitrogen	MA5-25680	1:2500	Abs freezer box 1	NA		Freezer	WB	Drost
+1207	CD11c FITC	3.9	FITC	Human	Mouse IgG1, kappa	BioLegend	301604		Abs box 1	D8	YES	Fridge	NA	Drost
+1208	CD3 BV711	UCHT1	BV711	Human	Mouse IgG1, kappa	BioLegend	300463		Abs box 1	A4		Fridge	NA	Drost
+1209	CD34 PE/Dazzle 594	581	PE/Dazzle 594	Human	mouse IgG1 kappa	BioLegend	343533		Abs box 2	D3	YES	Fridge	NA	Drost
+1210	CD73 BV421	AD2	Brilliant Violet 421	Human	mouse IgG1 kappa	BioLegend	344007		Abs box 3	C2		Fridge	NA	Drost
+1211	TDG			Human	rabbit polyclonal	abcam	ab227498		Abs freezer box 1	NA		Freezer	WB	Drost
+1212	Streptavidin BV711	n.a.	Brilliant Violet 711	Human	n.a.	BioLegend	405241	FACS	Abs box 5	D1		Fridge	NA	Drost
+1213	CD11c BUV661	B-ly6	BUV661	Human	Mouse BALB/c IgG1, κ	BD Bioscience	565067/612968	1:200	Abs box 1	E1	YES	Fridge	NA	Drost
+1214	TCR Vd1 FITC	REA173	FITC	Human		Miltenyi	130-118-498		Abs box 4	C4		Fridge	NA	Drost
+1215	MPG	EPR10959(B)		Human	rabbit mAb	Abcam	ab155092	1:10000	Abs freezer box 1	NA		Freezer	WB	Drost
+1216	anti-mouse IgG HRP	n.a.	HRP	Mouse	sheep		NXA931V	WB (1:5000)	Abs box 5	E1		Fridge	NA	Drost
+1217	CD45 APC	2D1	APC	Human	mouse IgG1 kappa	BioLegend	368511	1:20	Abs box 3	A5	YES	Fridge	NA	Drost
+1218	Phospho RPA32 antibody	n.a.	n.a.	Human, Mouse	Rabbit polyclonal	Bethyl	A300-245A-M	WB + IF	Abs box 5	B10		Fridge	NA	Drost
+1219	SETD3 antibody			Human		Sigma	HPA003591		Abs freezer box 2	NA		Freezer	WB/IF	Drost
+1220	CD58	TS2/9	None	Human	Mouse	Biolegend	330902	Interaction blocking	Abs box 5	C4	YES (2x) 	Fridge	NA	Drost
+1221	CD3 PE-Cy7	SK7	PE-Cy7	Human	mouse IgG1 kappa	BioLegend	344815		Abs box 1	A6	YES	Fridge	NA	Drost
+1222	Cd34 Pe Cy7	581	PE Cy7	Human	?	BD Bioscience	561819		Abs box 2	D5		Fridge	NA	Drost
+1223	BLM			Human	rabbit polyclonal	Abcam	ab2179		Abs freezer box 1	NA		Freezer	WB	Drost
+1224	CD20 FITC	2H7	FITC	Human	mouse IgG2b kappa	BioLegend	302303	1:50	Abs box 2	B9	YES	Fridge	NA	Drost
+1225	HLA-DR BUV737	G46-6	BUV737	Human	Mouse IgG2a, κ	BD Bioscience	748339		Abs box 4	B3		Fridge	NA	Drost
+1226	CD7 PECy7	MT701	PE/Cy7	Human	Mouse BALB/c IgG1, κ	BD Pharmingen	564019		Abs box 1	C4		Fridge	NA	Drost
+1227	LFA-1 (CD11a/CD18)	M24	None	Human	Mouse mAb	Biolegend	363402	Interaction blocking	Abs box 5	C5	YES	Fridge	NA	Drost
+1228	CD8a APC/Cy7	HIT8a	APC/Cy7	Human	Mouse IgG1, κ	Biolegend	300925		Abs box 1	C10		Fridge	NA	Drost
+1229	TCRgd APC	11F2	APC	Human	Mouse IgG1, k 	Miltenyi	130-113-500		Abs box 4	B9		Fridge	NA	Drost
+1230	CD117 APC 	YB5.B8	APC	Human	mouse IgG1 kappa	BD Pharmingen	561118		Abs box 3	D1	YES	Fridge	NA	Drost
+1231	SF3B1	D7L5T		Human	Rabbit mAb	Cell Signaling Technology	14434S	1:1000 WB	Abs freezer box 2	NA		Freezer	WB (+FACS?)	Drost
+1232	TCRab APC	T10B9.1A-31	APC	Human	Mouse IgG1, κ	BD Bioscience	563821		Abs box 4	B7		Fridge	NA	Drost
+1233	anti-rabbit IgG AF647	Poly4064	Alexa Fluor 647	Rabbit	donkey polyclonal	BioLegend	406414	FACS	Abs box 5	A6		Fridge	NA	Drost
+1234	CD144 BV421	55-7H1	BV421	Human	Mouse IgG1, κ	BD Horizon	565670		Abs box 4	A2		Fridge	NA	Drost
+1235	CD31 BV605	L133.1	BV605	Human	Mouse IgG1, κ	BD Bioscience	745119		Abs box 2	C8	YES	Fridge	NA	Drost
+1236	TCRab FITC	IP26	FITC	Human	Mouse IgG1, κ	Biolegend 	306705		Abs box 4	B8		Fridge	NA	Drost
+1237	p95/NBS1 (Y112)			Human	rabbit monoclonal	Abcam	ab32074		Abs freezer box 1	NA		Freezer	WB	Drost
+1238	CD42b APC Vio770	?	APC Vio770	Human	?	Milteny Biotec	130100202		Abs box 2	E4		Fridge	NA	Drost
+1239	CD8a BV421	RPA-T8	BV421	Human	Mouse IgG1, κ	Biolegend	301036		Abs box 1	C8		Fridge	NA	Drost
+1240	CD14 PE	63D3	PE	Human	mouse IgG1 kappa	BioLegend	367103		Abs box 2	A1	YES	Fridge	NA	Drost
+1241	CD49f PE/Cy7	GoH3	PE/Cy7	Human	rat IgG1a kappa	BioLegend	313621	1:100	Abs box 3	B3	YES	Fridge	NA	Drost
+1242	CD8a BV650	RPA-T8	Brilliant Violet 650	Human	Mouse IgG1, κ	BD Bioscience	563821		Abs box 1	C6		Fridge	NA	Drost
+1243	CD271 APC	ME20.4	APC	Human	mouse IgG1 kappa	BioLegend	345107		Abs box 4	A9	YES	Fridge	NA	Drost
+1244	CD141 APC	M80	APC	Human	Mouse IgG1 k	BioLegend	344105		Abs box 4	A1		Fridge	NA	Drost
+1245	CD64 FITC	10.1	FITC	Human	Mouse IgG1, k	BioLegend	305005		Abs box 3	B9	YES (2x)	Fridge	NA	Drost
+1246	CD66b PE/Dazzle 594	G10F5	PE/Dazzle 594	Human	mouse IgM kappa	BioLegend	305121		Abs box 3	B10	YES	Fridge	NA	Drost
+1247	MSH3			human	rabbit polyclonal	Abcam	ab69619		Abs freezer box 1	NA		Freezer	WB	Drost
+1248	Ig lambda light chain AF700	MHL-38	AF700	Human	Mouse IgG2a, κ	BioLegend	316631	FACS	Abs box 5	E3		Fridge	NA	Drost
+1249	CD66b FITC	G10F5	FITC	Human	mouse IgM kappa	BioLegend	305103		Abs box 3	C1		Fridge	NA	Drost
+1250	CD19 AF700	HIB19	Alexa Fluor 700	Human	mouse IgG1 kappa	bioLegend	302225		Abs box 2	B5		Fridge	NA	Drost
+1251	anti-rabbit IgG AF594	n.a.	Alexa Fluor 594	rabbit	goat	invitrogen	2165334	IF	Abs box 5	A5		Fridge	NA	Drost
+1252	CD10PE/CY5	H10a	PE Cy5	Human	mouse IgG1 kappa	Biolegend	312206		Abs box 1	D4		Fridge	NA	Drost
+1253	CD123 BV605	6H6	Brilliant Violet 605	Human	mouse IgG1 kappa	BioLegend	306025		Abs box 3	D6	YES	Fridge	NA	Drost
+1254	CD3 BUV496	UCHT1	BUV496	Human	Mouse BALB/c IgG1, κ	BD Bioscience	564810	1:500	Abs box 1	B2	YES	Fridge	NA	Drost
